@@ -68,5 +68,9 @@ exclude:
   - README.md
   - CNAME
 
-# Remote theme
-remote_theme: "Phlow/feeling-responsive"
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-remote-theme
+
+remote_theme: "melvinchng/business-jekyll-theme"
