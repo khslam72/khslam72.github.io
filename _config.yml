@@ -83,3 +83,4 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+remote_theme: "Phlow/feeling-responsive" 
