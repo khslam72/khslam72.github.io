@@ -1,22 +1,18 @@
 
-tag:blogger.com,1999:blog-7381712316425340751.post-659286398973112758
-POST
-LIVE
-
-KH Lee | K-Contents Curator
-
-BLOGGER
-
-Dayoung "body" MV Explained: Lyrics, Story, and Behind the Scenes
-
- <div aria-level="1" role="heading" style="font-size: 28px; font-weight: 800; margin: 0px 0px 8px; text-align: left;"><br /></div>
+---
+layout: post
+title: "Dayoung \"body\" MV Explained: Lyrics, Story, and Behind the Scenes"
+date: 2025-09-28 01:47:03 +0900
+categories: [K-POP, MV Explained, Artist]
+tags: Dayoung, body, gonna love me right, WJSN, Starship Entertainment, 솔로 데뷔, 자기애
+---
 
  <p style="margin: 8px 0px 16px;">
  A scene-by-scene guide to "body" by WJSN's Dayoung—story, lyric meaning, and behind-the-scenes insights from her highly anticipated solo debut.
  </p>
 
  <div style="margin: 16px auto; max-width: 100%; text-align: center;">
- <img alt="WJSN Dayoung &quot;body&quot; official MV thumbnail by Starship Entertainment" height="900" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZ7KATqE0lkNjx0sUdYdMY1he1f3PljOf5yAhsNLwahcwPo2Qn0SdqENMetGlK2xDFAWDd5eA1t6IwZeJIhj71rh1OOQTu7S1wF1HvfIyFyGqBxlT5AXQsPKhMLnJUoUX8\_b\_NokEXh2vMwLgIGq4gzXs9xn5cUYzXPbzQdc\_MYO9VyShDrjrVWZKRcWxI/s1600/WJSN%20Dayoung%20body%20official%20MV%20thumbnail%20from%20gonna%20love%20me%20right%20by%20Starship%20Entertainment.jpg" style="border-radius: 12px; display: block; height: auto; width: 100%;" width="1600" />
+ <img alt="WJSN Dayoung &quot;body&quot; official MV thumbnail by Starship Entertainment" height="900" src="{{ site.baseurl }}/images/dayoung-body-thumbnail.jpg" style="border-radius: 12px; display: block; height: auto; width: 100%;" width="1600" />
  <p style="color: #666666; font-size: 0.85em; margin-top: 6px;">Source: Official StarshipTV YouTube (© Starship Entertainment)</p>
  </div>
 
@@ -162,22 +158,9 @@ Dayoung "body" MV Explained: Lyrics, Story, and Behind the Scenes
  }
  </script>
 
- <section style="margin: 16px 0px;">
- <h2 style="color: red; margin: 0px 0px 8px;"><br /></h2></section>
-
 From WJSN to a solo rockstar: Explore the 'gonna love me, right?' MV and discover how Dayoung poured her heart into this new chapter.
-2025-09-14T10:11:55.412Z
-2025-09-14T11:27:00Z
-2025-09-18T01:47:03.539Z
 
 
-
-
-
-
-
-
-/2025/09/dayoungs-solo-debut-deep-dive-into-body.html
 
 
 
