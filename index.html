@@ -1,18 +1,23 @@
 ---
-layout: default
+layout: page
+title: "Blog Posts"
+permalink: /index.html 
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
+<div class="row">
+  <div class="small-12 columns">
+    {% for post in site.posts limit: 10 %}
+      <article class="post">
+        <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+        <p class="post-meta">{{ post.date | date: "%B %d, %Y" }}</p>
+        
+        {{ post.excerpt }} 
+        
+        {% if post.content != post.excerpt %}
+          <a href="{{ site.baseurl }}{{ post.url }}" class="button small radius">Read More</a>
+        {% endif %}
+      </article>
+      <hr>
+    {% endfor %}
+    </div>
 </div>
