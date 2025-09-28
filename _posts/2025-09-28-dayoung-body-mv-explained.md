@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Dayoung \"body\" MV Explained: Lyrics, Story, and Behind the Scenes"
@@ -6,8 +5,7 @@ date: 2025-09-28 01:47:03 +0900
 categories: [K-POP, MV Explained, Artist]
 tags: Dayoung, body, gonna love me right, WJSN, Starship Entertainment, 솔로 데뷔, 자기애
 ---
-
- <p style="margin: 8px 0px 16px;">
+<p style="margin: 8px 0px 16px;">
  A scene-by-scene guide to "body" by WJSN's Dayoung—story, lyric meaning, and behind-the-scenes insights from her highly anticipated solo debut.
  </p>
 
@@ -159,8 +157,3 @@ tags: Dayoung, body, gonna love me right, WJSN, Starship Entertainment, 솔로 �
  </script>
 
 From WJSN to a solo rockstar: Explore the 'gonna love me, right?' MV and discover how Dayoung poured her heart into this new chapter.
-
-
-
-
-
