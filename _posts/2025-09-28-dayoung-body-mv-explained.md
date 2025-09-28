@@ -12,7 +12,7 @@ tags: Dayoung, body, gonna love me right, WJSN, Starship Entertainment, 솔로 �
  </p>
 
  <div style="margin: 16px auto; max-width: 100%; text-align: center;">
- <img alt="WJSN Dayoung &quot;body&quot; official MV thumbnail by Starship Entertainment" height="900" src="{{ site.baseurl }}/images/dayoung-body-thumbnail.jpg" style="border-radius: 12px; display: block; height: auto; width: 100%;" width="1600" />
+ <img alt="WJSN Dayoung body official MV thumbnail by Starship Entertainment" height="900" src="{{ site.baseurl }}/images/WJSN%20Dayoung%20body%20official%20MV%20thumbnail%20from%20go.jpg" style="border-radius: 12px; display: block; height: auto; width: 100%;" width="1600" />
  <p style="color: #666666; font-size: 0.85em; margin-top: 6px;">Source: Official StarshipTV YouTube (© Starship Entertainment)</p>
  </div>
 
