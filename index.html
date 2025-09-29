@@ -2,13 +2,5 @@
 layout: default
 ---
 
-<div>
-  {% for post in site.posts %}
-    <article class="post">
-      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-      <p>{{ post.date | date: "%B %d, %Y" }}</p>
-      {{ post.excerpt }}
-      <hr>
-    </article>
-  {% endfor %}
-</div>
+<h1>인덱스 파일 테스트</h1>
+<p>이 페이지가 정상적으로 보인다면, 진짜 원인은 index.html이 아니라 _posts 폴더 안의 파일입니다.</p>
