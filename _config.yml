@@ -1,12 +1,43 @@
 name: K-Contents Hub
 description: K-Contents Hub shares K-POP, and Korean culture in English for global fans.
 
+avatar: /images/site%20icon.png
+
+footer-links:
+  github: barryclark/jekyll-now
+  twitter: jekyllrb
+  rss:
+
+disqus:
+google_analytics:
+
 url: "https://kcontents.site"
 baseurl: ""
 
-remote_theme: pages-themes/cayman@v0.2.0
+permalink: /:title/
 
+version: v1.2.0
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+
+sass:
+  style: :expanded
+
+# jekyll-remote-theme를 여기서 제거합니다.
 plugins:
-  - jekyll-remote-theme
   - jekyll-sitemap
   - jekyll-feed
+
+# 이 부분은 그대로 둡니다.
+theme: jekyll-theme-cayman
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
