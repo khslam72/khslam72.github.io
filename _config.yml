@@ -1,5 +1,5 @@
 # 테마와 플러그인 설정
-theme: jekyll-theme-merlot
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-remote-theme
 
