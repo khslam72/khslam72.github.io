@@ -13,12 +13,8 @@ tags:
 - Agency: SM Entertainment
 - 2025 K-Pop
 ---
-<div align="center">
-  <P style color: #00aaff;">aespa – “Rich Man” MV Explained: I Am What I Am</p>
-</div>
-***
-
-*"Mom, I already have everything.”* This single statement is aespa's newest declaration. The **'Rich Man'** music video defines a new kind of "wealth"—**self-confidence and self-love**—and expands aespa’s universe with bold statements. Let's dive deep into the message and attitude hidden beneath the luxurious visuals.
+<p style="margin: 8px 0px 16px;">
+*"Mom, I already have everything.”* This single statement is aespa's newest declaration. The **'Rich Man'** music video defines a new kind of "wealth"—**self-confidence and self-love**—and expands aespa’s universe with bold statements. Let's dive deep into the message and attitude hidden beneath the luxurious visuals.</p>
 
 ---
 <div align="center">

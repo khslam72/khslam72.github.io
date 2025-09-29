@@ -12,12 +12,8 @@ tags:
 - Agency: KOZ Entertainment
 - 2024 K-Pop
 ---
-<div align="center">
-  <p style="margin: 8px 0px 16px;color: #00aaff;">BOYNEXTDOOR – “Earth, Wind & Fire” MV Explained: Love as a Weather Report (With Zero Chill)</p>
-</div>
-***
-
-*The MV turns first love into a literal forecast: gusty emotions, blazing confessions, and surreal scenery flying past like loose umbrellas—cute, chaotic, and very BOYNEXTDOOR.*
+<p style="margin: 8px 0px 16px;">
+*The MV turns first love into a literal forecast: gusty emotions, blazing confessions, and surreal scenery flying past like loose umbrellas—cute, chaotic, and very BOYNEXTDOOR.*</p>
 
 ---
 <details open>

@@ -1,15 +1,26 @@
 ---
-title: "IU's 'Love wins all' (feat. V) Explained: A Dystopian Fight for Love"
-description: "A deep-dive MV Explained guide for IU's 'Love wins all.' We analyze the cinematic dystopian story, the symbolic meaning of the cube and camcorder, and the powerful message of love against discrimination, featuring V of BTS."
-category: K-POP MV Explained
-tags:  - K-POP MV Explained, IU Love wins all, Love wins all Meaning, K-Pop Analysis, Artist: IU, V BTS, Uhm Tae-hwa, Song: Love wins all, Agency: EDAM Entertainment, 2024 K-Pop
+layout: post
+title: "IU’s ‘Love wins all’ (feat. V) Explained: A Dystopian Fight for Love"
+description: "MV Explained: IU’s ‘Love wins all’—cube & camcorder symbolism, dystopian love vs. discrimination, featuring BTS’s V."
+categories:
+  - K-POP MV Explained
+tags:
+  - "K-POP MV Explained"
+  - "IU"
+  - "Love wins all"
+  - "Love wins all Meaning"
+  - "K-Pop Analysis"
+  - "Artist: IU"
+  - "V (BTS)"
+  - "Director: Uhm Tae-hwa"
+  - "Song: Love wins all"
+  - "Agency: EDAM Entertainment"
+  - "2024 K-Pop"
 ---
-<div align="center">
-<p style="margin: 8px 0px 16px;">IU – “Love wins all” MV Explained: A Love That Defies a Ruined World</p>
-</div>
-***
 
-*In a world reduced to ruins, can love survive? IU’s cinematic masterpiece, **"Love wins all,"** answers with a resounding, heartbreaking "yes." Featuring a stunning performance by V of BTS, the music video is not just a song, but a short film—a **'visual story'** about defiance, hope, and the desperate fight to see beauty in a world determined to erase it. Let’s explore the profound symbolism and emotional journey of this unforgettable story.*
+***
+<p style="margin: 8px 0px 16px;">
+*In a world reduced to ruins, can love survive? IU’s cinematic masterpiece, **"Love wins all,"** answers with a resounding, heartbreaking "yes." Featuring a stunning performance by V of BTS, the music video is not just a song, but a short film—a **'visual story'** about defiance, hope, and the desperate fight to see beauty in a world determined to erase it. Let’s explore the profound symbolism and emotional journey of this unforgettable story.*</p>
 
 ---
 <div align="center">
