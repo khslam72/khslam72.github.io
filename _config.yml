@@ -1,5 +1,5 @@
 # 테마와 플러그인 설정
-theme: jekyll-theme-minimal
+theme: theme: jekyll-theme-cayman
 plugins:
   - jekyll-remote-theme
 
