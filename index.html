@@ -2,6 +2,13 @@
 layout: default
 ---
 
-# Jekyll 테스트 페이지
-
-만약 이 페이지의 스타일이 정상적으로 보인다면, Jekyll 빌드 기능이 올바르게 동작하는 것입니다.
+<div>
+  {% for post in site.posts %}
+    <article class="post">
+      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+      <p>{{ post.date | date: "%B %d, %Y" }}</p>
+      {{ post.excerpt }}
+      <hr>
+    </article>
+  {% endfor %}
+</div>
