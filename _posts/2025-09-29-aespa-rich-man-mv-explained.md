@@ -5,7 +5,7 @@ category: K-POP MV Explained
 tags:  - K-POP MV Explained, aespa Rich Man, Rich Man Lyrics Meaning, K-Pop Analysis, Artist: aespa, Song: Rich Man, Agency: SM Entertainment, 2025 K-Pop
 ---
 <div align="center">
-  <h2 style="color: #00aaff;">aespa – “Rich Man” MV Explained: I Am What I Am</h2>
+  <h1 style="color: #00aaff;">aespa – “Rich Man” MV Explained: I Am What I Am</h1>
 </div>
 ***
 
@@ -165,24 +165,3 @@ The MV's success is rooted in the strategic intent behind every visual choice.
   }
 }
 </script>
-
----
-<a name="publishing-guide"></a>
-<h2 style="color: #00aaff;">Publishing Guide (For Editor Use)</h2>
-***
-<h3 style="color: #304090;">Meta descriptions (Optimal for SERP CTR)</h3>
-<ol style="margin:0 0 12px 18px; line-height:1.8;">
-  <li>aespa **'Rich Man' MV Explained**: The visual shift, defiant lyric meaning, and **core self-love message**—your complete guide for fans.</li>
-  <li>**I Am A Rich Man** - Discover the bold visual storytelling and **lyric intent** behind aespa's latest anthem in our deep-dive MV breakdown.</li>
-</ol>
-<h3 style="color: #304090;">Tags (GitHub/YAML friendly list)</h3>
-```yaml
-tags:
-  - K-POP MV Explained
-  - aespa Rich Man
-  - Rich Man Lyrics Meaning
-  - K-Pop Analysis
-  - Artist: aespa
-  - Song: Rich Man
-  - Agency: SM Entertainment
-  - 2025 K-Pop
