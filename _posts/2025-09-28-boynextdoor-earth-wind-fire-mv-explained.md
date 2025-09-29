@@ -13,7 +13,7 @@ tags:
 - 2024 K-Pop
 ---
 <div align="center">
-  <h1 style="color: #00aaff;">BOYNEXTDOOR – “Earth, Wind & Fire” MV Explained: Love as a Weather Report (With Zero Chill)</h1>
+  <p style="margin: 8px 0px 16px;color: #00aaff;">BOYNEXTDOOR – “Earth, Wind & Fire” MV Explained: Love as a Weather Report (With Zero Chill)</p>
 </div>
 ***
 

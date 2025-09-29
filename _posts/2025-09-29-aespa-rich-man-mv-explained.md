@@ -14,7 +14,7 @@ tags:
 - 2025 K-Pop
 ---
 <div align="center">
-  <h1 style="color: #00aaff;">aespa – “Rich Man” MV Explained: I Am What I Am</h1>
+  <P style color: #00aaff;">aespa – “Rich Man” MV Explained: I Am What I Am</p>
 </div>
 ***
 
