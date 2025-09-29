@@ -139,7 +139,7 @@ The MV's success is rooted in the strategic intent behind every visual choice.
   <li><a href="https://en.wikipedia.org/wiki/Rich_Man_(EP)" rel="nofollow noopener" target="_blank">Album Info/Press via Wikipedia</a></li>
   <li><a href="https://biz.chosun.com/en/en-entertainment/2025/08/25/ZITAZXJZO5AABLIOT3XQHXN3JM/" rel="nofollow noopener" target="_blank">Industry Context (ChosunBiz)</a></li>
 </ul>
-<h3 style="color: #304090;">Schema Markup (For SEO Rich Results)</h3>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

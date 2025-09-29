@@ -144,7 +144,6 @@ Director Uhm Tae-hwa has been open about the MV's symbolism, giving us a clear g
   <li><a href="https://www.hindustantimes.com/entertainment/music/bts-v-and-ius-love-wins-all-mv-decoded-101706080903507.html" rel="nofollow noopener" target="_blank">Director's Interpretation (Hindustan Times)</a></li>
   <li><a href="https://en.wikipedia.org/wiki/Love_Wins_All" rel="nofollow noopener" target="_blank">Album Info/Press via Wikipedia</a></li>
 </ul>
-<h3 style="color: #304090;">Schema Markup (For SEO Rich Results)</h3>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

@@ -151,7 +151,7 @@ This direct translation makes the performance intuitive and visually satisfying.
   <li><a href="https://magazine.weverse.io/article/view?lang=en&num=1033" rel="nofollow noopener" target="_blank">Weverse Magazine — Member Interviews</a></li>
   <li><a href="https://koreajoongangdaily.joins.com/news/2024-04-15/entertainment/kpop/20240415174523315.html" rel="nofollow noopener" target="_blank">Industry Context (Korea JoongAng Daily)</a></li>
 </ul>
-<h3 style="color: #304090;">Schema Markup (For SEO Rich Results)</h3>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
