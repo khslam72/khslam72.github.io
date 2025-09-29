@@ -23,7 +23,7 @@ tags:
 
 ---
 <div align="center">
-  <img src="/images/nmixx-know-about-me-mv-screencap-2025.webp" 
+  <img src=""{{ site.baseurl }}/images/nmixx-know-about-me-mv-screencap-2025.webp"/images/nmixx-know-about-me-mv-screencap-2025.webp" 
        alt='NMIXX members in the airport scene from the “KNOW ABOUT ME” official MV explained analysis thumbnail' 
        width="100%" 
        loading="lazy" 
