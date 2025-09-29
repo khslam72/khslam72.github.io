@@ -22,16 +22,15 @@ tags:
 *Stop what you’re doing and **know about NMIXX**! While the K-Pop world usually associates NMIXX with the abrupt, genre-bending **MIXX POP**, their 2025 title track, **“KNOW ABOUT ME,”** presented a stunning shift—a sleek, sultry R&B/trap fusion that proved their vocal prowess is truly **hexagonal**. The music video is a visual masterclass, concluding their *Fe3O4* trilogy with a cinematic sci-fi escape. It’s not just a song; it’s a **'visual story'** about awakening, seeking a new world, and embracing the unknown. I mean, the visuals alone are worth an Oscar! Let’s dive into the lore, the subtle symbolism, and the powerful confidence woven into this incredible adventure, before we look ahead to their big October return.*</p>
 
 ---
-<div align="center">
-  <img src="/images/nmixx-know-about-me-mv-screencap-2025.webp" 
-       alt='NMIXX members in the airport scene from the “KNOW ABOUT ME” official MV explained analysis thumbnail' 
-       width="100%" 
-       loading="lazy" 
-       decoding="async" 
-       fetchpriority="high"
-       style="border-radius:12px;" />
-  <br>
-  <span style="font-size:12px;color:#666;">Source: Official NMIXX YouTube (© JYP Entertainment)</span>
+<div style="text-align:center;">
+  <img src="/images/nmixx-know-about-me-mv-screencap-2025.webp"
+       alt="NMIXX members in the airport scene from the 'KNOW ABOUT ME' official MV explained analysis thumbnail"
+       style="border-radius:12px; max-width:100%; height:auto;"
+       loading="lazy" decoding="async" fetchpriority="high" />
+  <br>
+  <span style="font-size:12px; color:#666;">
+    Source: Official NMIXX YouTube (© JYP Entertainment)
+  </span>
 </div>
 ---
 <details open>
