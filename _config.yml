@@ -27,11 +27,12 @@ kramdown:
 sass:
   style: :expanded
 
+# jekyll-remote-theme를 여기서 제거합니다.
 plugins:
   - jekyll-sitemap
   - jekyll-feed
-  - jekyll-remote-theme
 
+# 이 부분은 그대로 둡니다.
 theme: jekyll-theme-cayman
 
 exclude:
