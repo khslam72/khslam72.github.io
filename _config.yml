@@ -1,3 +1,8 @@
+# 테마와 플러그인 설정
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-remote-theme
+
+# 블로그 기본 정보 (테마가 이 정보를 사용합니다)
+title: K-Contents Hub
+description: K-Contents Hub shares K-POP, and Korean culture in English for global fans.
