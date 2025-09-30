@@ -13,7 +13,7 @@ timezone: Asia/Seoul # 시간대 설정 (한국 시간 기준)
 # 테마 설정
 # -----------------------------------------------------------------------------
 # 기존 theme: jekyll-theme-cayman 를 제거하고 remote_theme으로 Minimal Mistakes 설정
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes-jekyll" # 'jekyll'을 추가하여 정확한 경로 지정
 
 # -----------------------------------------------------------------------------
 # 빌드 및 퍼머링크 설정
@@ -65,4 +65,5 @@ exclude:
   - LICENSE
   - README.md
   - CNAME # 도메인 설정 파일은 Git 관리에서 제외하지만, GitHub Pages는 사용합니다.
+
 
