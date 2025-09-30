@@ -2,25 +2,23 @@
 # 사이트 필수 기본 정보
 # -----------------------------------------------------------------------------
 name: K-Contents Hub
-title: K-Contents Hub # Minimal Mistakes에서는 title도 중요합니다.
+title: K-Contents Hub
 description: K-Contents Hub shares K-POP, and Korean culture in English for global fans.
 url: "https://kcontents.site" # 사용하시는 실제 도메인
-baseurl: "" # 깃허브 페이지의 경우 보통 빈칸으로 둡니다.
+baseurl: ""
 locale: "en-US" # 영문 블로그에 맞춰 수정됨
-timezone: Asia/Seoul # 시간대 설정 (한국 시간 기준)
+timezone: Asia/Seoul
 
 # -----------------------------------------------------------------------------
 # 테마 설정
 # -----------------------------------------------------------------------------
-# 기존 theme: jekyll-theme-cayman 를 제거하고 remote_theme으로 Minimal Mistakes 설정
-remote_theme: "mmistakes/minimal-mistakes" # 'jekyll'을 추가하여 정확한 경로 지정
+theme: jekyll-theme-minimal # ⬅️ Minimal 테마 적용 (theme 사용)
 
 # -----------------------------------------------------------------------------
 # 빌드 및 퍼머링크 설정
 # -----------------------------------------------------------------------------
-# 파일명 구조 (YYYY-MM-DD-제목)에 맞춰 날짜와 카테고리를 모두 포함합니다.
 permalink: /:categories/:year/:month/:day/:title/
-paginate: 5 # 한 페이지에 보여줄 포스팅 수
+paginate: 5
 paginate_path: /page:num/
 
 # 마크다운 렌더링 설정
@@ -32,20 +30,18 @@ kramdown:
     css_class: 'highlight'
 
 sass:
-  style: :compressed # CSS 파일을 압축하여 로딩 속도를 높입니다.
+  style: :compressed
 
 # -----------------------------------------------------------------------------
-# Minimal Mistakes 필수 플러그인 목록
+# ⚠️ 플러그인 목록 정리 (Minimal 테마는 복잡한 플러그인이 필요 없습니다)
 # -----------------------------------------------------------------------------
 plugins:
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-paginate # 페이지네이션 플러그인
-  - jekyll-archives # 포스팅 아카이브 기능
-  - jekyll-include-cache # 빌드 속도 향상
+  - jekyll-sitemap # SEO를 위해 유지
+  - jekyll-feed    # RSS 피드를 위해 유지
+  - jekyll-paginate # 포스팅 목록 페이지네이션을 위해 유지
 
 # -----------------------------------------------------------------------------
-# 소셜/푸터 링크 설정 (Minimal Mistakes 형식)
+# 소셜/푸터 링크 설정
 # -----------------------------------------------------------------------------
 footer:
   links:
@@ -57,14 +53,15 @@ footer:
       url: "/feed.xml"
 
 # -----------------------------------------------------------------------------
-# 제외 파일 목록 (Git 및 빌드 시 불필요한 파일)
+# 제외 파일 목록
 # -----------------------------------------------------------------------------
 exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE
   - README.md
-  - CNAME # 도메인 설정 파일은 Git 관리에서 제외하지만, GitHub Pages는 사용합니다.
+  - CNAME
+
 
 
 
