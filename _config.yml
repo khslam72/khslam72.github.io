@@ -1,22 +1,43 @@
-# 1. 사이트 기본 정보
-title: "K-Contents Hub"
-description: "K-Contents Hub shares K-POP MV analysis, lyrics, and Korean culture in English for global fans."
-baseurl: ""                     # 커스텀 도메인 사용 시 반드시 빈 문자열
-url: "https://kcontents.site"   # 블로그 전체 URL (https 포함)
+name: K-Contents Hub
+description: K-Contents Hub shares K-POP, and Korean culture in English for global fans.
 
-# 2. Liberxue 테마 적용
-remote_theme: "liberxue/liberxue.github.io"
+avatar: /images/site%20icon.png
 
-# 3. 플러그인 설정
+footer-links:
+  github: barryclark/jekyll-now
+  twitter: jekyllrb
+  rss:
+
+disqus:
+google_analytics:
+
+url: "https://khslam72.github.io/"
+baseurl: ""
+
+permalink: /:title/
+
+version: v1.2.0
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+
+sass:
+  style: :expanded
+
+# jekyll-remote-theme를 여기서 제거합니다.
 plugins:
-  - jekyll-feed
   - jekyll-sitemap
-  - jekyll-remote-theme
+  - jekyll-feed
 
-# 4. 마크다운 및 렌더링 옵션
-markdown: kramdown
-highlighter: rouge
+# 이 부분은 그대로 둡니다.
+theme: jekyll-theme-cayman
 
-# 5. 언어 및 기타 설정
-lang: "en"
-timezone: "Asia/Seoul"
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
