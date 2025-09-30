@@ -1,14 +1,12 @@
-# 1. 사용할 테마 지정
-remote_theme: "mmistakes/minimal-mistakes@4.24.0" # Minimal Mistakes 최신 안정 버전 지정 (권장)
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
-# 2. 블로그 기본 정보 (테마가 이 정보를 사용합니다)
 title: K-Contents Hub
 description: K-Contents Hub shares K-POP, and Korean culture in English for global fans.
-# url: 'https://kcontents.site' # 커스텀 도메인을 사용하므로 이 항목은 Optional
+# url: 'https://kcontents.site' # 커스텀 도메인 쓰면 주석 해제
 
-# 3. 플러그인 목록 통합 (중요!)
 plugins:
-  - jekyll-remote-theme # remote_theme을 사용하기 위한 필수 플러그인
-  - jekyll-sitemap     # 사이트맵 생성을 위한 플러그인
-  - jekyll-paginate    # (선택 사항: 페이지네이션 기능을 원할 경우)
-  - jekyll-archives    # (선택 사항: 아카이브 기능을 원할 경우)
+  - jekyll-remote-theme
+  - jekyll-include-cache   # ← 추가 (MM 필수/권장)
+  - jekyll-sitemap
+  - jekyll-paginate        # ← 그대로 OK (v1)
+  # - jekyll-archives      # ← 제거 (GitHub Pages 기본 빌드 미지원)
