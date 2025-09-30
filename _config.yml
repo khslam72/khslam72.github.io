@@ -17,7 +17,7 @@ theme: jekyll-theme-minimal # ⬅️ Minimal 테마 적용 (theme 사용)
 # -----------------------------------------------------------------------------
 # 빌드 및 퍼머링크 설정
 # -----------------------------------------------------------------------------
-permalink: /:categories/:year/:month/:day/:title/
+permalink: /:categories/:year/:month/:day/:title:output_ext
 paginate: 5
 paginate_path: /page:num/
 
@@ -61,6 +61,7 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
 
 
 
