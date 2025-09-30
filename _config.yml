@@ -14,7 +14,7 @@ google_analytics:
 url: "https://khslam72.github.io/"
 baseurl: ""
 
-permalink: /:title/
+permalink: pretty
 
 version: v1.2.0
 
@@ -40,4 +40,5 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
+
   - CNAME
