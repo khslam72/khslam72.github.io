@@ -1,12 +1,12 @@
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-
+# 1. 사이트 기본 정보 (기존 설정 유지)
 title: K-Contents Hub
-description: K-Contents Hub shares K-POP, and Korean culture in English for global fans.
-# url: 'https://kcontents.site' # 커스텀 도메인 쓰면 주석 해제
+description: K-Contents Hub shares K-POP MV analysis, lyrics, and Korean culture in English for global fans.
+baseurl: ""                     # 커스텀 도메인 사용 시 반드시 "" (빈 문자열)
+url: "https://kcontents.site"   # 블로그 주소 전체 입력
 
+# 2. Liberxue 테마 지정 및 플러그인 설정
+remote_theme: "liberxue/liberxue.github.io" 
 plugins:
-  - jekyll-remote-theme
-  - jekyll-include-cache   # ← 추가 (MM 필수/권장)
   - jekyll-sitemap
-  - jekyll-paginate        # ← 그대로 OK (v1)
-  # - jekyll-archives      # ← 제거 (GitHub Pages 기본 빌드 미지원)
+  - jekyll-feed
+  - jekyll-remote-theme
