@@ -1,12 +1,22 @@
-# 1. 사이트 기본 정보 (기존 설정 유지)
-title: K-Contents Hub
-description: K-Contents Hub shares K-POP MV analysis, lyrics, and Korean culture in English for global fans.
-baseurl: ""                     # 커스텀 도메인 사용 시 반드시 "" (빈 문자열)
-url: "https://kcontents.site"   # 블로그 주소 전체 입력
+# 1. 사이트 기본 정보
+title: "K-Contents Hub"
+description: "K-Contents Hub shares K-POP MV analysis, lyrics, and Korean culture in English for global fans."
+baseurl: ""                     # 커스텀 도메인 사용 시 반드시 빈 문자열
+url: "https://kcontents.site"   # 블로그 전체 URL (https 포함)
 
-# 2. Liberxue 테마 지정 및 플러그인 설정
-remote_theme: "liberxue/liberxue.github.io" 
+# 2. Liberxue 테마 적용
+remote_theme: "liberxue/liberxue.github.io"
+
+# 3. 플러그인 설정
 plugins:
-  - jekyll-sitemap
   - jekyll-feed
+  - jekyll-sitemap
   - jekyll-remote-theme
+
+# 4. 마크다운 및 렌더링 옵션
+markdown: kramdown
+highlighter: rouge
+
+# 5. 언어 및 기타 설정
+lang: "en"
+timezone: "Asia/Seoul"
