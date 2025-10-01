@@ -1,13 +1,14 @@
 ---
 layout: post
-date: 2025-03-17 00:00:00 +0900 # ✅ 날짜 추가 (MV 공개일 기준)
+date: 2025-03-17 00:00:00 +0900
 title: "NMIXX's 'KNOW ABOUT ME' Explained: Sci-Fi R&B and the Quest for the Sixth Sense"
 description: "MV Explained: A deep dive into NMIXX’s ‘KNOW ABOUT ME’ MV—exploring the sci-fi journey, R&B shift, Mixxtopia lore, and the symbolism of the MMU ship and cat's eyes. Plus, the next chapter: 'Blue Valentine' comeback in October."
-thumbnail: /images/nmixx-know-about-me-mv-screencap-2025.webp # ✅ 썸네일 경로 추가
+excerpt: "Stop what you’re doing and know about NMIXX! While the K-Pop world usually associates NMIXX with the abrupt, genre-bending MIXX POP, their 2025 title track, “KNOW ABOUT ME,” presented a stunning shift—a sleek, sultry R&B/trap fusion that proved their vocal prowess is truly hexagonal."
+thumbnail: /images/nmixx-know-about-me-mv-screencap-2025.webp
 categories:
-  - K-POP MV Explained # ✅ 들여쓰기 수정
+  - K-POP MV Explained
 tags:
-  - "K-POP MV Explained" # ✅ 들여쓰기 수정
+  - "K-POP MV Explained"
   - "NMIXX"
   - "KNOW ABOUT ME"
   - "NMIXX Lore"
@@ -24,7 +25,7 @@ details ol { margin:0; padding-left:20px; }
 details ol li { margin:2px 0; }
 </style>
 
-
+***
 
 <p style="margin: 8px 0px 16px;">
 *Stop what you’re doing and **know about NMIXX**! While the K-Pop world usually associates NMIXX with the abrupt, genre-bending **MIXX POP**, their 2025 title track, **“KNOW ABOUT ME,”** presented a stunning shift—a sleek, sultry R&B/trap fusion that proved their vocal prowess is truly **hexagonal**. The music video is a visual masterclass, concluding their *Fe3O4* trilogy with a cinematic sci-fi escape. It’s not just a song; it’s a **'visual story'** about awakening, seeking a new world, and embracing the unknown. I mean, the visuals alone are worth an Oscar! Let’s dive into the lore, the subtle symbolism, and the powerful confidence woven into this incredible adventure, before we look ahead to their big October return.*
@@ -138,7 +139,7 @@ The MV is packed with subtle lore references and complex visual storytelling.
 
 **2. Kyujin's Cat Eye and the Spy:** **Kyujin's** distinctive cat-eye visual is highly significant. In NMIXX lore, this often hints at her role as an observant or perhaps even a guiding figure. In the "KNOW ABOUT ME" MV, she is often shown looking through screens or acting as an introspective observer. This suggests that the process of "knowing" themselves and the path forward is a deep, internal, and visually acute one.
 
-**3. Visual Contrast (Calm vs. Chaos):** Despite the song being one of NMIXX's most "laid-back" in terms of pacing, the visuals remain high-energy and complex. The constant movement of high-quality CGI backgrounds, the intricate choreography, and the fashion-forward styling create a tension. This sophisticated visual layering is NMIXX’s modern take on their original genre-blending style: the musical composition is smooth, but the message and visual narrative are bold and dynamic.
+**3. Visual Contrast ( Calm vs. Chaos):** Despite the song being one of NMIXX's most "laid-back" in terms of pacing, the visuals remain high-energy and complex. The constant movement of high-quality CGI backgrounds, the intricate choreography, and the fashion-forward styling create a tension. This sophisticated visual layering is NMIXX’s modern take on their original genre-blending style: the musical composition is smooth, but the message and visual narrative are bold and dynamic.
 
 ---
 
