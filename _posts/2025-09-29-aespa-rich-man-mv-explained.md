@@ -1,14 +1,14 @@
 ---
 layout: post
-date: 2025-10-01 09:58:00 +0900
+date: 2025-09-05 09:58:00 +0900 # ✅ 날짜 추가 (임의)
 title: "The Story of 'Rich Man' by aespa Explained: Redefining Wealth and Power"
 description: "A deep-dive MV Explained guide for aespa's Rich Man. We analyze the luxurious and confident visual story, the core lyric meaning, and the connection to the group's evolving cinematic universe."
 excerpt: "A deep-dive MV Explained guide for aespa's Rich Man. We analyze the luxurious and confident visual story, the core lyric meaning, and the connection to the group's evolving cinematic universe."
-thumbnail: /images/aespa-rich-man-mv-screencap-2025.webp # ✅ 썸네일 경로 추가
+thumbnail: /images/aespa-rich-man-mv-screencap-2025.webp
 categories:
-  - K-POP MV Explained # ✅ categories 형식으로 변경 및 들여쓰기 수정
+  - K-POP MV Explained
 tags:
-  - K-POP MV Explained # ✅ 들여쓰기 수정
+  - K-POP MV Explained
   - aespa Rich Man
   - Rich Man Lyrics Meaning
   - K-Pop Analysis
@@ -22,35 +22,34 @@ tags:
 
 ---
 <div align="center">
-  <img src="/images/aespa-rich-man-mv-screencap-2025.webp" 
-       alt='aespa "Rich Man" official MV explained analysis thumbnail by SM Entertainment' 
-       width="100%" 
-       loading="lazy" 
-       decoding="async" 
-       fetchpriority="high"
-       style="border-radius:12px;" />
-  <br>
-  <span style="font-size:12px;color:#666;">Source: Official aespa YouTube (© SM Entertainment)</span>
+<img src="/images/aespa-rich-man-mv-screencap-2025.webp"
+alt='aespa "Rich Man" official MV explained analysis thumbnail by SM Entertainment'
+width="100%"
+loading="lazy"
+decoding="async"
+fetchpriority="high" />
+<br>
+<span style="font-size:12px;color:#666;">Source: Official aespa YouTube (© SM Entertainment)</span>
 </div>
 ---
 <details open>
-  <summary><strong>Table of Contents (Find Your Story)</strong></summary>
-  <ol>
-    <li><a href="#tldr">Quick Summary: The Vibe Check</a></li>
-    <li><a href="#quick-facts">Quick Facts & Credits</a></li>
-    <li><a href="#story-on-screen">The Story You See on Screen</a></li>
-    <li><a href="#lyrics-meaning">Lyrics & meaning</a></li>
-    <li><a href="#bts-insights">Behind the scenes & visual insights</a></li>
-    <li><a href="#fan-takeaways">Fan takeaways</a></li>
-    <li><a href="#sources">Sources & Technical Data</a></li>
-  </ol>
+<summary><strong>Table of Contents (Find Your Story)</strong></summary>
+<ol>
+<li><a href="#tldr">Quick Summary: The Vibe Check</a></li>
+<li><a href="#quick-facts">Quick Facts & Credits</a></li>
+<li><a href="#story-on-screen">The Story You See on Screen</a></li>
+<li><a href="#lyrics-meaning">Lyrics & meaning</a></li>
+<li><a href="#bts-insights">Behind the scenes & visual insights</a></li>
+<li><a href="#fan-takeaways">Fan Takeaways</a></li>
+<li><a href="#sources">Sources & Technical Data</a></li>
+</ol>
 </details>
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:12px;">
-  <iframe src="https://www.youtube.com/embed/5oQVTnq-UKk?rel=0" 
-          title="aespa - Rich Man (Official MV) Explained" 
-          style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" 
-          allowfullscreen 
-          loading="lazy"></iframe>
+<iframe src="https://www.youtube.com/embed/5oQVTnq-UKk?rel=0"
+title="aespa - Rich Man (Official MV) Explained"
+style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
+allowfullscreen
+loading="lazy"></iframe>
 </div>
 
 ---
@@ -59,9 +58,9 @@ tags:
 ***
 **"Rich Man"** is aespa's bold counter-attack against the societal pressure to seek a wealthy partner. The song's core thesis is **"I am the wealth,"** using its music video to visualize **inner power and self-affirmation** through elaborate styling and overwhelming confidence. The MV fuses **rock energy** with **hip-hop swagger**, cementing aespa's distinctive status in the K-Pop landscape.
 <div style="border:1px solid #eee;border-radius:10px;padding:10px 12px;background:#fafafa;margin:12px 0;">
-  <strong>Related reading:</strong>
-  <a href="/search/label/MV%20Explained">More K-POP MV Explained</a> · 
-  <a href="/search/label/Streaming%20Guide">K-POP Streaming Guide</a>
+<strong>Related reading:</strong>
+<a href="/search/label/MV%20Explained">More K-POP MV Explained</a> · 
+<a href="/search/label/Streaming%20Guide">K-POP Streaming Guide</a>
 </div>
 
 ---
@@ -69,17 +68,17 @@ tags:
 <h2 style="color: #00aaff;">Quick Facts & Credits for "Rich Man"</h2>
 ***
 <div style="border:1px solid #eee;border-radius:12px;padding:12px 14px;background:#fcfcfc;">
-  <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px 16px;font-size:14px;line-height:1.8;">
-    <div><strong>Artist</strong>: aespa (에스파)</div>
-    <div><strong>Song</strong>: “Rich Man”</div>
-    <div><strong>Album</strong>: Rich Man (6th Mini Album)</div>
-    <div><strong>Release</strong>: 2025-09-05</div>
-    <div><strong>Agency</strong>: SM Entertainment</div>
-    <div>**Director**: Lee Ok-seop (Trailer Director)</div>
-    <div><strong>Genre</strong>: Dance / Rock / Hip-hop</div>
-    <div><strong>MV ID</strong>: 5oQVTnq-UKk</div>
-    <div><strong>Main Concept</strong>: Self-Love & Inner Wealth</div>
-  </div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:8px 16px;font-size:14px;line-height:1.8;">
+<div><strong>Artist</strong>: aespa (에스파)</div>
+<div><strong>Song</strong>: “Rich Man”</div>
+<div><strong>Album</strong>: Rich Man (6th Mini Album)</div>
+<div><strong>Release</strong>: 2025-09-05</div>
+<div><strong>Agency</strong>: SM Entertainment</div>
+<div>**Director**: Lee Ok-seop (Trailer Director)</div>
+<div><strong>Genre</strong>: Dance / Rock / Hip-hop</div>
+<div><strong>MV ID</strong>: 5oQVTnq-UKk</div>
+<div><strong>Main Concept</strong>: Self-Love & Inner Wealth</div>
+</div>
 </div>
 <p style="margin-top:12px;"><em>Composers: Cody Tarpley, Rachel Kanner, Ben Samama, Ryan Jhun / Producer: Cody Tarpley, Ryan Jhun</em></p>
 
@@ -139,38 +138,38 @@ The MV's success is rooted in the strategic intent behind every visual choice.
 ***
 <h3 style="color: #304090;">Credible Sources</h3>
 <ul style="padding-left:18px; margin:0 0 12px;">
-  <li><a href="https://www.youtube.com/watch?v=5oQVTnq-UKk" rel="nofollow noopener" target="_blank">Official MV — aespa YouTube</a></li>
-  <li><a href="https://en.wikipedia.org/wiki/Rich_Man_(EP)" rel="nofollow noopener" target="_blank">Album Info/Press via Wikipedia</a></li>
-  <li><a href="https://biz.chosun.com/en/en-entertainment/2025/08/25/ZITAZXJZO5AABLIOT3XQHXN3JM/" rel="nofollow noopener" target="_blank">Industry Context (ChosunBiz)</a></li>
+<li><a href="https://www.youtube.com/watch?v=5oQVTnq-UKk" rel="nofollow noopener" target="_blank">Official MV — aespa YouTube</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Rich_Man_(EP)" rel="nofollow noopener" target="_blank">Album Info/Press via Wikipedia</a></li>
+<li><a href="https://biz.chosun.com/en/en-entertainment/2025/08/25/ZITAZXJZO5AABLIOT3XQHXN3JM/" rel="nofollow noopener" target="_blank">Industry Context (ChosunBiz)</a></li>
 </ul>
 
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "MusicVideoObject",
-  "name": "aespa - Rich Man (Official Music Video) Explained",
-  "description": "A deep-dive MV analysis of aespa's 'Rich Man,' examining the visual shift, self-love message, and the defiant lyrical intent tailored for global K-Pop fans.",
-  "byArtist": {
-    "@type": "MusicGroup",
-    "name": "aespa"
-  },
-  "duration": "PT03M18S",
-  "uploadDate": "2025-09-05T00:00:00Z",
-  "inLanguage": "ko",
-  "genre": "Dance, Rock, Hip-hop",
-  "thumbnailUrl": "https://www.kcontents.site/images/aespa-rich-man-mv-screencap-2025.webp",
-  "embedUrl": "https://www.youtube.com/embed/5oQVTnq-UKk?rel=0",
-  "publisher": {
-    "@type": "Organization",
-    "name": "SM Entertainment"
-  },
-  "director": {
-    "@type": "Person",
-    "name": "Lee Ok-seop"
-  },
-  "potentialAction": {
-    "@type": "WatchAction",
-    "target": "https://www.youtube.com/watch?v=5oQVTnq-UKk"
-  }
+"@context": "https://schema.org",
+"@type": "MusicVideoObject",
+"name": "aespa - Rich Man (Official Music Video) Explained",
+"description": "A deep-dive MV analysis of aespa's 'Rich Man,' examining the visual shift, self-love message, and the defiant lyrical intent tailored for global K-Pop fans.",
+"byArtist": {
+"@type": "MusicGroup",
+"name": "aespa"
+},
+"duration": "PT03M18S",
+"uploadDate": "2025-09-05T00:00:00Z",
+"inLanguage": "ko",
+"genre": "Dance, Rock, Hip-hop",
+"thumbnailUrl": "https://www.kcontents.site/images/aespa-rich-man-mv-screencap-2025.webp",
+"embedUrl": "https://www.youtube.com/embed/5oQVTnq-UKk?rel=0",
+"publisher": {
+"@type": "Organization",
+"name": "SM Entertainment"
+},
+"director": {
+"@type": "Person",
+"name": "Lee Ok-seop"
+},
+"potentialAction": {
+"@type": "WatchAction",
+"target": "https://www.youtube.com/watch?v=5oQVTnq-UKk"
+}
 }
 </script>
