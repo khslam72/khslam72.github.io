@@ -43,9 +43,11 @@ tags:
 </ol>
 </details>
 
-<div style="text-align: center;">
+ <div style="text-align: center;">
+
 <p>Celebrate with Han by watching Stray Kids' "Chk Chk Boom" music video here!</p>
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/V0y_33-l5IA"></iframe>
+<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/0P0aQreFs8w"></iframe>
+
 </div>
 
 <a name="tldr"></a>
