@@ -134,7 +134,7 @@ details ol li {
 
 #header .site-title {
    font-family: 'Orbitron', sans-serif; /* ✅ 아트체 글꼴로 변경 */
-    font-size: 2.2rem; /* 제목 크기 */
+    font-size: 2.8rem; /* 제목 크기 */
     font-weight: 700;
     color: #FF8C00; /* ✅ 찐한 주황색으로 변경 */
     text-shadow: 0 0 5px rgba(255, 140, 0, 0.4); /* ✅ 주황색 네온 효과로 변경 */
