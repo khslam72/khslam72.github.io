@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2025-10-01 02:30:00
-title: "SLANDER & JOSHUA's 'Love Is Gone' Explained: A Bridge of Heartbreak"
+title: "SLANDER & JOSHUA of SEVENTEEN's 'Love Is Gone' Explained: A Bridge of Heartbreak"
 description: "MV Explained: A deep dive into SLANDER & JOSHUA's 'Love Is Gone,' analyzing its cross-cultural collaboration, vocal transformation, and the universal theme of loss."
 excerpt: "Ever wonder what happens when a K-Pop idol's gentle touch meets an EDM anthem's raw power? We're breaking down how JOSHUA of SEVENTEEN completely rewired the emotional circuit of SLANDER's 'Love Is Gone'."
 thumbnail: /images/slander-joshua-love-is-gone-mv-explained.webp
@@ -46,11 +46,11 @@ tags:
 </details>
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:12px;">
-<iframe src="https://www.google.com/search?q=https://www.youtube.com/embed/_tV5LEBDs7w%3Frel%3D0"
-title="SLANDER, Dylan Matthew - Love Is Gone (feat. JOSHUA of SEVENTEEN) (Official MV) Explained"
-style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
-allowfullscreen
-loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/_tV5LEBDs7w?rel=0"
+    title="SLANDER, Dylan Matthew - Love Is Gone (feat. JOSHUA of SEVENTEEN) (Official MV) Explained"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
+    allowfullscreen
+    loading="lazy"></iframe>
 </div>
 
 <a name="tldr"></a>
