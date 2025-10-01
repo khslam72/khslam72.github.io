@@ -171,14 +171,18 @@ details ol li {
 
 /* --- 게시물 본문 H2, H3 제목 스타일 일괄 적용 --- */
 /* ... existing code ... */
+/* ... existing code ... */
+/* --- [수정] 게시물 본문 H2 제목 스타일 (구분선 수정) --- */
 .post-body h2 {
-  position: relative; /* 구분선의 위치 기준점이 됨 */
+  position: relative;
   color: #00aaff;
   margin-top: 2.5em;
-  margin-bottom: 2em; /* 선 아래 본문과의 간격 확보 */
-  font-family: 'Rajdhani', sans-serif; /* ✅ 엣지있는 글꼴로 변경 */
-  font-weight: 700;
-  padding-bottom: 15px; /* 제목과 선 사이의 간격 */
+  margin-bottom: 2em;
+  font-family: 'Rajdhani', sans-serif;
+  font-weight: 600;
+  font-size: 1.8rem; /* ✅ 이 줄을 추가하여 폰트 크기를 조절하세요. */
+}
+  padding-bottom: 8px; /* ✅ 제목과 선 사이 간격을 대폭 줄임 */
 }
 
 /* ✅ 제목 아래에 자동으로 선 추가 */
@@ -187,11 +191,13 @@ details ol li {
   position: absolute;
   left: 0;
   bottom: 0;
-  width: 100px; /* 선의 길이 */
-  height: 3px;  /* 선의 두께 */
-  background: linear-gradient(to right, #00aaff, #c651ff); /* 제목과 어울리는 그라데이션 색상 */
-  border-radius: 2px;
+  width: 100%; /* ✅ 선의 길이를 가로 전체로 변경 */
+  height: 1px;  /* ✅ 선의 두께를 1px로 매우 얇게 수정 */
+  background: linear-gradient(to right, #00aaff, #c651ff);
 }
+
+.post-body h3 {
+/* ... existing code ... */
 
 .post-body h3 {
 /* ... existing code ... */
