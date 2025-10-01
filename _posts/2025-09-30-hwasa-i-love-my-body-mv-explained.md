@@ -2,10 +2,11 @@
 layout: post
 title: "HWASA’s 'I Love My Body' Explained: A Bold, Sun-Soaked Anthem of Self-Acceptance"
 description: "MV Explained: A deep dive into Hwasa's 'I Love My Body,' analyzing its viral self-love message, retro aesthetic, and its defiance of restrictive K-Pop beauty standards."
+thumbnail: /images/hwasa-i-love-my-body-mv-screencap-2023.webp # ✅ 썸네일 경로 추가
 categories:
-  - K-POP MV Explained
+  - K-POP MV Explained # ✅ 들여쓰기 수정
 tags:
-  - "K-POP MV Explained"
+  - "K-POP MV Explained" # ✅ 들여쓰기 수정
   - "Hwasa"
   - "I Love My Body"
   - "I Love My Body Meaning"
@@ -26,35 +27,35 @@ tags:
 ---
 
 <div align="center">
-  <img src="/images/hwasa-i-love-my-body-mv-screencap-2023.webp"
-       alt='Hwasa in the official MV for "I Love My Body" wearing a bold orange dress'
-       width="100%"
-       style="border-radius:12px;" />
-  <br>
-  <span style="font-size:12px;color:#666;">Source: Official Hwasa YouTube (© P NATION)</span>
+  <img src="/images/hwasa-i-love-my-body-mv-screencap-2023.webp"
+       alt='Hwasa in the official MV for "I Love My Body" wearing a bold orange dress'
+       width="100%"
+       style="border-radius:12px;" />
+  <br>
+  <span style="font-size:12px;color:#666;">Source: Official Hwasa YouTube (© P NATION)</span>
 </div>
 
 ---
 
 <details open>
-  <summary><strong>Table of Contents (Find Your Story)</strong></summary>
-  <ol>
-    <li><a href="#tldr">Quick Summary: The Vibe Check</a></li>
-    <li><a href="#quick-facts">Quick Facts & Credits</a></li>
-    <li><a href="#story-on-screen">The Visual Story on Screen: No Apologies</a></li>
-    <li><a href="#lyrics-meaning">Lyrics & meaning: The Defiant Declaration</a></li>
-    <li><a href="#bts-insights">Behind the Scenes & Deeper Insights: The True Meaning of Her 'Body' of Work</a></li>
-    <li><a href="#cultural-context">Cultural Context: Body Positivity in K-Pop</a></li>
-    <li><a href="#fan-takeaways">Fan Takeaways</a></li>
-    <li><a href="#sources">Sources & Technical Data</a></li>
-  </ol>
+  <summary><strong>Table of Contents (Find Your Story)</strong></summary>
+  <ol>
+    <li><a href="#tldr">Quick Summary: The Vibe Check</a></li>
+    <li><a href="#quick-facts">Quick Facts & Credits</a></li>
+    <li><a href="#story-on-screen">The Visual Story on Screen: No Apologies</a></li>
+    <li><a href="#lyrics-meaning">Lyrics & meaning: The Defiant Declaration</a></li>
+    <li><a href="#bts-insights">Behind the Scenes & Deeper Insights: The True Meaning of Her 'Body' of Work</a></li>
+    <li><a href="#cultural-context">Cultural Context: Body Positivity in K-Pop</a></li>
+    <li><a href="#fan-takeaways">Fan Takeaways</a></li>
+    <li><a href="#sources">Sources & Technical Data</a></li>
+  </ol>
 </details>
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:12px;">
-  <iframe src="https://www.youtube.com/embed/Crq_fRV0O0E"
-          title="HWASA (화사) - 'I Love My Body' MV Explained"
-          style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
-          allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/Crq_fRV0O0E"
+          title="HWASA (화사) - 'I Love My Body' MV Explained"
+          style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
+          allowfullscreen></iframe>
 </div>
 
 ---
@@ -67,9 +68,9 @@ tags:
 "I Love My Body" is a playful, upbeat <strong>soul-pop</strong> track that delivers a direct message of <strong>self-acceptance</strong> and <strong>body positivity</strong>. The MV is a vibrant, retro-infused montage of Hwasa confidently owning every space she enters—from her bedroom mirror to a sun-drenched parking garage dance floor. It's a defiant clapback to critics who have persistently scrutinized her appearance, emphasizing that true beauty comes from self-esteem, not from fitting restrictive standards. It marks her first solo release under P NATION, showing her charismatic flair isn't going anywhere!
 
 <div style="border:1px solid #eee;border-radius:10px;padding:10px 12px;background:#fafafa;margin:12px 0;">
-  <strong>Related reading:</strong>
-  <a href="/search/label/MV%20Explained">More K-POP MV Explained</a> ·
-  <a href="/search/label/Streaming%20Guide">K-POP Streaming Guide</a>
+  <strong>Related reading:</strong>
+  <a href="/search/label/MV%20Explained">More K-POP MV Explained</a> ·
+  <a href="/search/label/Streaming%20Guide">K-POP Streaming Guide</a>
 </div>
 
 ---
@@ -80,16 +81,16 @@ tags:
 ---
 
 <div style="border:1px solid #eee;border-radius:12px;padding:12px 14px;background:#fcfcfc;">
-  <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px 16px;font-size:14px;line-height:1.8;">
-    <div><strong>Artist</strong>: HWASA (화사)</div>
-    <div><strong>Song</strong>: “I Love My Body”</div>
-    <div><strong>Type</strong>: Digital Single</div>
-    <div><strong>Release</strong>: 2023-09-06</div>
-    <div><strong>Agency</strong>: P NATION</div>
-    <div><strong>Producer</strong>: PSY, Yoo Gun-hyung, Ahn Shin-ae</div>
-    <div><strong>MV ID</strong>: Crq_fRV0O0E</div>
-    <div><strong>Main Concept</strong>: Body Positivity / Self-Love</div>
-  </div>
+  <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px 16px;font-size:14px;line-height:1.8;">
+    <div><strong>Artist</strong>: HWASA (화사)</div>
+    <div><strong>Song</strong>: “I Love My Body”</div>
+    <div><strong>Type</strong>: Digital Single</div>
+    <div><strong>Release</strong>: 2023-09-06</div>
+    <div><strong>Agency</strong>: P NATION</div>
+    <div><strong>Producer</strong>: PSY, Yoo Gun-hyung, Ahn Shin-ae</div>
+    <div><strong>MV ID</strong>: Crq_fRV0O0E</div>
+    <div><strong>Main Concept</strong>: Body Positivity / Self-Love</div>
+  </div>
 </div>
 <p style="margin-top:12px;">*Producers Yoo Gun-hyung and PSY have a track record of global hits like "Gangnam Style," lending this track a distinct, internationally recognizable production style.*</p>
 
@@ -197,36 +198,36 @@ Hwasa's entire career has been a cultural moment, pushing back against the notor
 
 <h3 style="color:#304090;">Credible Sources</h3>
 <ul style="padding-left:18px; margin:0 0 12px;">
-  <li><a href="https://www.youtube.com/watch?v=Crq_fRV0O0E" rel="nofollow noopener" target="_blank">Official MV — HWASA YouTube</a></li>
-  <li><a href="https://novasiagsis.com/i-love-my-body-hwasa-and-female-empowerment-in-k-pop-and-korean-society/" rel="nofollow noopener" target="_blank">Analysis: Hwasa and Female Empowerment in K-Pop</a></li>
-  <li><a href="https://www.bbold.asia/en/perspective-boldstory-mamamoo-hwasa-new-song-i-love-my-body/" rel="nofollow noopener" target="_blank">BBOLD: Inspires Fans to Break Free from Beauty Standards</a></li>
-  <li><a href="https://www.forbes.com/sites/jeffbenjamin/2023/09/06/hwasa-i-love-my-body-interview-p-nation-comeback/" rel="nofollow noopener" target="_blank">Interview: Hwasa Says 'I Love My Body' Is The Message She 'Needed' Now (Forbes)</a></li>
+  <li><a href="https://www.youtube.com/watch?v=Crq_fRV0O0E" rel="nofollow noopener" target="_blank">Official MV — HWASA YouTube</a></li>
+  <li><a href="https://novasiagsis.com/i-love-my-body-hwasa-and-female-empowerment-in-k-pop-and-korean-society/" rel="nofollow noopener" target="_blank">Analysis: Hwasa and Female Empowerment in K-Pop</a></li>
+  <li><a href="https://www.bbold.asia/en/perspective-boldstory-mamamoo-hwasa-new-song-i-love-my-body/" rel="nofollow noopener" target="_blank">BBOLD: Inspires Fans to Break Free from Beauty Standards</a></li>
+  <li><a href="https://www.forbes.com/sites/jeffbenjamin/2023/09/06/hwasa-i-love-my-body-interview-p-nation-comeback/" rel="nofollow noopener" target="_blank">Interview: Hwasa Says 'I Love My Body' Is The Message She 'Needed' Now (Forbes)</a></li>
 </ul>
 
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "MusicVideoObject",
-  "name": "HWASA (화사) - 'I Love My Body' Official MV Explained",
-  "description": "A deep-dive MV analysis of Hwasa's 'I Love My Body,' examining its body positive message, retro aesthetic, and the cultural context of K-Pop beauty standards.",
-  "byArtist": {
-    "@type": "MusicGroup",
-    "name": "Hwasa"
-  },
-  "duration": "PT02M58S",
-  "uploadDate": "2023-09-06T00:00:00Z",
-  "inLanguage": "ko",
-  "genre": "Soul Pop, Dance-Pop",
-  "thumbnailUrl": "https://www.kcontents.site/images/hwasa-i-love-my-body-mv-screencap-2023.webp",
-  "embedUrl": "https://www.youtube.com/embed/Crq_fRV0O0E",
-  "publisher": {
-    "@type": "Organization",
-    "name": "P NATION"
-  },
-  "potentialAction": {
-    "@type": "WatchAction",
-    "target": "https://www.youtube.com/watch?v=Crq_fRV0O0E"
-  }
+  "@context": "https://schema.org",
+  "@type": "MusicVideoObject",
+  "name": "HWASA (화사) - 'I Love My Body' Official MV Explained",
+  "description": "A deep-dive MV analysis of Hwasa's 'I Love My Body,' examining its body positive message, retro aesthetic, and the cultural context of K-Pop beauty standards.",
+  "byArtist": {
+    "@type": "MusicGroup",
+    "name": "Hwasa"
+  },
+  "duration": "PT02M58S",
+  "uploadDate": "2023-09-06T00:00:00Z",
+  "inLanguage": "ko",
+  "genre": "Soul Pop, Dance-Pop",
+  "thumbnailUrl": "https://www.kcontents.site/images/hwasa-i-love-my-body-mv-screencap-2023.webp",
+  "embedUrl": "https://www.youtube.com/embed/Crq_fRV0O0E",
+  "publisher": {
+    "@type": "Organization",
+    "name": "P NATION"
+  },
+  "potentialAction": {
+    "@type": "WatchAction",
+    "target": "https://www.youtube.com/watch?v=Crq_fRV0O0E"
+  }
 }
 </script>
 
