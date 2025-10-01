@@ -42,13 +42,11 @@ tags:
 </ol>
 </details>
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:12px;">
-<iframe src="https://www.youtube.com/embed/V0y_33-l5IA?rel=0"
-title="Stray Kids - Chk Chk Boom (Official MV) Explained"
-style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
-allowfullscreen
-loading="lazy"></iframe>
+<div style="text-align: center;">
+<p>Celebrate with Han by watching Stray Kids' "Chk Chk Boom" music video here!</p>
+<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/0P0aQreFs8w" width="560"></iframe>
 </div>
+
 
 <a name="tldr"></a>
 <h2>Quick Summary: The Vibe Check</h2>
