@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2025-10-01 22:30:00
+date: 2025-10-01 02:30:00
 title: "SLANDER & JOSHUA's 'Love Is Gone' Explained: A Bridge of Heartbreak"
 description: "MV Explained: A deep dive into SLANDER & JOSHUA's 'Love Is Gone,' analyzing its cross-cultural collaboration, vocal transformation, and the universal theme of loss."
 excerpt: "Ever wonder what happens when a K-Pop idol's gentle touch meets an EDM anthem's raw power? We're breaking down how JOSHUA of SEVENTEEN completely rewired the emotional circuit of SLANDER's 'Love Is Gone'."
