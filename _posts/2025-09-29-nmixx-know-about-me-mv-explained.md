@@ -24,7 +24,7 @@ details ol { margin:0; padding-left:20px; }
 details ol li { margin:2px 0; }
 </style>
 
-***
+
 
 <p style="margin: 8px 0px 16px;">
 *Stop what you’re doing and **know about NMIXX**! While the K-Pop world usually associates NMIXX with the abrupt, genre-bending **MIXX POP**, their 2025 title track, **“KNOW ABOUT ME,”** presented a stunning shift—a sleek, sultry R&B/trap fusion that proved their vocal prowess is truly **hexagonal**. The music video is a visual masterclass, concluding their *Fe3O4* trilogy with a cinematic sci-fi escape. It’s not just a song; it’s a **'visual story'** about awakening, seeking a new world, and embracing the unknown. I mean, the visuals alone are worth an Oscar! Let’s dive into the lore, the subtle symbolism, and the powerful confidence woven into this incredible adventure, before we look ahead to their big October return.*
