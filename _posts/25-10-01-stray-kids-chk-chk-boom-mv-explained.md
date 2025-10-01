@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2025-10-02 12:55:00 +0900
+date: 2025-10-01 12:55:00 +0900
 title: "Revisiting Stray Kids' 'Chk Chk Boom': The Cinematic Mayhem That Defined an Era"
 description: "A look back at Stray Kids' legendary 'Chk Chk Boom' MV, analyzing its lasting impact, cinematic genius, and its pivotal role in their global takeover."
 excerpt: "It's been over a year since Stray Kids blew up our screens with 'Chk Chk Boom'. We're revisiting the iconic MV to break down why it was more than a comeback—it was a statement that still echoes today."
-thumbnail: /images/stray-kids-chk-chk-boom-retrospective.webp
+thumbnail: /images/Stray Kids Chk Chk Boom.webp
 categories:
   - K-POP MV Explained
 tags:
@@ -25,7 +25,7 @@ tags:
 </p>
 
 <div align="center">
-<img src="/images/stray-kids-chk-chk-boom-retrospective.webp" alt="Stray Kids in the 'Chk Chk Boom' official MV explained analysis thumbnail" />
+<img src="/images/Stray Kids Chk Chk Boom.webp" alt="Stray Kids in the 'Chk Chk Boom' official MV explained analysis thumbnail" />
 <br>
 <span style="font-size:12px;color:#666;">Source: Official JYP Entertainment YouTube (© JYP Entertainment)</span>
 </div>
