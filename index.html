@@ -2,15 +2,6 @@
 layout: default
 title: Home
 ---
-<section class="hero-section">
-  <div class="hero-content">
-    <img src="{{ '/images/logo.png' | relative_url }}" alt="{{ site.title }} Logo" class="site-logo">
-    <h1 class="site-title">{{ site.title }}</h1>
-    {% if site.description %}
-    <p class="site-description">{{ site.description }}</p>
-    {% endif %}
-  </div>
-</section>
 <div class="post-list">
     {% for post in site.posts %}
     <article class="post-item">
@@ -39,4 +30,5 @@ title: Home
 <div class="pagination">
     </div>
 {% endif %}
+
 
