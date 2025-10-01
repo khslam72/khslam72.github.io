@@ -1,8 +1,15 @@
 /* assets/css/style.css */
 :root {
+    --bg-color: #fdfaff;
+    --card-bg: #ffffff;
+    --text-color: #343a40;
+    --title-color: #212529;
+    --point-color-1: #e6d4ff;
+    --point-color-2: #ffc2d1;
+    --point-text-color: #5c3b8a;
+    --border-color: #eeeeee;
     --font-main: 'Pretendard', sans-serif;  /* ✅ 글꼴 변경 */
     --font-title: 'Pretendard', sans-serif; /* ✅ 글꼴 변경 */
-    /* ... 나머지 색상 설정은 그대로 ... */
 }
 
 body { 
