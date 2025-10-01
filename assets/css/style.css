@@ -181,7 +181,6 @@ details ol li {
   font-family: 'Rajdhani', sans-serif;
   font-weight: 600;
   font-size: 1.8rem; /* ✅ 이 줄을 추가하여 폰트 크기를 조절하세요. */
-}
   padding-bottom: 8px; /* ✅ 제목과 선 사이 간격을 대폭 줄임 */
 }
 
