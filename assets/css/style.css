@@ -155,8 +155,13 @@ details ol li {
         font-size: 1.6rem;
     }
     #header .header-inner {
-        height: 90px; /* ✅ 모바일 헤더 높이 조정 */
+        height: 80px; /* ✅ 모바일 헤더 높이 조정 */
     }
+    .post-title {
+  font-family: 'Orbitron', sans-serif; /* ✅ 아트체 글꼴로 변경 */
+  font-size: 20px; /* ✅ 24pt(약 32px)로 크기 조정 */
+  line-height: 1.4;
+  }
 }
 /* assets/css/style.css 에 추가 */
 
