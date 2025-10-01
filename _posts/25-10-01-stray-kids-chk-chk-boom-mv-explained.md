@@ -43,11 +43,15 @@ tags:
 </ol>
 </details>
 
- <div style="text-align: center;">
-
-<p>Celebrate with Han by watching Stray Kids' "Chk Chk Boom" music video here!</p>
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/0P0aQreFs8w"></iframe>
-
+<div style="text-align:center; position:relative; padding-bottom:56.25%; height:0; overflow:hidden;">
+  <p>Celebrate with Han by watching Stray Kids' "Chk Chk Boom" music video here!</p>
+  <iframe 
+    src="https://www.youtube.com/embed/0P0aQreFs8w" 
+    frameborder="0" 
+    allowfullscreen 
+    loading="lazy"
+    style="position:absolute; top:0; left:0; width:100%; height:100%;">
+  </iframe>
 </div>
 
 <a name="tldr"></a>
