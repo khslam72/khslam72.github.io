@@ -4,18 +4,18 @@ title: "IU’s ‘Love wins all’ (feat. V) Explained: A Dystopian Fight for Lo
 description: "MV Explained: IU’s ‘Love wins all’—cube & camcorder symbolism, dystopian love vs. discrimination, featuring BTS’s V"
 thumbnail: /images/iu-love-wins-all-mv-screencap-2024.webp
 categories:
-  - K-POP MV Explained # ✅ 여기에 들여쓰기 추가
+  - K-POP MV Explained
 tags:
-  - "K-POP MV Explained" # ✅ 여기부터 아래 항목들 모두 들여쓰기 추가
+  - "K-POP MV Explained"
   - "IU"
   - "Love wins all"
   - "Love wins all Meaning"
   - "K-Pop Analysis"
-  - "Artist: IU"
+  - 'Artist: IU'
   - "V (BTS)"
-  - "Director: Uhm Tae-hwa"
-  - "Song: Love wins all"
-  - "Agency: EDAM Entertainment"
+  - 'Director: Uhm Tae-hwa'
+  - 'Song: Love wins all'
+  - 'Agency: EDAM Entertainment'
   - "2024 K-Pop"
 ---
 
@@ -25,35 +25,34 @@ tags:
 
 ---
 <div align="center">
-  <img src="/images/iu-love-wins-all-mv-screencap-2024.webp" 
-       alt='IU and V of BTS in the "Love wins all" official MV explained analysis thumbnail by EDAM Entertainment' 
-       width="100%" 
-       loading="lazy" 
-       decoding="async" 
-       fetchpriority="high"
-       style="border-radius:12px;" />
-  <br>
-  <span style="font-size:12px;color:#666;">Source: Official IU YouTube (© EDAM Entertainment)</span>
+<img src="/images/iu-love-wins-all-mv-screencap-2024.webp"
+alt='IU and V of BTS in the "Love wins all" official MV explained analysis thumbnail by EDAM Entertainment'
+width="100%"
+loading="lazy"
+decoding="async"
+fetchpriority="high" />
+<br>
+<span style="font-size:12px;color:#666;">Source: Official IU YouTube (© EDAM Entertainment)</span>
 </div>
 ---
 <details open>
-  <summary><strong>Table of Contents (Find Your Story)</strong></summary>
-  <ol>
-    <li><a href="#tldr">Quick Summary: The Vibe Check</a></li>
-    <li><a href="#quick-facts">Quick Facts & Credits</a></li>
-    <li><a href="#story-on-screen">The Story You See on Screen</a></li>
-    <li><a href="#lyrics-meaning">Lyrics & meaning</a></li>
-    <li><a href="#bts-insights">Behind the scenes & visual insights</a></li>
-    <li><a href="#fan-takeaways">Fan takeaways</a></li>
-    <li><a href="#sources">Sources & Technical Data</a></li>
-  </ol>
+<summary><strong>Table of Contents (Find Your Story)</strong></summary>
+<ol>
+<li><a href="#tldr">Quick Summary: The Vibe Check</a></li>
+<li><a href="#quick-facts">Quick Facts & Credits</a></li>
+<li><a href="#story-on-screen">The Story You See on Screen</a></li>
+<li><a href="#lyrics-meaning">Lyrics & meaning</a></li>
+<li><a href="#bts-insights">Behind the scenes & visual insights</a></li>
+<li><a href="#fan-takeaways">Fan takeaways</a></li>
+<li><a href="#sources">Sources & Technical Data</a></li>
+</ol>
 </details>
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:12px;">
-  <iframe src="https://www.youtube.com/embed/JleoAppaxi0?rel=0" 
-          title="IU - Love wins all (Official MV) Explained" 
-          style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" 
-          allowfullscreen 
-          loading="lazy"></iframe>
+<iframe src="https://www.youtube.com/embed/JleoAppaxi0?rel=0"
+title="IU - Love wins all (Official MV) Explained"
+style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
+allowfullscreen
+loading="lazy"></iframe>
 </div>
 ---
 <a name="tldr"></a>
@@ -62,9 +61,9 @@ tags:
 "Love wins all" is a cinematic ballad depicting a couple's struggle for survival in a post-apocalyptic world. Hunted by a mysterious cube that represents **discrimination and oppression**, they find solace through an old camcorder that shows them a world of happiness and "normalcy." The MV, directed by Uhm Tae-hwa (*Concrete Utopia*), is a powerful allegory for finding love and freedom in the face of societal forces that seek to destroy them. It's a tragic, beautiful, and ultimately hopeful declaration that even in annihilation, love’s spirit remains.
 
 <div style="border:1px solid #eee;border-radius:10px;padding:10px 12px;background:#fafafa;margin:12px 0;">
-  <strong>Related reading:</strong>
-  <a href="/search/label/MV%20Explained">More K-POP MV Explained</a> · 
-  <a href="/search/label/Streaming%20Guide">K-POP Streaming Guide</a>
+<strong>Related reading:</strong>
+<a href="/search/label/MV%20Explained">More K-POP MV Explained</a> ·
+<a href="/search/label/Streaming%20Guide">K-POP Streaming Guide</a>
 </div>
 
 ***
@@ -72,17 +71,17 @@ tags:
 <h2 style="color: #00aaff;">Quick Facts & Credits for "Love wins all"</h2>
 ***
 <div style="border:1px solid #eee;border-radius:12px;padding:12px 14px;background:#fcfcfc;">
-  <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px 16px;font-size:14px;line-height:1.8;">
-    <div><strong>Artist</strong>: IU (아이유)</div>
-    <div><strong>Song</strong>: “Love wins all”</div>
-    <div><strong>Album</strong>: The Winning (6th Mini Album)</div>
-    <div><strong>Release</strong>: 2024-01-24</div>
-    <div><strong>Agency</strong>: EDAM Entertainment</div>
-    <div>**Director**: Uhm Tae-hwa</div>
-    <div><strong>Featuring</strong>: V (of BTS)</div>
-    <div><strong>MV ID</strong>: JleoAppaxi0</div>
-    <div><strong>Main Concept</strong>: Love Against Discrimination</div>
-  </div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:8px 16px;font-size:14px;line-height:1.8;">
+<div><strong>Artist</strong>: IU (아이유)</div>
+<div><strong>Song</strong>: “Love wins all”</div>
+<div><strong>Album</strong>: The Winning (6th Mini Album)</div>
+<div><strong>Release</strong>: 2024-01-24</div>
+<div><strong>Agency</strong>: EDAM Entertainment</div>
+<div>**Director**: Uhm Tae-hwa</div>
+<div><strong>Featuring</strong>: V (of BTS)</div>
+<div><strong>MV ID</strong>: JleoAppaxi0</div>
+<div><strong>Main Concept</strong>: Love Against Discrimination</div>
+</div>
 </div>
 <p style="margin-top:12px;"><em>Composers: Seo Dong-hwan / Lyrics: IU / Arranger: Seo Dong-hwan</em></p>
 
@@ -140,39 +139,37 @@ Director Uhm Tae-hwa has been open about the MV's symbolism, giving us a clear g
 ***
 <h3 style="color: #304090;">Credible Sources</h3>
 <ul style="padding-left:18px; margin:0 0 12px;">
-  <li><a href="https://www.youtube.com/watch?v=JleoAppaxi0" rel="nofollow noopener" target="_blank">Official MV — IU YouTube</a></li>
-  <li><a href="https://www.hindustantimes.com/entertainment/music/bts-v-and-ius-love-wins-all-mv-decoded-101706080903507.html" rel="nofollow noopener" target="_blank">Director's Interpretation (Hindustan Times)</a></li>
-  <li><a href="https://en.wikipedia.org/wiki/Love_Wins_All" rel="nofollow noopener" target="_blank">Album Info/Press via Wikipedia</a></li>
+<li><a href="https://www.youtube.com/watch?v=JleoAppaxi0" rel="nofollow noopener" target="_blank">Official MV — IU YouTube</a></li>
+<li><a href="https://www.hindustantimes.com/entertainment/music/bts-v-and-ius-love-wins-all-mv-decoded-101706080903507.html" rel="nofollow noopener" target="_blank">Director's Interpretation (Hindustan Times)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Love_Wins_All" rel="nofollow noopener" target="_blank">Album Info/Press via Wikipedia</a></li>
 </ul>
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "MusicVideoObject",
-  "name": "IU - Love wins all (Official Music Video) Explained",
-  "description": "A deep-dive MV analysis of IU's 'Love wins all' featuring V of BTS. We explore the dystopian storyline, the symbolism of the oppressive cube and the hopeful camcorder, and the overall message of love against discrimination.",
-  "byArtist": {
-    "@type": "MusicGroup",
-    "name": "IU"
-  },
-  "duration": "PT05M20S",
-  "uploadDate": "2024-01-23T00:00:00Z",
-  "inLanguage": "ko",
-  "genre": "Ballad, Pop",
-  "thumbnailUrl": "https://www.kcontents.site/images/iu-love-wins-all-mv-screencap-2024.webp",
-  "embedUrl": "https://www.youtube.com/embed/JleoAppaxi0?rel=0",
-  "publisher": {
-    "@type": "Organization",
-    "name": "EDAM Entertainment"
-  },
-  "director": {
-    "@type": "Person",
-    "name": "Uhm Tae-hwa"
-  },
-  "potentialAction": {
-    "@type": "WatchAction",
-    "target": "https://www.youtube.com/watch?v=JleoAppaxi0"
-  }
+"@context": "https://schema.org",
+"@type": "MusicVideoObject",
+"name": "IU - Love wins all (Official Music Video) Explained",
+"description": "A deep-dive MV analysis of IU's 'Love wins all' featuring V of BTS. We explore the dystopian storyline, the symbolism of the oppressive cube and the hopeful camcorder, and the overall message of love against discrimination.",
+"byArtist": {
+"@type": "MusicGroup",
+"name": "IU"
+},
+"duration": "PT05M20S",
+"uploadDate": "2024-01-23T00:00:00Z",
+"inLanguage": "ko",
+"genre": "Ballad, Pop",
+"thumbnailUrl": "https://www.kcontents.site/images/iu-love-wins-all-mv-screencap-2024.webp",
+"embedUrl": "https://www.youtube.com/embed/JleoAppaxi0?rel=0",
+"publisher": {
+"@type": "Organization",
+"name": "EDAM Entertainment"
+},
+"director": {
+"@type": "Person",
+"name": "Uhm Tae-hwa"
+},
+"potentialAction": {
+"@type": "WatchAction",
+"target": "https://www.youtube.com/watch?v=JleoAppaxi0"
+}
 }
 </script>
-
----
