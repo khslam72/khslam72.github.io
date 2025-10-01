@@ -118,3 +118,49 @@ details ol li {
   line-height: 1.5;     /* ✅ 목차의 줄 간격을 더 좁게 조절 */
   margin-bottom: 8px;   /* ✅ 각 항목 아래에 약간의 여백 추가 */
 }
+/* --- Hero Section Styles --- */
+.hero-section {
+  text-align: center;
+  padding: 80px 20px; /* 상하 여백 */
+  background-color: #121212; /* 로고와 어울리는 어두운 배경 */
+  margin-bottom: 50px; /* 게시물 목록과의 간격 */
+}
+
+.hero-content .site-logo {
+  max-width: 200px; /* 로고 이미지 크기 */
+  height: auto;
+  margin-bottom: 25px;
+}
+
+.hero-content .site-title {
+  font-family: var(--font-title);
+  font-size: 3.2rem; /* 제목 글자 크기 */
+  font-weight: 700;
+  margin-bottom: 15px;
+  color: #ffffff;
+  line-height: 1.2;
+}
+
+.hero-content .site-description {
+  font-size: 1.2rem; /* 설명 글자 크기 */
+  line-height: 1.6;
+  max-width: 600px;
+  margin: 0 auto;
+  color: #cccccc;
+}
+
+/* --- 반응형 디자인 (모바일 화면) --- */
+@media (max-width: 768px) {
+  .hero-section {
+    padding: 60px 15px;
+  }
+  .hero-content .site-logo {
+    max-width: 150px;
+  }
+  .hero-content .site-title {
+    font-size: 2.5rem;
+  }
+  .hero-content .site-description {
+    font-size: 1rem;
+  }
+}
