@@ -2,10 +2,11 @@
 layout: post
 title: "Stray Kids 'CEREMONY' MV Explained: A Victorious Ritual Forged in Chaos"
 description: "MV Explained: Stray Kids' 'CEREMONY' — A deep dive into the 'visual story' of their victory ritual, the symbolism of 'Karma Sports,' and the internal battles fought to reach the top. Featuring a cameo by Faker."
+thumbnail: /images/stray-kids-ceremony-mv-screencap-2025.webp # ✅ 썸네일 경로 추가
 categories:
-  - K-POP MV Explained
+  - K-POP MV Explained # ✅ 들여쓰기 수정
 tags:
-  - "K-POP MV Explained"
+  - "K-POP MV Explained" # ✅ 들여쓰기 수정
   - "Stray Kids"
   - "CEREMONY"
   - "CEREMONY Meaning"
@@ -24,28 +25,28 @@ tags:
 
 ---
 <div align="center">
-  <img src="/images/stray-kids-ceremony-mv-screencap-2025.webp" 
-       alt="Stray Kids in the 'CEREMONY' official MV explained analysis thumbnail by JYP Entertainment" 
-       width="100%" 
-       loading="lazy" 
-       decoding="async" 
-       fetchpriority="high"
-       style="border-radius:12px;" />
-  <br>
-  <span style="font-size:12px;color:#666;">Source: Stray Kids Official YouTube (© JYP Entertainment)</span>
+  <img src="/images/stray-kids-ceremony-mv-screencap-2025.webp" 
+       alt="Stray Kids in the 'CEREMONY' official MV explained analysis thumbnail by JYP Entertainment" 
+       width="100%" 
+       loading="lazy" 
+       decoding="async" 
+       fetchpriority="high"
+       style="border-radius:12px;" />
+  <br>
+  <span style="font-size:12px;color:#666;">Source: Stray Kids Official YouTube (© JYP Entertainment)</span>
 </div>
 ---
 <details open>
-  <summary><strong>Table of Contents (Find Your Story)</strong></summary>
-  <ol>
-    <li><a href="#tldr">Quick Summary: The Vibe Check</a></li>
-    <li><a href="#quick-facts">Quick Facts & Credits for "CEREMONY"</a></li>
-    <li><a href="#story-on-screen">The Story You See on Screen: The Path to Victory</a></li>
-    <li><a href="#lyrics-meaning">Lyrics & Meaning: An Anthem of Overcoming</a></li>
-    <li><a href="#bts-insights">Behind the Scenes & Visual Insights</a></li>
-    <li><a href="#fan-takeaways">Fan Takeaways: Why This Hits Different</a></li>
-    <li><a href="#sources">Sources & Technical Data</a></li>
-  </ol>
+  <summary><strong>Table of Contents (Find Your Story)</strong></summary>
+  <ol>
+    <li><a href="#tldr">Quick Summary: The Vibe Check</a></li>
+    <li><a href="#quick-facts">Quick Facts & Credits for "CEREMONY"</a></li>
+    <li><a href="#story-on-screen">The Story You See on Screen: The Path to Victory</a></li>
+    <li><a href="#lyrics-meaning">Lyrics & Meaning: An Anthem of Overcoming</a></li>
+    <li><a href="#bts-insights">Behind the Scenes & Visual Insights</a></li>
+    <li><a href="#fan-takeaways">Fan Takeaways: Why This Hits Different</a></li>
+    <li><a href="#sources">Sources & Technical Data</a></li>
+  </ol>
 </details>
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:12px;">
   <iframe src="https://www.youtube.com/embed/P7vBoGWoReg?rel=0" 
