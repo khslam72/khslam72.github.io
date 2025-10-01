@@ -95,3 +95,26 @@ a { text-decoration: none; color: inherit; }
     font-size: 2.2rem;
   }
 }
+/* --- 목차 (Table of Contents) 스타일 --- */
+details {
+  border: 1px solid var(--border-color);
+  background-color: #fafafa;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 30px 0;
+}
+
+details summary {
+  font-weight: 600;
+  cursor: pointer;
+}
+
+details ol {
+  margin-top: 15px;
+  padding-left: 25px;
+}
+
+details ol li {
+  line-height: 1.5;     /* ✅ 목차의 줄 간격을 더 좁게 조절 */
+  margin-bottom: 8px;   /* ✅ 각 항목 아래에 약간의 여백 추가 */
+}
