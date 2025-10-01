@@ -18,8 +18,6 @@ tags:
   - "Self-Love Anthem"
 ---
 
----
-
 <p style="margin: 8px 0 16px;">
 <em>Hwasa is back and she's serving confidence! Her 2023 single, <strong>"I Love My Body,"</strong> is more than just a catchy retro track; it's a powerful declaration and a <strong>'visual story'</strong> of defiance against the relentless scrutiny she and many women face. Following her move to P NATION, this MV establishes a fun, unapologetic new chapter, but the core message remains pure Hwasa: unapologetic self-love. Let's unpack the visual flair, the cultural context, and the empowering emotional journey of this sun-drenched comeback!</em>
 </p>
