@@ -4,29 +4,30 @@ title: "Dayoung \"body\" MV Explained: Lyrics, Story, and Behind the Scenes"
 date: 2025-09-28 01:47:03 +0900
 categories: [K-POP, MV Explained, Artist]
 tags: Dayoung, body, gonna love me right, WJSN, Starship Entertainment, 솔로 데뷔, 자기애
+thumbnail: /images/WJSN Dayoung body official MV thumbnail from go.jpg # ✅ 이 줄이 추가되었습니다.
 ---
 <p style="margin: 8px 0px 16px;">
- A scene-by-scene guide to "body" by WJSN's Dayoung—story, lyric meaning, and behind-the-scenes insights from her highly anticipated solo debut.
- </p>
+ A scene-by-scene guide to "body" by WJSN's Dayoung—story, lyric meaning, and behind-the-scenes insights from her highly anticipated solo debut.
+ </p>
 
- <div style="margin: 16px auto; max-width: 100%; text-align: center;">
- <img alt="WJSN Dayoung body official MV thumbnail by Starship Entertainment" height="900" src="{{ site.baseurl }}/images/WJSN%20Dayoung%20body%20official%20MV%20thumbnail%20from%20go.jpg" style="border-radius: 12px; display: block; height: auto; width: 100%;" width="1600" />
- <p style="color: #666666; font-size: 0.85em; margin-top: 6px;">Source: Official StarshipTV YouTube (© Starship Entertainment)</p>
- </div>
+ <div style="margin: 16px auto; max-width: 100%; text-align: center;">
+ <img alt="WJSN Dayoung body official MV thumbnail by Starship Entertainment" height="900" src="{{ site.baseurl }}/images/WJSN%20Dayoung%20body%20official%20MV%20thumbnail%20from%20go.jpg" style="border-radius: 12px; display: block; height: auto; width: 100%;" width="1600" />
+ <p style="color: #666666; font-size: 0.85em; margin-top: 6px;">Source: Official StarshipTV YouTube (© Starship Entertainment)</p>
+ </div>
 
- <details open="" style="margin: 0px auto 16px; max-width: 900px;">
- <summary style="cursor: pointer; font-weight: 600;">Table of Contents</summary>
- <ol style="line-height: 1.7; margin: 8px 0px 0px 18px;">
- <li><a href="#tldr">TL;DR</a></li>
- <li><a href="#quick-credits">Quick Credits</a></li>
- <li><a href="#story">The story you see on screen</a></li>
- <li><a href="#lyrics">Lyrics &amp; meaning</a></li>
- <li><a href="#bts">Behind the scenes &amp; member insights</a></li>
- <li><a href="#fan">Fan takeaways</a></li>
- <li><a href="#facts">Essential facts</a></li>
- <li><a href="#sources">Sources &amp; credits</a></li>
- </ol>
- </details>
+ <details open="" style="margin: 0px auto 16px; max-width: 900px;">
+ <summary style="cursor: pointer; font-weight: 600;">Table of Contents</summary>
+ <ol style="line-height: 1.7; margin: 8px 0px 0px 18px;">
+ <li><a href="#tldr">TL;DR</a></li>
+ <li><a href="#quick-credits">Quick Credits</a></li>
+ <li><a href="#story">The story you see on screen</a></li>
+ <li><a href="#lyrics">Lyrics &amp; meaning</a></li>
+ <li><a href="#bts">Behind the scenes &amp; member insights</a></li>
+ <li><a href="#fan">Fan takeaways</a></li>
+ <li><a href="#facts">Essential facts</a></li>
+ <li><a href="#sources">Sources &amp; credits</a></li>
+ </ol>
+ </details>
 
  <p>Watch the official music video for "body" here first:</p>
  <div style="text-align: center;">
