@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2025-08-22 00:00:00 +0900 # ✅ 날짜 추가 (MV 공개일 기준)
+date: 2025-08-22 00:00:00 +0900
 title: "Stray Kids 'CEREMONY' MV Explained: A Victorious Ritual Forged in Chaos"
 description: "MV Explained: Stray Kids' 'CEREMONY' — A deep dive into the 'visual story' of their victory ritual, the symbolism of 'Karma Sports,' and the internal battles fought to reach the top. Featuring a cameo by Faker."
 thumbnail: /images/stray-kids-ceremony-mv-screencap-2025.webp
@@ -12,10 +12,10 @@ tags:
   - "CEREMONY"
   - "CEREMONY Meaning"
   - "K-Pop Analysis"
-  - "Artist: Stray Kids"
-  - "Song: CEREMONY"
-  - "Album: KARMA"
-  - "Agency: JYP Entertainment"
+  - 'Artist: Stray Kids'   # ✅ 수정
+  - 'Song: CEREMONY'      # ✅ 수정
+  - 'Album: KARMA'        # ✅ 수정
+  - 'Agency: JYP Entertainment' # ✅ 수정
   - "2025 K-Pop"
   - "Faker"
 ---
