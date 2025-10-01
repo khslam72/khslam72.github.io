@@ -157,3 +157,60 @@ details ol li {
         height: 90px; /* ✅ 모바일 헤더 높이 조정 */
     }
 }
+/* assets/css/style.css 에 추가 */
+
+/* --- 게시물 본문 H2, H3 제목 스타일 일괄 적용 --- */
+.post-body h2 {
+  color: #00aaff; /* 진한 파랑 */
+  margin-top: 2.5em; /* 제목 위 여백 */
+  margin-bottom: 0.8em; /* 제목 아래 여백 */
+  font-family: var(--font-title); /* Poppins 또는 Pretendard */
+  font-weight: 700;
+}
+
+.post-body h3 {
+  color: #304090; /* 조금 더 어두운 파랑 */
+  margin-top: 2em;
+  margin-bottom: 0.6em;
+  font-family: var(--font-title);
+  font-weight: 600;
+}
+
+/* --- 목차 (Table of Contents) 스타일 --- */
+.post-body details { /* .post-body 안의 details에 적용 */
+  border: 1px solid var(--border-color);
+  background-color: #fafafa;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 30px 0;
+}
+
+.post-body details summary {
+  font-weight: 600;
+  cursor: pointer;
+  padding-bottom: 5px; /* summary와 ol 사이 간격 조절 */
+}
+
+.post-body details ol {
+  margin-top: 15px;
+  padding-left: 25px;
+  line-height: 1.5; /* 목차 항목 줄 간격 */
+}
+
+.post-body details ol li {
+  margin-bottom: 5px; /* 각 목차 항목 아래 여백 */
+}
+
+/* --- 'Related reading' 박스 스타일 --- */
+.related-reading-box {
+  border: 1px solid #eee;
+  border-radius: 10px;
+  padding: 10px 12px;
+  background: #fafafa;
+  margin: 12px 0;
+  line-height: 1.7; /* 본문과 동일한 줄 간격 */
+}
+.related-reading-box a {
+  color: #007bff; /* 링크 색상 */
+  text-decoration: underline;
+}
