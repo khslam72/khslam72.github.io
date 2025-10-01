@@ -170,13 +170,31 @@ details ol li {
 /* assets/css/style.css 에 추가 */
 
 /* --- 게시물 본문 H2, H3 제목 스타일 일괄 적용 --- */
+/* ... existing code ... */
 .post-body h2 {
-  color: #00aaff; /* 진한 파랑 */
-  margin-top: 2.5em; /* 제목 위 여백 */
-  margin-bottom: 0.8em; /* 제목 아래 여백 */
-  font-family: var(--font-title); /* Poppins 또는 Pretendard */
+  position: relative; /* 구분선의 위치 기준점이 됨 */
+  color: #00aaff;
+  margin-top: 2.5em;
+  margin-bottom: 2em; /* 선 아래 본문과의 간격 확보 */
+  font-family: 'Rajdhani', sans-serif; /* ✅ 엣지있는 글꼴로 변경 */
   font-weight: 700;
+  padding-bottom: 15px; /* 제목과 선 사이의 간격 */
 }
+
+/* ✅ 제목 아래에 자동으로 선 추가 */
+.post-body h2::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100px; /* 선의 길이 */
+  height: 3px;  /* 선의 두께 */
+  background: linear-gradient(to right, #00aaff, #c651ff); /* 제목과 어울리는 그라데이션 색상 */
+  border-radius: 2px;
+}
+
+.post-body h3 {
+/* ... existing code ... */
 
 .post-body h3 {
   color: #304090; /* 조금 더 어두운 파랑 */
