@@ -1,18 +1,17 @@
 /* assets/css/style.css */
 :root {
-    --bg-color: #fdfaff;
-    --card-bg: #ffffff;
-    --text-color: #343a40;
-    --title-color: #212529;
-    --point-color-1: #e6d4ff;
-    --point-color-2: #ffc2d1;
-    --point-text-color: #5c3b8a;
-    --border-color: #eeeeee;
-    --font-main: 'Noto Sans KR', sans-serif;
-    --font-title: 'Poppins', sans-serif;
+    --font-main: 'Pretendard', sans-serif;  /* ✅ 글꼴 변경 */
+    --font-title: 'Pretendard', sans-serif; /* ✅ 글꼴 변경 */
+    /* ... 나머지 색상 설정은 그대로 ... */
 }
-* { margin: 0; padding: 0; box-sizing: border-box; }
-body { font-family: var(--font-main); color: var(--text-color); background-color: var(--bg-color); line-height: 1.6; }
+
+body { 
+    font-family: var(--font-main); 
+    color: var(--text-color); 
+    background-color: var(--bg-color); 
+    line-height: 1.7; /* ✅ 줄 간격 1.7로 수정 */
+    word-break: keep-all; /* ✅ 단어 단위로 줄바꿈하여 가독성 향상 */
+}
 a { text-decoration: none; color: inherit; }
 #wrap { width: 100%; overflow-x: hidden; }
 .container { max-width: 1280px; margin: 40px auto; padding: 0 20px; }
