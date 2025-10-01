@@ -54,10 +54,6 @@ tags:
 <h2>Quick Summary: The Vibe Check</h2>
 With 'Chk Chk Boom,' Stray Kids delivered a high-octane blockbuster that perfectly encapsulated their creative chaos. It was a bold declaration of their status as the directors, actors, and heroes of their own story—a statement that has only grown more potent with time. It wasn't just a song; it was a mission statement.
 
-<div class="related-reading-box">
-<strong>Related reading:</strong> <a href="/search/label/MV%20Explained">More K-POP MV Explained</a> · <a href="/search/label/Streaming%20Guide">K-POP Streaming Guide</a>
-</div>
-
 <a name="quick-facts"></a>
 <h2>Quick Facts & Credits</h2>
 * **Artist:** Stray Kids (스트레이 키즈)
