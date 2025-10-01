@@ -1,22 +1,22 @@
 ---
 layout: post
 title: "IU’s ‘Love wins all’ (feat. V) Explained: A Dystopian Fight for Love"
-description: "MV Explained: IU’s ‘Love wins all’—cube & camcorder symbolism, dystopian love vs. discrimination, featuring BTS’s V."
-thumbnail: /images/iu-love-wins-all-mv-screencap-2024.webp # ✅ 썸네일 경로 추가
+description: "MV Explained: IU’s ‘Love wins all’—cube & camcorder symbolism, dystopian love vs. discrimination, featuring BTS’s V"
+thumbnail: /images/iu-love-wins-all-mv-screencap-2024.webp
 categories:
-  - K-POP MV Explained
+  - K-POP MV Explained # ✅ 여기에 들여쓰기 추가
 tags:
-  - "K-POP MV Explained"
-  - "IU"
-  - "Love wins all"
-  - "Love wins all Meaning"
-  - "K-Pop Analysis"
-  - "Artist: IU"
-  - "V (BTS)"
-  - "Director: Uhm Tae-hwa"
-  - "Song: Love wins all"
-  - "Agency: EDAM Entertainment"
-  - "2024 K-Pop"
+  - "K-POP MV Explained" # ✅ 여기부터 아래 항목들 모두 들여쓰기 추가
+  - "IU"
+  - "Love wins all"
+  - "Love wins all Meaning"
+  - "K-Pop Analysis"
+  - "Artist: IU"
+  - "V (BTS)"
+  - "Director: Uhm Tae-hwa"
+  - "Song: Love wins all"
+  - "Agency: EDAM Entertainment"
+  - "2024 K-Pop"
 ---
 
 ***
