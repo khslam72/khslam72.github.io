@@ -1,11 +1,13 @@
 ---
 layout: post
+date: 2025-03-17 00:00:00 +0900 # ✅ 날짜 추가 (MV 공개일 기준)
 title: "NMIXX's 'KNOW ABOUT ME' Explained: Sci-Fi R&B and the Quest for the Sixth Sense"
 description: "MV Explained: A deep dive into NMIXX’s ‘KNOW ABOUT ME’ MV—exploring the sci-fi journey, R&B shift, Mixxtopia lore, and the symbolism of the MMU ship and cat's eyes. Plus, the next chapter: 'Blue Valentine' comeback in October."
+thumbnail: /images/nmixx-know-about-me-mv-screencap-2025.webp # ✅ 썸네일 경로 추가
 categories:
-  - K-POP MV Explained
+  - K-POP MV Explained # ✅ 들여쓰기 수정
 tags:
-  - "K-POP MV Explained"
+  - "K-POP MV Explained" # ✅ 들여쓰기 수정
   - "NMIXX"
   - "KNOW ABOUT ME"
   - "NMIXX Lore"
@@ -18,8 +20,8 @@ tags:
 ---
 
 <style>
-  details ol { margin:0; padding-left:20px; }
-  details ol li { margin:2px 0; }
+details ol { margin:0; padding-left:20px; }
+details ol li { margin:2px 0; }
 </style>
 
 ***
@@ -31,37 +33,37 @@ tags:
 ***
 
 <div style="text-align:center;">
-  <img src="/images/nmixx-know-about-me-mv-screencap-2025.webp"
-       alt="NMIXX members in the airport scene from the 'KNOW ABOUT ME' official MV explained analysis thumbnail"
-       style="border-radius:12px; max-width:100%; height:auto;"
-       loading="lazy" decoding="async" fetchpriority="high" />
-  <br>
-  <span style="font-size:12px; color:#666;">
-    Source: Official NMIXX YouTube (© JYP Entertainment)
-  </span>
+<img src="/images/nmixx-know-about-me-mv-screencap-2025.webp"
+alt="NMIXX members in the airport scene from the 'KNOW ABOUT ME' official MV explained analysis thumbnail"
+style="border-radius:12px; max-width:100%; height:auto;"
+loading="lazy" decoding="async" fetchpriority="high" />
+<br>
+<span style="font-size:12px; color:#666;">
+Source: Official NMIXX YouTube (© JYP Entertainment)
+</span>
 </div>
 
 ***
 
 <details open>
-  <summary><strong>Table of Contents (Find Your Story)</strong></summary>
-  <ol>
-    <li><a href="#tldr">Quick Summary: The Vibe Check</a></li>
-    <li><a href="#quick-facts">Quick Facts & Credits</a></li>
-    <li><a href="#story-on-screen">The Story You See on Screen: Boarding the MMU</a></li>
-    <li><a href="#lyrics-meaning">Lyrics & Meaning: Confidence in the Unknown</a></li>
-    <li><a href="#bts-insights">Behind the Scenes & Visual Insights (The Lore)</a></li>
-    <li><a href="#fan-takeaways">Fan Takeaways & The Next Chapter: Blue Valentine</a></li>
-    <li><a href="#sources">Sources & Technical Data</a></li>
-  </ol>
+<summary><strong>Table of Contents (Find Your Story)</strong></summary>
+<ol>
+<li><a href="#tldr">Quick Summary: The Vibe Check</a></li>
+<li><a href="#quick-facts">Quick Facts & Credits</a></li>
+<li><a href="#story-on-screen">The Story You See on Screen: Boarding the MMU</a></li>
+<li><a href="#lyrics-meaning">Lyrics & Meaning: Confidence in the Unknown</a></li>
+<li><a href="#bts-insights">Behind the Scenes & Visual Insights (The Lore)</a></li>
+<li><a href="#fan-takeaways">Fan Takeaways & The Next Chapter: Blue Valentine</a></li>
+<li><a href="#sources">Sources & Technical Data</a></li>
+</ol>
 </details>
 
 <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; border-radius:12px;">
-  <iframe src="https://www.youtube.com/embed/aFrQIJ5cbRc?rel=0"
-          title="NMIXX - KNOW ABOUT ME (Official MV) Explained"
-          style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;"
-          allowfullscreen
-          loading="lazy"></iframe>
+<iframe src="https://www.youtube.com/embed/aFrQIJ5cbRc?rel=0"
+title="NMIXX - KNOW ABOUT ME (Official MV) Explained"
+style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;"
+allowfullscreen
+loading="lazy"></iframe>
 </div>
 
 ---
@@ -72,9 +74,9 @@ tags:
 **"KNOW ABOUT ME"** is the climactic third chapter in NMIXX's *Fe3O4* lore, depicting the members fully **awakened** and ready to escape the 'FIELD'—their current reality—and journey toward **Mixxtopia**. The MV is set largely within a futuristic spaceport/airport, symbolizing a major transition. The members are going through security and boarding their multi-dimensional ship, the MMU (*Mixx Management Unit*). Musically, the song trades the sharp switches of classic MIXX POP for a sophisticated, **R&B/Trip-Hop** vibe, proving their vocal depth. The core message is pure confidence and self-discovery ("know about me") as they set foot into the unknown.
 
 <div style="border:1px solid #eee; border-radius:10px; padding:10px 12px; background:#fafafa; margin:12px 0;">
-  <strong>Related reading:</strong>
-  <a href="/search/label/MV%20Explained">More K-POP MV Explained</a> · 
-  <a href="/search/label/Streaming%20Guide">K-POP Streaming Guide</a>
+<strong>Related reading:</strong>
+<a href="/search/label/MV%20Explained">More K-POP MV Explained</a> · 
+<a href="/search/label/Streaming%20Guide">K-POP Streaming Guide</a>
 </div>
 
 ---
@@ -83,17 +85,17 @@ tags:
 <h2 style="color: #00aaff;">Quick Facts & Credits for "KNOW ABOUT ME"</h2>
 ***
 <div style="border:1px solid #eee; border-radius:12px; padding:12px 14px; background:#fcfcfc;">
-  <div style="display:grid; grid-template-columns:1fr 1fr; gap:8px 16px; font-size:14px; line-height:1.8;">
-    <div>**Artist**: NMIXX (엔믹스)</div>
-    <div>**Song**: “KNOW ABOUT ME”</div>
-    <div>**Album**: Fe3O4: FORWARD (4th EP)</div>
-    <div>**Release**: 2025-03-17</div>
-    <div>**Agency**: JYP Entertainment</div>
-    <div>**Director**: Unknown (High Quality CGI/VFX)</div>
-    <div>**Concept**: Sci-Fi Escape / R&B Awakening</div>
-    <div>**MV ID**: aFrQIJ5cbRc</div>
-    <div>**Lore Focus**: The MMU Ship and the 6th Sense</div>
-  </div>
+<div style="display:grid; grid-template-columns:1fr 1fr; gap:8px 16px; font-size:14px; line-height:1.8;">
+<div>**Artist**: NMIXX (엔믹스)</div>
+<div>**Song**: “KNOW ABOUT ME”</div>
+<div>**Album**: Fe3O4: FORWARD (4th EP)</div>
+<div>**Release**: 2025-03-17</div>
+<div>**Agency**: JYP Entertainment</div>
+<div>**Director**: Unknown (High Quality CGI/VFX)</div>
+<div>**Concept**: Sci-Fi Escape / R&B Awakening</div>
+<div>**MV ID**: aFrQIJ5cbRc</div>
+<div>**Lore Focus**: The MMU Ship and the 6th Sense</div>
+</div>
 </div>
 <p style="margin-top:12px;">*Composers: Dem Jointz, Ryan S. Jhun, etc. / Lyrics: Park Jin-young, Lee Seu-ran, etc.*</p>
 
@@ -132,7 +134,7 @@ Unlike previous NMIXX title tracks that focused on the chaos of the *O.O* (unexp
 ***
 The MV is packed with subtle lore references and complex visual storytelling.
 
-**1. The Biblical/Mythological Subtext:** Some fans and analysts noted possible mythological parallels. The boarding of the MMU ship, potentially carrying them (and other believers/NSWERs) to a utopian land, mirrors the story of **Noah's Ark**. Scenes featuring mysterious glowing jellies that give them 'knowledge' can be likened to the **Forbidden Fruit**—implying that their journey to Mixxtopia requires breaking rules or challenging the status quo of the FIELD.
+**1. The Biblical/Mythological Subtext:** Some fans and analysts noted possible mythological parallels. The boarding of the MMU ship, potentially carrying them (and other believers/NSWERs) to a utopian land, mirrors the story of **Noah's Ark**. Scenes featuring mysterious glowing jellies that give them 'knowledge' can be likened to the **Forbidden Fruit**—implying that their journey to Mixxtopia requires breaking rules or challenging the status status quo of the FIELD.
 
 **2. Kyujin's Cat Eye and the Spy:** **Kyujin's** distinctive cat-eye visual is highly significant. In NMIXX lore, this often hints at her role as an observant or perhaps even a guiding figure. In the "KNOW ABOUT ME" MV, she is often shown looking through screens or acting as an introspective observer. This suggests that the process of "knowing" themselves and the path forward is a deep, internal, and visually acute one.
 
@@ -158,35 +160,35 @@ This marks a massive new chapter for the group, moving past the lore of the FIEL
 ***
 <h3 style="color: #304090;">Credible Sources</h3>
 <ul style="padding-left:18px; margin:0 0 12px;">
-  <li><a href="https://www.youtube.com/watch?v=aFrQIJ5cbRc" rel="nofollow noopener" target="_blank">Official MV — NMIXX YouTube</a></li>
-  <li><a href="https://biz.chosun.com/en/en-entertainment/2025/09/26/IJ7B7YERD5BSHJMQTYXDVFHXZI/" rel="nofollow noopener" target="_blank">NMIXX 'Blue Valentine' Comeback News (CHOSUNBIZ)</a></li>
-  <li><a href="https://kpopreviewed.com/2025/03/24/know-about-me-nmixx/" rel="nofollow noopener" target="_blank">Review & MV Interpretation (Kpop Reviewed)</a></li>
-  <li><a href="https://www.reddit.com/r/NMIXX/comments/1ldzpww/know_about_me_storyboard_analysis_the_compromise/" rel="nofollow noopener" target="_blank">Fan Lore and Storyboard Analysis (Reddit)</a></li>
+<li><a href="https://www.youtube.com/watch?v=aFrQIJ5cbRc" rel="nofollow noopener" target="_blank">Official MV — NMIXX YouTube</a></li>
+<li><a href="https://biz.chosun.com/en/en-entertainment/2025/09/26/IJ7B7YERD5BSHJMQTYXDVFHXZI/" rel="nofollow noopener" target="_blank">NMIXX 'Blue Valentine' Comeback News (CHOSUNBIZ)</a></li>
+<li><a href="https://kpopreviewed.com/2025/03/24/know-about-me-nmixx/" rel="nofollow noopener" target="_blank">Review & MV Interpretation (Kpop Reviewed)</a></li>
+<li><a href="https://www.reddit.com/r/NMIXX/comments/1ldzpww/know_about_me_storyboard_analysis_the_compromise/" rel="nofollow noopener" target="_blank">Fan Lore and Storyboard Analysis (Reddit)</a></li>
 </ul>
 
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "MusicVideoObject",
-  "name": "NMIXX - KNOW ABOUT ME (Official Music Video) Explained",
-  "description": "A deep-dive analysis of NMIXX's 'KNOW ABOUT ME' MV, examining its sci-fi lore, R&B style shift, and the narrative of escaping the FIELD to Mixxtopia. Includes details on the upcoming 'Blue Valentine' comeback.",
-  "byArtist": {
-    "@type": "MusicGroup",
-    "name": "NMIXX"
-  },
-  "duration": "PT03M05S",
-  "uploadDate": "2025-03-17T00:00:00Z",
-  "inLanguage": "ko",
-  "genre": "R&B, Trap, Pop",
-  "thumbnailUrl": "https://kcontents.site/images/nmixx-know-about-me-mv-screencap-2025.webp",
-  "embedUrl": "https://www.youtube.com/embed/aFrQIJ5cbRc?rel=0",
-  "publisher": {
-    "@type": "Organization",
-    "name": "JYP Entertainment"
-  },
-  "potentialAction": {
-    "@type": "WatchAction",
-    "target": "https://www.youtube.com/watch?v=aFrQIJ5cbRc"
-  }
+"@context": "https://schema.org",
+"@type": "MusicVideoObject",
+"name": "NMIXX - KNOW ABOUT ME (Official Music Video) Explained",
+"description": "A deep-dive analysis of NMIXX's 'KNOW ABOUT ME' MV, examining its sci-fi lore, R&B style shift, and the narrative of escaping the FIELD to Mixxtopia. Includes details on the upcoming 'Blue Valentine' comeback.",
+"byArtist": {
+"@type": "MusicGroup",
+"name": "NMIXX"
+},
+"duration": "PT03M05S",
+"uploadDate": "2025-03-17T00:00:00Z",
+"inLanguage": "ko",
+"genre": "R&B, Trap, Pop",
+"thumbnailUrl": "https://kcontents.site/images/nmixx-know-about-me-mv-screencap-2025.webp",
+"embedUrl": "https://www.youtube.com/embed/aFrQIJ5cbRc?rel=0",
+"publisher": {
+"@type": "Organization",
+"name": "JYP Entertainment"
+},
+"potentialAction": {
+"@type": "WatchAction",
+"target": "https://www.youtube.com/watch?v=aFrQIJ5cbRc"
+}
 }
 </script>
