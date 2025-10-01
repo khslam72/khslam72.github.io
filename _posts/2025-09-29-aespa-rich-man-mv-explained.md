@@ -1,52 +1,56 @@
 ---
-title: "The Story of 'Rich Man' by aespa Explained: Redefining Wealth and Power (MV Explained Guide)"
+layout: post
+date: 2025-10-01 09:58:00 +0900
+title: "The Story of 'Rich Man' by aespa Explained: Redefining Wealth and Power"
 description: "A deep-dive MV Explained guide for aespa's Rich Man. We analyze the luxurious and confident visual story, the core lyric meaning, and the connection to the group's evolving cinematic universe."
 excerpt: "A deep-dive MV Explained guide for aespa's Rich Man. We analyze the luxurious and confident visual story, the core lyric meaning, and the connection to the group's evolving cinematic universe."
-category: K-POP MV Explained
+thumbnail: /images/aespa-rich-man-mv-screencap-2025.webp # ✅ 썸네일 경로 추가
+categories:
+  - K-POP MV Explained # ✅ categories 형식으로 변경 및 들여쓰기 수정
 tags:
-- K-POP MV Explained
-- aespa Rich Man
-- Rich Man Lyrics Meaning
-- K-Pop Analysis
-- Artist: aespa
-- Song: Rich Man
-- Agency: SM Entertainment
-- 2025 K-Pop
+  - K-POP MV Explained # ✅ 들여쓰기 수정
+  - aespa Rich Man
+  - Rich Man Lyrics Meaning
+  - K-Pop Analysis
+  - "Artist: aespa"
+  - "Song: Rich Man"
+  - "Agency: SM Entertainment"
+  - "2025 K-Pop"
 ---
 <p style="margin: 8px 0px 16px;">
 *"Mom, I already have everything.”* This single statement is aespa's newest declaration. The **'Rich Man'** music video defines a new kind of "wealth"—**self-confidence and self-love**—and expands aespa’s universe with bold statements. Let's dive deep into the message and attitude hidden beneath the luxurious visuals.</p>
 
 ---
 <div align="center">
-  <img src="/images/aespa-rich-man-mv-screencap-2025.webp" 
-       alt='aespa "Rich Man" official MV explained analysis thumbnail by SM Entertainment' 
-       width="100%" 
-       loading="lazy" 
-       decoding="async" 
-       fetchpriority="high"
-       style="border-radius:12px;" />
-  <br>
-  <span style="font-size:12px;color:#666;">Source: Official aespa YouTube (© SM Entertainment)</span>
+  <img src="/images/aespa-rich-man-mv-screencap-2025.webp" 
+       alt='aespa "Rich Man" official MV explained analysis thumbnail by SM Entertainment' 
+       width="100%" 
+       loading="lazy" 
+       decoding="async" 
+       fetchpriority="high"
+       style="border-radius:12px;" />
+  <br>
+  <span style="font-size:12px;color:#666;">Source: Official aespa YouTube (© SM Entertainment)</span>
 </div>
 ---
 <details open>
-  <summary><strong>Table of Contents (Find Your Story)</strong></summary>
-  <ol>
-    <li><a href="#tldr">Quick Summary: The Vibe Check</a></li>
-    <li><a href="#quick-facts">Quick Facts & Credits</a></li>
-    <li><a href="#story-on-screen">The Story You See on Screen</a></li>
-    <li><a href="#lyrics-meaning">Lyrics & meaning</a></li>
-    <li><a href="#bts-insights">Behind the scenes & visual insights</a></li>
-    <li><a href="#fan-takeaways">Fan takeaways</a></li>
-    <li><a href="#sources">Sources & Technical Data</a></li>
-  </ol>
+  <summary><strong>Table of Contents (Find Your Story)</strong></summary>
+  <ol>
+    <li><a href="#tldr">Quick Summary: The Vibe Check</a></li>
+    <li><a href="#quick-facts">Quick Facts & Credits</a></li>
+    <li><a href="#story-on-screen">The Story You See on Screen</a></li>
+    <li><a href="#lyrics-meaning">Lyrics & meaning</a></li>
+    <li><a href="#bts-insights">Behind the scenes & visual insights</a></li>
+    <li><a href="#fan-takeaways">Fan takeaways</a></li>
+    <li><a href="#sources">Sources & Technical Data</a></li>
+  </ol>
 </details>
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:12px;">
-  <iframe src="https://www.youtube.com/embed/5oQVTnq-UKk?rel=0" 
-          title="aespa - Rich Man (Official MV) Explained" 
-          style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" 
-          allowfullscreen 
-          loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/5oQVTnq-UKk?rel=0" 
+          title="aespa - Rich Man (Official MV) Explained" 
+          style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" 
+          allowfullscreen 
+          loading="lazy"></iframe>
 </div>
 
 ---
