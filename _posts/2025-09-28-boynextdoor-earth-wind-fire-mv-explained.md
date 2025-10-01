@@ -1,19 +1,32 @@
 ---
+layout: post
+date: 2024-04-15 09:00:00 +0900 # ✅ 날짜 추가 (MV 공개일 기준, UTC 기준 00:00:00 +9시간)
 title: "BOYNEXTDOOR – “Earth, Wind & Fire” MV Explained: Love as a Weather Report (With Zero Chill)"
 description: "A deep-dive MV Explained guide for BOYNEXTDOOR's 'Earth, Wind & Fire.' We analyze how the MV turns first love into a literal forecast: gusty emotions, blazing confessions, and surreal scenery."
 excerpt: "A deep-dive MV Explained guide for BOYNEXTDOOR's 'Earth, Wind & Fire.' We analyze how the MV turns first love into a literal forecast: gusty emotions, blazing confessions, and surreal scenery."
+thumbnail: /images/boynextdoor-earth-wind-fire-mv-thumbnail.webp # ✅ 썸네일 추가
 category: K-POP MV Explained
 tags:
-- BOYNEXTDOOR Earth Wind Fire
-- BOYNEXTDOOR MV Explained
-- K-Pop Analysis
-- Artist: BOYNEXTDOOR
-- Song: Earth Wind Fire
-- Agency: KOZ Entertainment
-- 2024 K-Pop
+- "BOYNEXTDOOR Earth Wind Fire" # ✅ 따옴표 추가
+- "BOYNEXTDOOR MV Explained" # ✅ 따옴표 추가
+- "K-Pop Analysis" # ✅ 따옴표 추가
+- 'Artist: BOYNEXTDOOR' # ✅ 따옴표 및 콜론 처리
+- 'Song: Earth Wind Fire' # ✅ 따옴표 및 콜론 처리
+- 'Agency: KOZ Entertainment' # ✅ 따옴표 및 콜론 처리
+- "2024 K-Pop" # ✅ 따옴표 추가
 ---
 <p style="margin: 8px 0px 16px;">
 *The MV turns first love into a literal forecast: gusty emotions, blazing confessions, and surreal scenery flying past like loose umbrellas—cute, chaotic, and very BOYNEXTDOOR.*</p>
+
+---
+<div align="center">
+  <img src="/images/boynextdoor-earth-wind-fire-mv-thumbnail.webp"
+       alt="BOYNEXTDOOR members in the 'Earth, Wind & Fire' official MV explained analysis thumbnail"
+       style="border-radius:12px; max-width:100%; height:auto;"
+       loading="lazy" decoding="async" fetchpriority="high" />
+  <br>
+  <span style="font-size:12px;color:#666;">Source: Official BOYNEXTDOOR YouTube (© KOZ Entertainment)</span>
+</div>
 
 ---
 <details open>
@@ -32,10 +45,10 @@ tags:
   </ol>
 </details>
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:12px; margin-top: 1em;">
-  <iframe src="https://www.youtube.com/embed/u9nP3qXQA4o?rel=0" 
-          title="BOYNEXTDOOR - Earth, Wind & Fire (Official MV) Explained" 
-          style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" 
-          allowfullscreen 
+  <iframe src="https://www.youtube.com/embed/u9nP3qXQA4o?rel=0"
+          title="BOYNEXTDOOR - Earth, Wind & Fire (Official MV) Explained"
+          style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
+          allowfullscreen
           loading="lazy"></iframe>
 </div>
 <div align="center">
@@ -49,7 +62,7 @@ tags:
 **"Earth, Wind & Fire"** transforms the chaos of a first crush into a literal weather report. The music video uses a playful, kitsch-core aesthetic to visualize love's unpredictable nature: the **nervous energy of wind**, the **bold passion of fire**, and the **overwhelming feeling of finding solid ground (earth)**. It's a surreal, hyper-colorful journey that perfectly captures BOYNEXTDOOR's charmingly chaotic energy.
 <div style="border:1px solid #eee;border-radius:10px;padding:10px 12px;background:#fafafa;margin:12px 0;">
   <strong>Related reading:</strong>
-  <a href="/search/label/MV%20Explained">More K-POP MV Explained</a> · 
+  <a href="/search/label/MV%20Explained">More K-POP MV Explained</a> ·
   <a href="/search/label/Streaming%20Guide">K-POP Streaming Guide</a>
 </div>
 
