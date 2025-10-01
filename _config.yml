@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 name: K-Contents Hub
 title: K-Contents Hub
-description: K-Contents Hub shares K-POP, and Korean culture in English for global fans.
+description: K-Contents Hub shares in-depth K-POP analysis, music video breakdowns, artist insights, and Korean culture stories in English for global fans who want to explore trends and discover hidden meanings.
 url: "https://kcontents.site" # 사용하시는 실제 도메인
 baseurl: ""
 locale: "en-US" # 영문 블로그에 맞춰 수정됨
@@ -62,6 +62,7 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
 
 
 
