@@ -2,20 +2,21 @@
 layout: post
 title: "IU’s ‘Love wins all’ (feat. V) Explained: A Dystopian Fight for Love"
 description: "MV Explained: IU’s ‘Love wins all’—cube & camcorder symbolism, dystopian love vs. discrimination, featuring BTS’s V."
+thumbnail: /images/iu-love-wins-all-mv-screencap-2024.webp # ✅ 썸네일 경로 추가
 categories:
-  - K-POP MV Explained
+  - K-POP MV Explained
 tags:
-  - "K-POP MV Explained"
-  - "IU"
-  - "Love wins all"
-  - "Love wins all Meaning"
-  - "K-Pop Analysis"
-  - "Artist: IU"
-  - "V (BTS)"
-  - "Director: Uhm Tae-hwa"
-  - "Song: Love wins all"
-  - "Agency: EDAM Entertainment"
-  - "2024 K-Pop"
+  - "K-POP MV Explained"
+  - "IU"
+  - "Love wins all"
+  - "Love wins all Meaning"
+  - "K-Pop Analysis"
+  - "Artist: IU"
+  - "V (BTS)"
+  - "Director: Uhm Tae-hwa"
+  - "Song: Love wins all"
+  - "Agency: EDAM Entertainment"
+  - "2024 K-Pop"
 ---
 
 ***
@@ -24,37 +25,36 @@ tags:
 
 ---
 <div align="center">
-  <img src="/images/iu-love-wins-all-mv-screencap-2024.webp" 
-       alt='IU and V of BTS in the "Love wins all" official MV explained analysis thumbnail by EDAM Entertainment' 
-       width="100%" 
-       loading="lazy" 
-       decoding="async" 
-       fetchpriority="high"
-       style="border-radius:12px;" />
-  <br>
-  <span style="font-size:12px;color:#666;">Source: Official IU YouTube (© EDAM Entertainment)</span>
+  <img src="/images/iu-love-wins-all-mv-screencap-2024.webp" 
+       alt='IU and V of BTS in the "Love wins all" official MV explained analysis thumbnail by EDAM Entertainment' 
+       width="100%" 
+       loading="lazy" 
+       decoding="async" 
+       fetchpriority="high"
+       style="border-radius:12px;" />
+  <br>
+  <span style="font-size:12px;color:#666;">Source: Official IU YouTube (© EDAM Entertainment)</span>
 </div>
 ---
 <details open>
-  <summary><strong>Table of Contents (Find Your Story)</strong></summary>
-  <ol>
-    <li><a href="#tldr">Quick Summary: The Vibe Check</a></li>
-    <li><a href="#quick-facts">Quick Facts & Credits</a></li>
-    <li><a href="#story-on-screen">The Story You See on Screen</a></li>
-    <li><a href="#lyrics-meaning">Lyrics & meaning</a></li>
-    <li><a href="#bts-insights">Behind the scenes & visual insights</a></li>
-    <li><a href="#fan-takeaways">Fan takeaways</a></li>
-    <li><a href="#sources">Sources & Technical Data</a></li>
-  </ol>
+  <summary><strong>Table of Contents (Find Your Story)</strong></summary>
+  <ol>
+    <li><a href="#tldr">Quick Summary: The Vibe Check</a></li>
+    <li><a href="#quick-facts">Quick Facts & Credits</a></li>
+    <li><a href="#story-on-screen">The Story You See on Screen</a></li>
+    <li><a href="#lyrics-meaning">Lyrics & meaning</a></li>
+    <li><a href="#bts-insights">Behind the scenes & visual insights</a></li>
+    <li><a href="#fan-takeaways">Fan takeaways</a></li>
+    <li><a href="#sources">Sources & Technical Data</a></li>
+  </ol>
 </details>
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:12px;">
-  <iframe src="https://www.youtube.com/embed/JleoAppaxi0?rel=0" 
-          title="IU - Love wins all (Official MV) Explained" 
-          style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" 
-          allowfullscreen 
-          loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/JleoAppaxi0?rel=0" 
+          title="IU - Love wins all (Official MV) Explained" 
+          style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" 
+          allowfullscreen 
+          loading="lazy"></iframe>
 </div>
-
 ---
 <a name="tldr"></a>
 <h2 style="color: #00aaff;">Quick Summary: The Vibe Check (Our Ending Is Not a Sad End)</h2>
