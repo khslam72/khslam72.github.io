@@ -45,7 +45,13 @@ tags:
 </ol>
 </details>
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:12px;"><iframe src="https://www.youtube.com/embed/_tV5LEBDs7w?rel=0"title="SLANDER, Dylan Matthew - Love Is Gone (feat. JOSHUA of SEVENTEEN) (Official MV) Explained"style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"allowfullscreenloading="lazy"></iframe></div>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:12px;">
+<iframe src="https://www.google.com/search?q=https://www.youtube.com/embed/_tV5LEBDs7w%3Frel%3D0"
+title="SLANDER, Dylan Matthew - Love Is Gone (feat. JOSHUA of SEVENTEEN) (Official MV) Explained"
+style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
+allowfullscreen
+loading="lazy"></iframe>
+</div>
 
 <a name="tldr"></a>
 <h2>Quick Summary: The Vibe Check</h2>
