@@ -71,7 +71,7 @@ a { text-decoration: none; color: inherit; }
   font-family: 'Orbitron', sans-serif; /* ✅ 아트체 글꼴로 변경 */
   font-size: 32px; /* ✅ 24pt(약 32px)로 크기 조정 */
   line-height: 1.4;
-  color: #6F00FF; /* ✅ 멋있는 보라색으로 변경 */
+  color: #4B0082; /* ✅ 멋있는 보라색으로 변경 */
   text-shadow: 0 0 6px rgba(224, 64, 251, 0.6); /* ✅ 은은한 네온 효과 추가 */
   margin-bottom: 15px;
 }
