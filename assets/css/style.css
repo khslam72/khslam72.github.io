@@ -247,6 +247,7 @@ details ol li {
   color: #007bff; /* 링크 색상 */
   text-decoration: underline;
 }
+    
 /* --- About 페이지 전용: 프로필 헤더 --- */
 .post-body .about-profile-header {
   display: flex;
@@ -301,3 +302,4 @@ details ol li {
     height: 64px !important;
   }
 }
+
