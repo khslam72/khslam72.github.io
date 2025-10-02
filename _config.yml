@@ -4,15 +4,15 @@
 name: K-Contents Hub
 title: K-Contents Hub
 description: K-Contents Hub shares in-depth K-POP analysis, music video breakdowns, artist insights, and Korean culture stories in English for global fans who want to explore trends and discover hidden meanings.
-url: "https://kcontents.site" # 사용하시는 실제 도메인
+url: "https://kcontents.site"
 baseurl: ""
-locale: "en-US" # 영문 블로그에 맞춰 수정됨
+locale: "en-US"
 timezone: Asia/Seoul
 
 # -----------------------------------------------------------------------------
-# 테마 설정
+# 테마 설정 (사용 안 함)
+# theme: jekyll-theme-minimal  <- 이 줄을 완전히 삭제했습니다.
 # -----------------------------------------------------------------------------
-theme: jekyll-theme-minimal # ⬅️ Minimal 테마 적용 (theme 사용)
 
 # -----------------------------------------------------------------------------
 # 빌드 및 퍼머링크 설정
@@ -33,13 +33,13 @@ sass:
   style: :compressed
 
 # -----------------------------------------------------------------------------
-# ⚠️ 플러그인 목록 정리 (Minimal 테마는 복잡한 플러그인이 필요 없습니다)
+# 플러그인 목록
 # -----------------------------------------------------------------------------
 plugins:
-  - jekyll-sitemap # SEO를 위해 유지
-  - jekyll-feed    # RSS 피드를 위해 유지
-  - jekyll-paginate # 포스팅 목록 페이지네이션을 위해 유지
-  - jekyll-seo-tag  # ✅ 이 줄을 추가하세요
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
 
 # -----------------------------------------------------------------------------
 # 소셜/푸터 링크 설정
@@ -62,7 +62,6 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
 
 
 
