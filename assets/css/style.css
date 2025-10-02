@@ -247,45 +247,63 @@ details ol li {
   color: #007bff; /* 링크 색상 */
   text-decoration: underline;
 }
-    
-/* --- About 전용 헤더 정렬 --- */
-.post-body .about-profile-header{
+ /* --- About 페이지 스타일 (최종 수정본) --- */
+.about-profile-header {
   display: flex;
   align-items: center;
-  gap: 16px;
-  flex-wrap: nowrap;        /* 한 줄 고정 */
-  margin-bottom: .75em;
+  gap: 20px; /* 로고와 이름 사이 간격 */
+  margin-bottom: 0.5em; /* 아래 curator 텍스트와의 간격 */
 }
 
-/* 로고: 확실히 작게 고정 */
-.post-body .about-profile-logo{
-  width: 64px !important;   /* 필요시 56~72px로 조절 */
-  height: 64px !important;
-  max-width: none !important;
+.about-profile-logo {
+  height: 80px;
+  width: 80px;
   border-radius: 50%;
   border: 2px solid var(--border-color);
-  object-fit: contain;
-  flex: 0 0 64px;           /* 줄바꿈 방지 */
-  display: inline-block !important;
-  margin: 0 !important;
+  flex-shrink: 0;
 }
 
-/* 이름: 큰 텍스트지만 줄 독점 금지 */
-.post-body .about-name{
+.about-name {
   font-family: 'Rajdhani', sans-serif;
-  font-size: clamp(2.4rem, 4.2vw, 3.6rem);
-  line-height: 1.05;
+  font-size: 4rem; /* 이름 크기 두 배로 키움 */
   color: var(--title-color);
-  font-weight: 700;
   margin: 0;
-  flex: 0 0 auto !important; /* 전역 폭/플렉스 규칙 무력화 */
-  min-width: 0 !important;   /* 폭 100% 강제 차단 */
-  white-space: nowrap;       /* 이름 줄바꿈 방지(원하면 지워도 OK) */
+  line-height: 1.1;
+  font-weight: 700;
 }
 
-/* 모바일: 세로 스택 */
-@media (max-width: 768px){
-  .post-body .about-profile-header{ flex-direction: column; text-align: center; }
-  .post-body .about-profile-logo{ width: 56px !important; height: 56px !important; }
-  .post-body .about-name{ font-size: 2.4rem; white-space: normal; }
+.about-curator {
+  font-size: 1.2rem;
+  color: #FF8C00; /* 사이트 제목과 동일한 주황색 */
+  font-weight: 600;
 }
+
+.about-divider {
+  border: 0;
+  height: 1px;
+  background: var(--border-color);
+  margin: 2em 0;
+}
+
+.about-contact {
+  margin-top: 3em;
+  font-size: 0.9rem;
+  color: #555;
+}
+
+.about-email-link {
+  color: #007bff;
+  text-decoration: underline;
+  font-weight: 600;
+}
+
+/* 모바일 화면에서는 로고와 이름이 세로로 쌓이도록 설정 */
+@media (max-width: 768px) {
+  .about-profile-header {
+    flex-direction: column;
+    text-align: center;
+  }
+  .about-name {
+    font-size: 3rem;
+  }
+}   
