@@ -13,7 +13,7 @@ permalink: /about/
     
     <!-- 프로필 헤더: 로고와 이름 -->
     <div class="about-profile-header">
-     <h2 class="about-name">KH Lee</h2>  <p class="about-curator">K-Contents Curator</p>
+     <h2 class="about-name">KH Lee [K-Contents Curator]</h2>  <p class="about-curator"></p>
     </div>
 
    
