@@ -4,19 +4,19 @@ title: "IU’s ‘Love wins all’ (feat. V) Explained: A Dystopian Fight for Lo
 description: "MV Explained: IU’s ‘Love wins all’—cube & camcorder symbolism, dystopian love vs. discrimination, featuring BTS’s V"
 thumbnail: /images/iu-love-wins-all-mv-screencap-2024.webp
 categories:
-  - K-POP MV Explained
+  - K-POP MV Explained
 tags:
-  - "K-POP MV Explained"
-  - "IU"
-  - "Love wins all"
-  - "Love wins all Meaning"
-  - "K-Pop Analysis"
-  - 'Artist: IU'
-  - "V (BTS)"
-  - 'Director: Uhm Tae-hwa'
-  - 'Song: Love wins all'
-  - 'Agency: EDAM Entertainment'
-  - "2024 K-Pop"
+  - "K-POP MV Explained"
+  - "IU"
+  - "Love wins all"
+  - "Love wins all Meaning"
+  - "K-Pop Analysis"
+  - 'Artist: IU'
+  - "V (BTS)"
+  - 'Director: Uhm Tae-hwa'
+  - 'Song: Love wins all'
+  - 'Agency: EDAM Entertainment'
+  - "2024 K-Pop"
 ---
 
 ***
@@ -116,7 +116,7 @@ Director Uhm Tae-hwa has been open about the MV's symbolism, giving us a clear g
 
 **1. The Cube ("Nemo"): Symbol of Discrimination:** The director confirmed that the cube represents **"various forms of discrimination and oppression prevalent in our daily lives."** It is a cold, indifferent force that seeks to erase those who are different. This transforms the MV from a simple sci-fi story into a powerful social commentary applicable to struggles against prejudice faced by minorities, the disabled community (as hinted by IU and V's afflictions), and anyone deemed "other" by society.
 
-**2. The Camcorder: The "Love Filter":** The camcorder is the **"lens of love."** It's a crucial device showing that love allows us to see beyond external flaws and the harshness of reality to the beautiful essence of a person and the world. It’s the tool they use to reclaim their humanity.
+**2. The Camcorder: The "Love Filter":** The camcorder is the **"lens of love."**. It's a crucial device showing that love allows us to see beyond external flaws and the harshness of reality to the beautiful essence of a person and the world. It’s the tool they use to reclaim their humanity.
 
 **3. The Wedding Attire: Symbol of Freedom:** The dress and tuxedo are not just costumes. In this ruined world, wearing them is the ultimate act of freedom and normalcy. It symbolizes their choice to celebrate their love on their own terms, fulfilling a dream that reality would never permit. This makes their final moments a triumph, not a defeat.
 
