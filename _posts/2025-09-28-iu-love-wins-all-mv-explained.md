@@ -19,11 +19,9 @@ tags:
   - "2024 K-Pop"
 ---
 
-***
 <p style="margin: 8px 0px 16px;">
 *In a world reduced to ruins, can love survive? IU’s cinematic masterpiece, **"Love wins all,"** answers with a resounding, heartbreaking "yes." Featuring a stunning performance by V of BTS, the music video is not just a song, but a short film—a **'visual story'** about defiance, hope, and the desperate fight to see beauty in a world determined to erase it. Let’s explore the profound symbolism and emotional journey of this unforgettable story.*</p>
 
----
 <div align="center">
 <img src="/images/iu-love-wins-all-mv-screencap-2024.webp"
 alt='IU and V of BTS in the "Love wins all" official MV explained analysis thumbnail by EDAM Entertainment'
@@ -34,7 +32,7 @@ fetchpriority="high" />
 <br>
 <span style="font-size:12px;color:#666;">Source: Official IU YouTube (© EDAM Entertainment)</span>
 </div>
----
+
 <details open>
 <summary><strong>Table of Contents (Find Your Story)</strong></summary>
 <ol>
@@ -47,6 +45,7 @@ fetchpriority="high" />
 <li><a href="#sources">Sources & Technical Data</a></li>
 </ol>
 </details>
+
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:12px;">
 <iframe src="https://www.youtube.com/embed/JleoAppaxi0?rel=0"
 title="IU - Love wins all (Official MV) Explained"
@@ -54,7 +53,7 @@ style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
 allowfullscreen
 loading="lazy"></iframe>
 </div>
----
+
 <a name="tldr"></a>
 <h2 style="color: #00aaff;">Quick Summary: The Vibe Check (Our Ending Is Not a Sad End)</h2>
 "Love wins all" is a cinematic ballad depicting a couple's struggle for survival in a post-apocalyptic world. Hunted by a mysterious cube that represents **discrimination and oppression**, they find solace through an old camcorder that shows them a world of happiness and "normalcy." The MV, directed by Uhm Tae-hwa (*Concrete Utopia*), is a powerful allegory for finding love and freedom in the face of societal forces that seek to destroy them. It's a tragic, beautiful, and ultimately hopeful declaration that even in annihilation, love’s spirit remains.
@@ -65,7 +64,6 @@ loading="lazy"></iframe>
 <a href="/search/label/Streaming%20Guide">K-POP Streaming Guide</a>
 </div>
 
-***
 <a name="quick-facts"></a>
 <h2 style="color: #00aaff;">Quick Facts & Credits for "Love wins all"</h2>
 <div style="border:1px solid #eee;border-radius:12px;padding:12px 14px;background:#fcfcfc;">
@@ -83,7 +81,6 @@ loading="lazy"></iframe>
 </div>
 <p style="margin-top:12px;"><em>Composers: Seo Dong-hwan / Lyrics: IU / Arranger: Seo Dong-hwan</em></p>
 
-***
 <a name="story-on-screen"></a>
 <h2 style="color: #00aaff;">The Story You See on Screen: A Fleeting Utopia</h2>
 The "Love wins all" MV is a masterclass in non-verbal storytelling, conveying a universe of emotion through its dystopian narrative.
@@ -96,7 +93,6 @@ The "Love wins all" MV is a masterclass in non-verbal storytelling, conveying a 
 
 **4. The Inevitable End:** The cube eventually finds them. In a heartbreaking final act of defiance, they face their end together. The cube consumes them, leaving only their wedding clothes behind. However, the final shot implies their spirits, free from their broken bodies, ascend—a testament to the song's title.
 
-***
 <a name="lyrics-meaning"></a>
 <h2 style="color: #00aaff;">Lyrics & meaning: Deep Dive into Defiant Love</h2>
 <h3 style="color: #304090;">The Intent Behind the Hook & Cultural Nuance (The Fun Analysis)</h3>
@@ -109,7 +105,6 @@ While the visuals tell a dystopian story, IU's lyrics provide the emotional core
 
 **3. "Love wins all" as a Korean Ballad:** This song taps deep into the Korean cultural sentiment of *'han'* (한)—a sense of unresolved grief or sorrow. However, IU channels it into active resistance. The powerful crescendo and soaring vocals are not just for dramatic effect; they are the sonic embodiment of fighting against that sorrow. It's a modern power ballad that says, "Yes, the world is cruel, but my love is stronger." *Honestly, only an artist like IU could make such a heartbreaking premise feel so empowering!*
 
-***
 <a name="bts-insights"></a>
 <h2 style="color: #00aaff;">Behind the Scenes & Visual Insights</h2>
 Director Uhm Tae-hwa has been open about the MV's symbolism, giving us a clear guide to its profound meaning.
@@ -120,14 +115,12 @@ Director Uhm Tae-hwa has been open about the MV's symbolism, giving us a clear g
 
 **3. The Wedding Attire: Symbol of Freedom:** The dress and tuxedo are not just costumes. In this ruined world, wearing them is the ultimate act of freedom and normalcy. It symbolizes their choice to celebrate their love on their own terms, fulfilling a dream that reality would never permit. This makes their final moments a triumph, not a defeat.
 
-***
 <a name="fan-takeaways"></a>
 <h2 style="color: #00aaff;">Fan Takeaways: Why This Song Hits So Hard</h2>
 * This MV is a beautiful and validating anthem for anyone who has ever felt marginalized or judged, reminding them that their love is valid and powerful.
 * The incredible chemistry between IU and V brings a raw, believable emotion to the story that makes the ending utterly devastating and beautiful.
 * It's a reminder that "winning" isn't always about survival. Sometimes, it's about holding onto your humanity and love, even in the face of annihilation.
 
-***
 <a name="sources"></a>
 <h2 style="color: #00aaff;">Sources & Technical Data</h2>
 <h3 style="color: #304090;">Credible Sources</h3>
