@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2025-10-02 09:15:00
+date: 2025-10-01
 title: "Jungkook 'Seven' Explained: A Week of Catastrophic Devotion"
 description: "MV Explained: A deep dive into Jung Kook's 'Seven,' analyzing its comedic storytelling, lyrical dual meanings, and its lasting cultural impact."
 excerpt: "It's the song that shattered records, but the real story is in the hilariously disastrous music video. We're breaking down how Jung Kook's 'Seven' became an unforgettable visual story of love against all (and we mean ALL) odds."
