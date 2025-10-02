@@ -65,12 +65,6 @@ allowfullscreen></iframe>
 
 "I Love My Body" is a playful, upbeat <strong>soul-pop</strong> track that delivers a direct message of <strong>self-acceptance</strong> and <strong>body positivity</strong>. The MV is a vibrant, retro-infused montage of Hwasa confidently owning every space she enters—from her bedroom mirror to a sun-drenched parking garage dance floor. It's a defiant clapback to critics who have persistently scrutinized her appearance, emphasizing that true beauty comes from self-esteem, not from fitting restrictive standards. It marks her first solo release under P NATION, showing her charismatic flair isn't going anywhere!
 
-<div style="border:1px solid #eee;border-radius:10px;padding:10px 12px;background:#fafafa;margin:12px 0;">
-<strong>Related reading:</strong>
-<a href="/search/label/MV%20Explained">More K-POP MV Explained</a> ·
-<a href="/search/label/Streaming%20Guide">K-POP Streaming Guide</a>
-</div>
-
 ---
 
 <a name="quick-facts"></a>
@@ -78,7 +72,6 @@ allowfullscreen></iframe>
 
 ---
 
-<div style="border:1px solid #eee;border-radius:12px;padding:12px 14px;background:#fcfcfc;">
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px 16px;font-size:14px;line-height:1.8;">
 <div><strong>Artist</strong>: HWASA (화사)</div>
 <div><strong>Song</strong>: “I Love My Body”</div>
