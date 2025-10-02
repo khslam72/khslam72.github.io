@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2025-10-03 10:00:00 +0900
+date: 2025-10-02
 title: "IVE 'XOXO' Explained: A Savage Declaration of Self-Love"
 description: "MV Explained: A deep dive into IVE's 'XOXO,' analyzing its chic high-teen concept, the symbolism of Xs and Os, and its confident message of ending a toxic relationship."
 excerpt: "IVE is back with a savage twist on the classic love letter sign-off. 'XOXO' isn't about hugs and kisses; it's a stylish declaration of independence, transforming a symbol of affection into a confident goodbye."
