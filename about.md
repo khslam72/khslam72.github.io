@@ -25,8 +25,8 @@ permalink: /about/
     <p>I am dedicated to curating and explaining Korea’s vibrant cultural contents for a global audience. Through K-Contents Hub, I introduce K-POP, K-Drama, and Korean cultural trends in clear English so that fans around the world can easily enjoy and understand them.</p>
     <p>My goal is to provide reliable insights, highlight the beauty of Korean contents, and connect international readers with Korea’s creative wave.</p>
 
-      <!-- 이메일 문의 -->
-    <p class="about-contact">If you have any questions, feel free to email me.: <a href="mailto:khwin0930@gmail.com" class="about-email-link">khwin0930@gmail.com</a></p>
+    <!-- 이메일 문의 (영어로 수정) -->
+    <p class="about-contact">For any questions or inquiries, feel free to send an email to: <a href="mailto:khwin0930@gmail.com" class="about-email-link">khwin0930@gmail.com</a></p>
 
   </div>
 </div>
