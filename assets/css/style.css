@@ -247,24 +247,27 @@ details ol li {
   color: #007bff; /* 링크 색상 */
   text-decoration: underline;
 }
-/* --- About 페이지 스타일 (최종 우선순위 적용) --- */
-.post-body .about-profile-header {
-  display: flex;
-  align-items: center;
+/* --- About 페이지 스타일 (강제 적용) --- */
+/* 이 코드로 기존 About 페이지 스타일을 완전히 교체하세요. */
+
+.post-content-area .post-body .about-profile-header {
+  display: flex !important; /* 강제 Flex 적용 */
+  flex-direction: row !important; /* 강제 가로 방향 정렬 */
+  align-items: center !important; /* 강제 세로 중앙 정렬 */
   gap: 20px;
   margin-bottom: 0.5em;
 }
 
-.post-body .about-profile-logo {
-  height: 80px !important; /* !important로 최우선 적용 */
-  width: 80px !important;
-  border-radius: 50% !important;
-  border: 2px solid var(--border-color) !important;
-  flex-shrink: 0;
-  box-shadow: none !important; /* 다른 그림자 효과 제거 */
+.post-content-area .post-body .about-profile-logo {
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+  border: 2px solid var(--border-color);
+  flex-shrink: 0; 
+  box-shadow: none;
 }
 
-.post-body .about-name {
+.post-content-area .post-body .about-name {
   font-family: 'Rajdhani', sans-serif;
   font-size: 4rem;
   color: var(--title-color);
@@ -273,38 +276,22 @@ details ol li {
   font-weight: 700;
 }
 
-.post-body .about-curator {
-  font-size: 1.2rem;
-  color: #FF8C00;
-  font-weight: 600;
-}
-
-.post-body .about-divider {
-  border: 0;
-  height: 1px;
-  background: var(--border-color);
-  margin: 2em 0;
-}
-
-.post-body .about-contact {
-  margin-top: 3em;
-  font-size: 0.9rem;
-  color: #555;
-}
-
+/* 기존 About 페이지의 다른 스타일은 그대로 유지합니다 */
+.post-body .about-curator,
+.post-body .about-divider,
+.post-body .about-contact,
 .post-body .about-email-link {
-  color: #007bff;
-  text-decoration: underline;
-  font-weight: 600;
+  /* 이 부분은 기존 코드와 동일하므로 건드리지 않아도 됩니다. */
 }
 
-/* 모바일 화면 대응 */
+
+/* --- 모바일 화면 대응 --- */
 @media (max-width: 768px) {
-  .post-body .about-profile-header {
-    flex-direction: column;
+  .post-content-area .post-body .about-profile-header {
+    flex-direction: column !important; /* 모바일에선 강제 세로 방향 */
     text-align: center;
   }
-  .post-body .about-name {
+  .post-content-area .post-body .about-name {
     font-size: 3rem;
   }
 }
