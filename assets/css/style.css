@@ -247,63 +247,64 @@ details ol li {
   color: #007bff; /* 링크 색상 */
   text-decoration: underline;
 }
- /* --- About 페이지 스타일 (최종 수정본) --- */
-.about-profile-header {
+/* --- About 페이지 스타일 (최종 우선순위 적용) --- */
+.post-body .about-profile-header {
   display: flex;
   align-items: center;
-  gap: 20px; /* 로고와 이름 사이 간격 */
-  margin-bottom: 0.5em; /* 아래 curator 텍스트와의 간격 */
+  gap: 20px;
+  margin-bottom: 0.5em;
 }
 
-.about-profile-logo {
-  height: 80px;
-  width: 80px;
-  border-radius: 50%;
-  border: 2px solid var(--border-color);
+.post-body .about-profile-logo {
+  height: 80px !important; /* !important로 최우선 적용 */
+  width: 80px !important;
+  border-radius: 50% !important;
+  border: 2px solid var(--border-color) !important;
   flex-shrink: 0;
+  box-shadow: none !important; /* 다른 그림자 효과 제거 */
 }
 
-.about-name {
+.post-body .about-name {
   font-family: 'Rajdhani', sans-serif;
-  font-size: 4rem; /* 이름 크기 두 배로 키움 */
+  font-size: 4rem;
   color: var(--title-color);
   margin: 0;
   line-height: 1.1;
   font-weight: 700;
 }
 
-.about-curator {
+.post-body .about-curator {
   font-size: 1.2rem;
-  color: #FF8C00; /* 사이트 제목과 동일한 주황색 */
+  color: #FF8C00;
   font-weight: 600;
 }
 
-.about-divider {
+.post-body .about-divider {
   border: 0;
   height: 1px;
   background: var(--border-color);
   margin: 2em 0;
 }
 
-.about-contact {
+.post-body .about-contact {
   margin-top: 3em;
   font-size: 0.9rem;
   color: #555;
 }
 
-.about-email-link {
+.post-body .about-email-link {
   color: #007bff;
   text-decoration: underline;
   font-weight: 600;
 }
 
-/* 모바일 화면에서는 로고와 이름이 세로로 쌓이도록 설정 */
+/* 모바일 화면 대응 */
 @media (max-width: 768px) {
-  .about-profile-header {
+  .post-body .about-profile-header {
     flex-direction: column;
     text-align: center;
   }
-  .about-name {
+  .post-body .about-name {
     font-size: 3rem;
   }
-}   
+}
