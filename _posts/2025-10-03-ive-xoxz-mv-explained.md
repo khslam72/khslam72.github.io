@@ -1,20 +1,21 @@
 ---
 layout: post
 title: "IVE’s ‘XOXZ’ Explained: The Surreal Dreamscape of Desire"
-description: "MV Explained: Delve into IVE's 'XOXZ'—a captivating B-side that explores a fantastical dreamworld, desire, and the intoxicating pull of illusion."
+description: "MV Explained: Delve into IVE's ‘XOXZ’—a captivating B-side that explores a fantastical dreamworld, desire, and the intoxicating pull of illusion."
 thumbnail: /images/ive-xoxz-mv-screencap-2025.webp
+excerpt: "How do you turn a term of endearment into a weapon? Ask IVE. Their B-side track 'XOXZ' flips 'hugs and kisses' into a fiery, unapologetic kiss-off."
 categories:
-  - K-POP MV Explained
+  - K-POP MV Explained
 tags:
-  - "K-POP MV Explained"
-  - "IVE"
-  - "XOXZ"
-  - "XOXZ Meaning"
-  - "K-Pop Analysis"
-  - 'Artist: IVE'
-  - 'Song: XOXZ'
-  - 'Agency: Starship Entertainment'
-  - "2025 K-Pop"
+  - "K-POP MV Explained"
+  - "IVE"
+  - "XOXZ"
+  - "XOXZ Meaning"
+  - "K-Pop Analysis"
+  - 'Artist: IVE'
+  - 'Song: XOXZ'
+  - 'Agency: Starship Entertainment'
+  - "2025 K-Pop"
 ---
 
 <p style="margin: 8px 0px 16px;">
