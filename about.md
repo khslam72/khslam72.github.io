@@ -13,11 +13,10 @@ permalink: /about/
     
  <div class="about-profile-header">
   <img src="/images/logo.png" alt="K-Contents Hub Logo"
-       class="about-profile-logo"
-       style="width:72px!important;height:72px!important;max-width:none!important;display:inline-block!important;margin:0!important;object-fit:contain;border-radius:50%;border:2px solid var(--border-color);vertical-align:middle;">
-  <h2 class="about-name">KH Lee</h2>
+       class="about-profile-logo">
+  <div class="about-name" role="heading" aria-level="2">KH Lee</div>
 </div>
-   
+
     <!-- 직책(Curator)과 구분선 -->
     <p class="about-curator">K-Contents Curator</p>
     <hr class="about-divider" />
