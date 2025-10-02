@@ -13,8 +13,7 @@ permalink: /about/
     
     <!-- 프로필 헤더: 로고와 이름 -->
     <div class="about-profile-header">
-      <img src="/images/logo.png" alt="K-Contents Hub Logo" class="about-profile-logo">
-      <h2 class="about-name">KH Lee</h2>
+     <h2 class="about-name">KH Lee</h2>
     </div>
 
     <!-- 직책(Curator)과 구분선 -->
