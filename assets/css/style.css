@@ -247,15 +247,16 @@ details ol li {
   color: #007bff; /* 링크 색상 */
   text-decoration: underline;
 }
-/* --- About 페이지 스타일 (V2) --- */
+/* --- About 페이지 스타일 (최종 수정본) --- */
 .about-profile-header {
   display: flex;
   align-items: center;
   gap: 20px; /* 로고와 이름 사이 간격 */
+  margin-bottom: 0.5em; /* 아래 curator 텍스트와의 간격 */
 }
 
 .about-profile-logo {
-  height: 80px; /* ✅ 로고 높이 (적당한 사이즈) */
+  height: 80px;
   width: 80px;
   border-radius: 50%;
   border: 2px solid var(--border-color);
@@ -264,7 +265,7 @@ details ol li {
 
 .about-name {
   font-family: 'Rajdhani', sans-serif;
-  font-size: 4rem; /* ✅ 이름 크기 두 배로 키움 */
+  font-size: 4rem; /* 이름 크기 두 배로 키움 */
   color: var(--title-color);
   margin: 0;
   line-height: 1.1;
@@ -275,7 +276,6 @@ details ol li {
   font-size: 1.2rem;
   color: #FF8C00; /* 사이트 제목과 동일한 주황색 */
   font-weight: 600;
-  margin-top: 0.5em;
 }
 
 .about-divider {
