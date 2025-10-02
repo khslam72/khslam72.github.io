@@ -166,5 +166,3 @@ Director Uhm Tae-hwa has been open about the MV's symbolism, giving us a clear g
 }
 }
 </script>
-
-2025-10-02-iu-love-wins-all-mv-explained.md
