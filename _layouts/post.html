@@ -11,4 +11,23 @@ layout: default
   <div class="post-body">
     {{ content }}
   </div>
+  <!-- _layouts/post.html 파일에 추가 -->
+
+    ... (기존 본문 내용) ...
+  </div>
+
+  <!-- ✅ 댓글 섹션 시작 (이 부분을 추가하세요) -->
+  <section class="comments-section">
+    <h2>Comments</h2>
+    <script src="https://utteranc.es/client.js"
+            repo="khslam72/khslam72.github.io"
+            issue-term="pathname"
+            theme="github-light"
+            crossorigin="anonymous"
+            async>
+    </script>
+  </section>
+  <!-- ✅ 댓글 섹션 끝 -->
+
+</article>
 </article>
