@@ -104,43 +104,53 @@ details summary { font-weight: 600; cursor: pointer; }
 details ol { margin-top: 15px; padding-left: 25px; }
 details ol li { line-height: 1.5; margin-bottom: 8px; }
 
-/* --- About 페이지 스타일 (V5 - 최종 정리본) --- */
-.post-body .about-profile-header {
-  display: flex;
-  align-items: center; /* 세로 중앙 정렬 */
-  gap: 25px;
-  margin-bottom: 1em;
+/* --- About 페이지 스타일 (테이블 레이아웃 + 모바일 대응) --- */
+.about-profile-table {
+  width: 100%;
+  border-collapse: collapse; /* 칸 사이 여백 제거 */
+  margin-bottom: 2em;
 }
 
-.post-body .about-profile-logo {
+.about-profile-table td {
+  border: none; /* 모든 표 테두리 제거 */
+  padding: 0;
+  vertical-align: middle; /* 세로 중앙 정렬 */
+}
+
+.about-logo-cell {
+  width: 120px; /* 로고가 들어갈 칸의 너비 고정 */
+}
+
+.about-profile-logo {
   height: 100px;
   width: 100px;
   border-radius: 50%;
   border: 2px solid var(--border-color);
-  flex-shrink: 0;
+  display: block; /* 불필요한 여백 제거 */
 }
 
-/* 'KH Lee' 이름(h2)에는 밑줄과 불필요한 여백 제거 */
+.about-text-cell {
+  padding-left: 25px; /* 로고와 텍스트 사이 간격 */
+}
+
 .post-body .about-name {
-  margin-bottom: 0;
-  border-bottom: none;
-  padding-bottom: 0;
+  margin-bottom: 0; /* 이름과 Curator 텍스트 사이 간격 줄임 */
 }
 
 .post-body .about-curator {
   font-size: 1.2rem;
   color: #FF8C00;
   font-weight: 600;
-  margin: 0;
+  margin-top: 0.5em; /* 이름 밑줄과의 간격 */
 }
 
+/* --- 나머지 About 페이지 스타일 --- */
 .post-body .about-divider {
   border: 0;
   height: 1px;
   background-image: linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,0.1), rgba(0,0,0,0));
   margin: 2.5em 0;
 }
-
 .post-body .about-section-title {
   font-family: 'Rajdhani', sans-serif;
   font-size: 1.8rem;
@@ -152,16 +162,13 @@ details ol li { line-height: 1.5; margin-bottom: 8px; }
   padding-bottom: 0.3em;
   display: inline-block;
 }
-
 .post-body .about-list {
   list-style-type: '✓  ';
   padding-left: 20px;
 }
-
 .post-body .about-list li {
   margin-bottom: 0.8em;
 }
-
 .post-body .about-contact {
   margin-top: 2.5em;
   font-size: 1rem;
@@ -171,42 +178,23 @@ details ol li { line-height: 1.5; margin-bottom: 8px; }
   padding: 20px;
   border-radius: 8px;
 }
-
 .post-body .about-email-link {
   color: #007bff;
   text-decoration: underline;
   font-weight: 600;
 }
 
-/* 모바일 화면 대응 */
+/* --- ✅ About 페이지 모바일 대응 (새로 추가) --- */
 @media (max-width: 768px) {
-  .post-body .about-profile-header {
-    flex-direction: column;
-    text-align: center;
+  .about-logo-cell,
+  .about-text-cell {
+    display: block; /* ✅ 테이블 칸을 블록 요소로 바꿔 세로로 쌓음 */
+    width: 100%;
+    text-align: center; /* ✅ 텍스트 가운데 정렬 */
+    padding-left: 0; /* ✅ 왼쪽 여백 제거 */
   }
-  .post-body .about-name {
-    font-size: 3rem;
-  }
-}
-
-/* 모바일 화면 대응 */
-@media (max-width: 768px) {
-  .post-body .about-profile-header {
-    flex-direction: column;
-    text-align: center;
-  }
-  .post-body .about-name {
-    font-size: 3rem;
-  }
-}
-/* 모바일 화면 대응 */
-@media (max-width: 768px) {
-  .about-profile-header {
-    flex-direction: column;
-    text-align: center;
-  }
-  .about-name {
-    font-size: 3rem;
+  .about-profile-logo {
+    margin: 0 auto 20px auto; /* ✅ 로고를 가운데 정렬하고 아래 여백 추가 */
   }
 }
 
