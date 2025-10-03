@@ -58,7 +58,7 @@ tags:
 
 <a name="tldr"></a>
 <h2 style="color: #00aaff;">Quick Summary: The Vibe Check</h2>
-***
+
 **"Earth, Wind & Fire"** transforms the chaos of a first crush into a literal weather report. The music video uses a playful, kitsch-core aesthetic to visualize love's unpredictable nature: the **nervous energy of wind**, the **bold passion of fire**, and the **overwhelming feeling of finding solid ground (earth)**. It's a surreal, hyper-colorful journey that perfectly captures BOYNEXTDOOR's charmingly chaotic energy.
 <div style="border:1px solid #eee;border-radius:10px;padding:10px 12px;background:#fafafa;margin:12px 0;">
   <strong>Related reading:</strong>
@@ -69,7 +69,7 @@ tags:
 
 <a name="quick-credits"></a>
 <h2 style="color: #00aaff;">Quick Facts & Credits</h2>
-***
+
 <div style="border:1px solid #eee;border-radius:12px;padding:12px 14px;background:#fcfcfc;">
   <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px 16px;font-size:14px;line-height:1.8;">
     <div><strong>Artist</strong>: BOYNEXTDOOR (보이넥스트도어)</div>
@@ -88,7 +88,7 @@ tags:
 
 <a name="story-on-screen"></a>
 <h2 style="color: #00aaff;">The Story You See on Screen</h2>
-***
+
 The music video is less a linear plot and more a series of emotional weather events. We're thrown into a hyper-stylized world where feelings physically alter the environment.
 
 **1. The "Wind" of Hesitation:** The MV opens in rooms where everything is in constant motion. Ties, papers, and even members' hair are blown about by an unseen force. This visualizes the internal chaos and nervous energy before a confession—countless thoughts swirling around, making it impossible to stay still. *It's that feeling of having a million things to say at once!*
@@ -100,7 +100,7 @@ The music video is less a linear plot and more a series of emotional weather eve
 
 <a name="visual-language"></a>
 <h2 style="color: #00aaff;">Visual Language: How the MV “Speaks”</h2>
-***
+
 <h3 style="color: #304090;">The Fun Analysis: Kitsch-Core and Toy Box Aesthetics</h3>
 BOYNEXTDOOR isn't just showing you a story; they're showing you how a teenage brain *feels*. The MV's visual language is built on a "kitsch-core" or "toy box" aesthetic.
 
@@ -113,7 +113,7 @@ BOYNEXTDOOR isn't just showing you a story; they're showing you how a teenage br
 
 <a name="lyrics-meaning"></a>
 <h2 style="color: #00aaff;">Lyrics & Meaning</h2>
-***
+
 The central lyric, **“You’re my Earth, Wind, and Fire,”** is a clever twist on a classic phrase. It's not just a name-drop of the famous band; it's a redefinition of the elements as pillars of a relationship.
 
 - **"I can’t get a hold of myself, you’re like the wind"**: This line perfectly captures the restless anxiety of a new crush.
@@ -123,13 +123,13 @@ The central lyric, **“You’re my Earth, Wind, and Fire,”** is a clever twis
 
 <a name="music-arrangement"></a>
 <h2 style="color: #00aaff;">Music & Arrangement Notes</h2>
-***
+
 The track's energy comes from its intentional chaos. The arrangement is packed with bright synth stabs, a bouncy bassline, and layers of ad-libs. The most notable feature is the **"Ja-ja-gan-da-da" speed-up rap**, a signature of producer Pop Time. This section serves as a musical catalyst, accelerating the song's energy to match the frantic feeling of a racing heart. It’s a bold, almost jarring choice that cements the song's quirky and unforgettable identity.
 
 
 <a name="choreography-performance"></a>
 <h2 style="color: #00aaff;">Choreography & Performance</h2>
-***
+
 The choreography is designed to be as conversational as the lyrics. Key moves directly interpret the "Earth, Wind & Fire" concept:
 * **Wind:** Sweeping, fluid arm movements.
 * **Fire:** Sharp, explosive pops and gestures.
@@ -140,7 +140,7 @@ This direct translation makes the performance intuitive and visually satisfying.
 
 <a name="bts-insights"></a>
 <h2 style="color: #00aaff;">Behind the Scenes & Member Insights</h2>
-***
+
 * Director **Rima Yoon** and **Rigend Film** are known for their vibrant, high-concept visuals, and this MV is a prime example of their style.
 * In interviews, the members mentioned the difficulty of the sped-up rap section, noting that delivering it live requires incredible breath control and precision.
 * The creation of the detailed, toy-like sets was a major focus of the production, aiming to create a unique visual world that stood apart from more traditional K-Pop MVs.
@@ -148,7 +148,7 @@ This direct translation makes the performance intuitive and visually satisfying.
 
 <a name="fan-takeaways"></a>
 <h2 style="color: #00aaff;">Fan Takeaways</h2>
-***
+
 * This MV is a perfect representation of the group's motto: "Telling everyday stories with a unique flair."
 * The song's high energy and catchy hook make it a fantastic mood-booster. It’s the perfect track for when you need a jolt of confidence.
 * The unique visual style offers tons of rewatch value, with new details emerging in the sets and editing with every view.
@@ -156,7 +156,7 @@ This direct translation makes the performance intuitive and visually satisfying.
 
 <a name="sources"></a>
 <h2 style="color: #00aaff;">Sources & Technical Data</h2>
-***
+
 <h3 style="color: #304090;">Credible Sources</h3>
 <ul style="padding-left:18px; margin:0 0 12px;">
   <li><a href="https://www.youtube.com/watch?v=u9nP3qXQA4o" rel="nofollow noopener" target="_blank">Official MV — BOYNEXTDOOR YouTube</a></li>
