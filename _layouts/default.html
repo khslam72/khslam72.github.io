@@ -42,16 +42,18 @@
             </div>
         </main>
 
-      <footer id="footer">
+  <footer id="footer">
     <div class="footer-inner">
-        <!-- 방문자 통계 -->
+        <!-- 방문자 통계 (이미지 깨짐 문제 수정) -->
         <div class="visitor-stats">
-            <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fkcontents.site&count_bg=%23FF8C00&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Today&edge_flat=false"/>
-            <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fkcontents.site%2Ftotal&count_bg=%2300D9FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Total&edge_flat=false"/>
+            <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fkcontents.site&amp;count_bg=%23FF8C00&amp;title_bg=%23555555&amp;icon=&amp;icon_color=%23E7E7E7&amp;title=Today&amp;edge_flat=false" alt="Today's visitors"/>
+            <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fkcontents.site%2Ftotal&amp;count_bg=%2300D9FF&amp;title_bg=%23555555&amp;icon=&amp;icon_color=%23E7E7E7&amp;title=Total&amp;edge_flat=false" alt="Total visitors"/>
         </div>
 
-        <p>&copy; {% assign current_year = 'now' | date: '%Y' %}{{ current_year }} {{ site.title }}. All Rights Reserved.</p>
-        <p>Designed by Gemini.</p>
+        <p>&copy; {% assign current_year = 'now' | date: '%Y' %} {{ site.title }}. All Rights Reserved.</p>
+        
+        <!-- ✅ Designed by 텍스트 수정 -->
+        <p>Designed by Lee KH</p>
     </div>
 </footer>
     </div>
