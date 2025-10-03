@@ -98,19 +98,7 @@ loading="lazy"></iframe>
 
 <h3 style="color: #304090;">3. The Vote of Confidence: Keys to the Kingdom</h3>
 <p>The sheer scale of this MV isn't just about having a big budget; it's a visual representation of the label's belief in them. YG didn't just give them a check; they gave them the keys to the kingdom. This kind of massive investment tells fans, "We believe in them as much as you do," and tells the public, "Pay attention, this is a major event." BABYMONSTER not only met those sky-high expectations—they shattered them.</p>
-<a name="bts-insights"></a>
-<a name="bts-insights"></a>
-<h2 style="color: #00aaff;">The Perfect Storm: Why 'SHEESH' Had to Be This Big</h2>
-<p>Choosing "SHEESH" for their official 7-member debut wasn't just a random pick. It was a carefully calculated perfect storm of timing, narrative, and strategy.</p>
 
-<h3 style="color: #304090;">1. The Final Piece Returns: The Ahyeon Effect</h3>
-<p style="margin-bottom: 24px;">Ahyeon's official return wasn't just about adding a member; it was about completing the puzzle. For fans who had been waiting, it felt like the group was finally unlocking its final form. The "new ruler" narrative in the MV was amplified by the real-world story of the group becoming whole. It was like the final Infinity Stone clicking into place, and the sense of power that came with it was palpable.</p>
-
-<h3 style="color: #304090;">2. The Statement of Intent: "This Is Who We Are"</h3>
-<p style="margin-bottom: 24px;">Think about it. The pre-release "BATTER UP" was fun and energetic. "Stuck In The Middle" was a pure vocal showcase. They were appetizers. "SHEESH" was the main course. It was YG's way of saying, "The introductions are over. <em>This</em> is the real BABYMONSTER." It was a brilliant strategic move to show their range before dropping their definitive, powerful identity on the world.</p>
-
-<h3 style="color: #304090;">3. The Vote of Confidence: Keys to the Kingdom</h3>
-<p>The sheer scale of this MV isn't just about having a big budget; it's a visual representation of the label's belief in them. YG didn't just give them a check; they gave them the keys to the kingdom. This kind of massive investment tells fans, "We believe in them as much as you do," and tells the public, "Pay attention, this is a major event." BABYMONSTER not only met those sky-high expectations—they shattered them.</p>
 <a name="whats-next"></a>
 <h2 style="color: #00aaff;">What's Next? Get Ready to 'WE GO UP'!</h2>
 Just as we've caught our breath from "SHEESH," BABYMONSTER is already making their next move. Fresh off a massive 20-city world tour, they're not taking a break.
