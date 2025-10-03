@@ -56,21 +56,13 @@ style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
 allowfullscreen></iframe>
 </div>
 
----
-
 <a name="tldr"></a>
 <h2 style="color:#00aaff;">Quick Summary: The Vibe Check (Own Your Truth)</h2>
 
----
-
 "I Love My Body" is a playful, upbeat <strong>soul-pop</strong> track that delivers a direct message of <strong>self-acceptance</strong> and <strong>body positivity</strong>. The MV is a vibrant, retro-infused montage of Hwasa confidently owning every space she enters—from her bedroom mirror to a sun-drenched parking garage dance floor. It's a defiant clapback to critics who have persistently scrutinized her appearance, emphasizing that true beauty comes from self-esteem, not from fitting restrictive standards. It marks her first solo release under P NATION, showing her charismatic flair isn't going anywhere!
-
----
 
 <a name="quick-facts"></a>
 <h2 style="color:#00aaff;">Quick Facts & Credits for "I Love My Body"</h2>
-
----
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px 16px;font-size:14px;line-height:1.8;">
 <div><strong>Artist</strong>: HWASA (화사)</div>
@@ -85,12 +77,8 @@ allowfullscreen></iframe>
 </div>
 <p style="margin-top:12px;">*Producers Yoo Gun-hyung and PSY have a track record of global hits like "Gangnam Style," lending this track a distinct, internationally recognizable production style.*</p>
 
----
-
 <a name="story-on-screen"></a>
 <h2 style="color:#00aaff;">The Visual Story on Screen: No Apologies</h2>
-
----
 
 The MV for "I Love My Body" is a vibrant, no-holds-barred celebration of Hwasa's persona, using a distinct retro aesthetic to amplify its contemporary message.
 
@@ -100,12 +88,8 @@ The MV for "I Love My Body" is a vibrant, no-holds-barred celebration of Hwasa's
 
 <strong>3. Unapologetic Confidence:</strong> Hwasa flaunts a variety of bold, figure-hugging outfits and poses throughout the video. Every movement, every dance sequence, is an assertion of comfort in her own skin. The choreography is highly theatrical and deliberately cheeky, drawing attention to her body in a way that is about ownership, not sexualization for the male gaze.
 
----
-
 <a name="lyrics-meaning"></a>
 <h2 style="color:#00aaff;">Lyrics & meaning: The Defiant Declaration</h2>
-
----
 
 <h3 style="color:#304090;">The Intent Behind the Hook & Cultural Nuance (The Fun Analysis)</h3>
 
@@ -117,12 +101,8 @@ The simplicity of the lyrics is its strength, making the core message undeniable
 
 <strong>3. From 'Maria' to 'I Love My Body':</strong> While her earlier hit "Maria" dealt with the pain and healing from hate comments, <strong>"I Love My Body"</strong> is the final stage of that journey: <strong>unadulterated celebration</strong>. It’s the difference between fighting for survival (Maria) and throwing a party for the victory (I Love My Body). The emotional journey is complete, shifting from defensive to declarative.
 
----
-
 <a name="bts-insights"></a>
 <h2 style="color:#00aaff;">Behind the Scenes & Deeper Insights: The True Meaning of Her 'Body' of Work</h2>
-
----
 
 While "I Love My Body" (ILMB) might sound lighter than her previous hits, interviews and behind-the-scenes content reveal that this song was a crucial emotional turning point for Hwasa, moving her beyond past battles toward pure, healthy joy.
 
@@ -154,12 +134,8 @@ Hwasa’s solo discography is an empowering trilogy on handling hate, and "I Lov
 | **I'm a B** (2021) | **Empowered Defiance.** A complex exploration of becoming a 'bitch' (or '빛,' light) to protect oneself from the toxic world. It's a sharp, defensive barrier. | **Confrontation & Defense** | Aggressive, powerful choreography and darker, high-concept visuals. |
 | **I Love My Body** (2023) | **Pure Acceptance.** The battle is over. The defense is down. It is a joyful, simple, and unshakeable affirmation that the self-love has won. | **Celebration & Joy** | Bright, retro, easy-to-sing pop, prioritizing universal accessibility and positive energy. |
 
----
-
 <a name="cultural-context"></a>
 <h2 style="color:#00aaff;">Cultural Context: Body Positivity in K-Pop</h2>
-
----
 
 Hwasa's entire career has been a cultural moment, pushing back against the notoriously strict <strong>Korean beauty standards</strong> that favor slim figures, fair skin, and conventionally 'pretty' features.
 
@@ -169,23 +145,15 @@ Hwasa's entire career has been a cultural moment, pushing back against the notor
 
 <strong>3. International vs. Local Ideal:</strong> It's fascinating to note the difference: Hwasa’s curvier, confident image aligns closely with traditional <strong>Western beauty ideals</strong>, yet in Korea, it’s still seen as "unconventional." This track powerfully bridges that gap, asserting that her definition of beauty is the only one that matters.
 
----
-
 <a name="fan-takeaways"></a>
 <h2 style="color:#00aaff;">Fan Takeaways: Why This Song Hits So Hard</h2>
-
----
 
 * The track is a fun, light, and necessary antidote to the toxicity of social media and beauty culture, perfectly timed for a global audience.
 * Fans view this as Hwasa finally taking the power back, turning the object of past criticism (her body) into the subject of her most viral and beloved anthem.
 * It's a joyful reminder that <strong>confidence is the most stunning outfit</strong> anyone can wear.
 
----
-
 <a name="sources"></a>
 <h2 style="color:#00aaff;">Sources & Technical Data</h2>
-
----
 
 <h3 style="color:#304090;">Credible Sources</h3>
 <ul style="padding-left:18px; margin:0 0 12px;">
