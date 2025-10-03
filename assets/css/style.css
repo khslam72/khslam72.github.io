@@ -193,10 +193,6 @@ details ol li { line-height: 1.5; margin-bottom: 8px; }
   }
 }
 
-/* --- 푸터 & 방문자 통계 --- */
-#footer { text-align: center; padding: 40px 20px; margin-top: 50px; color: #888; font-size: 0.85rem; border-top: 1px solid var(--border-color); }
-.visitor-stats { display: flex; justify-content: center; gap: 10px; margin-bottom: 20px; }
-
 /* --- 페이지네이션(Pagination) --- */
 .pagination { display: flex; justify-content: center; align-items: center; padding: 2rem 0; gap: 10px; clear: both; }
 .pagination a, .pagination span { display: inline-block; padding: 10px 18px; border: 1px solid var(--border-color); border-radius: 8px; text-decoration: none; font-weight: 600; transition: all 0.2s ease-in-out; background-color: #ffffff; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
