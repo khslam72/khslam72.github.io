@@ -18,7 +18,7 @@ tags:
 <p style="margin: 8px 0px 16px;">
 *The MV turns first love into a literal forecast: gusty emotions, blazing confessions, and surreal scenery flying past like loose umbrellas—cute, chaotic, and very BOYNEXTDOOR.*</p>
 
----
+
 <div align="center">
   <img src="/images/boynextdoor-earth-wind-fire-mv-thumbnail.webp"
        alt="BOYNEXTDOOR members in the 'Earth, Wind & Fire' official MV explained analysis thumbnail"
@@ -28,7 +28,7 @@ tags:
   <span style="font-size:12px;color:#666;">Source: Official BOYNEXTDOOR YouTube (© KOZ Entertainment)</span>
 </div>
 
----
+
 <details open>
   <summary><strong>Table of Contents (Find Your Story)</strong></summary>
   <ol>
@@ -55,7 +55,7 @@ tags:
   <span style="font-size:12px;color:#666;">Source: Official BOYNEXTDOOR YouTube (© KOZ Entertainment)</span>
 </div>
 
----
+
 <a name="tldr"></a>
 <h2 style="color: #00aaff;">Quick Summary: The Vibe Check</h2>
 ***
@@ -66,7 +66,7 @@ tags:
   <a href="/search/label/Streaming%20Guide">K-POP Streaming Guide</a>
 </div>
 
----
+
 <a name="quick-credits"></a>
 <h2 style="color: #00aaff;">Quick Facts & Credits</h2>
 ***
@@ -85,7 +85,7 @@ tags:
 </div>
 <p style="margin-top:12px;"><em>Composers: Pop Time, ZICO, Kako, Riwoo, Taesan, Woonhak, Daily, Likey / Producer: Pop Time, ZICO</em></p>
 
----
+
 <a name="story-on-screen"></a>
 <h2 style="color: #00aaff;">The Story You See on Screen</h2>
 ***
@@ -97,7 +97,7 @@ The music video is less a linear plot and more a series of emotional weather eve
 
 **3. The "Earth" of Connection:** After the fiery confession, we see the members grounded, often together in formation or driving under a starry sky. This signifies the relief and stability that comes after sharing your feelings. Love becomes their new 'earth'—a solid foundation, even if the journey to get there was a storm.
 
----
+
 <a name="visual-language"></a>
 <h2 style="color: #00aaff;">Visual Language: How the MV “Speaks”</h2>
 ***
@@ -110,7 +110,7 @@ BOYNEXTDOOR isn't just showing you a story; they're showing you how a teenage br
 
 **3. Fast-Paced Editing as "Thought Bubbles":** The editing is incredibly fast, especially during the rap sections. The whip-pans and smash cuts aren't random; they mimic the speed of racing thoughts and the non-linear way we jump between ideas when we're nervous or excited.
 
----
+
 <a name="lyrics-meaning"></a>
 <h2 style="color: #00aaff;">Lyrics & Meaning</h2>
 ***
@@ -120,13 +120,13 @@ The central lyric, **“You’re my Earth, Wind, and Fire,”** is a clever twis
 - **"My heart’s on fire"**: The lyrical hook is a direct, unfiltered confession, matching the fiery visuals.
 - The combination of all three elements suggests that this person is their entire world—their atmosphere, their passion, and their home. The lyrics are conversational, bouncing between bold declarations and moments of self-doubt, making the song feel like an authentic peek into someone's diary.
 
----
+
 <a name="music-arrangement"></a>
 <h2 style="color: #00aaff;">Music & Arrangement Notes</h2>
 ***
 The track's energy comes from its intentional chaos. The arrangement is packed with bright synth stabs, a bouncy bassline, and layers of ad-libs. The most notable feature is the **"Ja-ja-gan-da-da" speed-up rap**, a signature of producer Pop Time. This section serves as a musical catalyst, accelerating the song's energy to match the frantic feeling of a racing heart. It’s a bold, almost jarring choice that cements the song's quirky and unforgettable identity.
 
----
+
 <a name="choreography-performance"></a>
 <h2 style="color: #00aaff;">Choreography & Performance</h2>
 ***
@@ -137,7 +137,7 @@ The choreography is designed to be as conversational as the lyrics. Key moves di
 
 This direct translation makes the performance intuitive and visually satisfying. The members' energetic and expressive "face acting" is crucial, selling the story behind each movement and reinforcing their identity as "conversational performers."
 
----
+
 <a name="bts-insights"></a>
 <h2 style="color: #00aaff;">Behind the Scenes & Member Insights</h2>
 ***
@@ -145,7 +145,7 @@ This direct translation makes the performance intuitive and visually satisfying.
 * In interviews, the members mentioned the difficulty of the sped-up rap section, noting that delivering it live requires incredible breath control and precision.
 * The creation of the detailed, toy-like sets was a major focus of the production, aiming to create a unique visual world that stood apart from more traditional K-Pop MVs.
 
----
+
 <a name="fan-takeaways"></a>
 <h2 style="color: #00aaff;">Fan Takeaways</h2>
 ***
@@ -153,7 +153,7 @@ This direct translation makes the performance intuitive and visually satisfying.
 * The song's high energy and catchy hook make it a fantastic mood-booster. It’s the perfect track for when you need a jolt of confidence.
 * The unique visual style offers tons of rewatch value, with new details emerging in the sets and editing with every view.
 
----
+
 <a name="sources"></a>
 <h2 style="color: #00aaff;">Sources & Technical Data</h2>
 ***
