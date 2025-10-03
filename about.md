@@ -10,15 +10,16 @@ permalink: /about/
   </header>
   
   <div class="post-body">
-    
-    <!-- 프로필 헤더 -->
-    <div class="about-profile-header">
+
+    <!-- ✅ 새로운 프로필 구조 -->
+    <div class="about-profile-container">
       <img src="/images/logo.png" alt="K-Contents Hub Logo" class="about-profile-logo">
       <div class="about-profile-text">
         <h2 class="about-name">KH Lee</h2>
         <p class="about-curator">K-Contents Curator</p>
       </div>
     </div>
+
     <hr class="about-divider" />
 
     <!-- Our Mission 섹션 -->
