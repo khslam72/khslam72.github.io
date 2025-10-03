@@ -9,14 +9,11 @@ layout: default
   </header>
   
   <div class="post-body">
+    <!-- ✅ 이 {{ content }} 자리에 각 게시물의 본문이 들어옵니다. -->
     {{ content }}
   </div>
-  <!-- _layouts/post.html 파일에 추가 -->
 
-    ... (기존 본문 내용) ...
-  </div>
-
-  <!-- ✅ 댓글 섹션 시작 (이 부분을 추가하세요) -->
+  <!-- 댓글 섹션 -->
   <section class="comments-section">
     <h2>Comments</h2>
     <script src="https://utteranc.es/client.js"
@@ -27,7 +24,5 @@ layout: default
             async>
     </script>
   </section>
-  <!-- ✅ 댓글 섹션 끝 -->
 
-</article>
 </article>
