@@ -104,10 +104,10 @@ details summary { font-weight: 600; cursor: pointer; }
 details ol { margin-top: 15px; padding-left: 25px; }
 details ol li { line-height: 1.5; margin-bottom: 8px; }
 
-/* --- About 페이지 스타일 (V4 - 최종 수정) --- */
+/* --- About 페이지 스타일 (V5 - 최종 정리본) --- */
 .post-body .about-profile-header {
   display: flex;
-  align-items: center;
+  align-items: center; /* 세로 중앙 정렬 */
   gap: 25px;
   margin-bottom: 1em;
 }
@@ -120,16 +120,18 @@ details ol li { line-height: 1.5; margin-bottom: 8px; }
   flex-shrink: 0;
 }
 
-/* ✅ 'KH Lee' h2 태그의 아래쪽 여백만 별도로 제거 */
+/* 'KH Lee' 이름(h2)에는 밑줄과 불필요한 여백 제거 */
 .post-body .about-name {
   margin-bottom: 0;
+  border-bottom: none;
+  padding-bottom: 0;
 }
 
 .post-body .about-curator {
   font-size: 1.2rem;
   color: #FF8C00;
   font-weight: 600;
-  margin-top: 0; /* ✅ 위쪽 여백 제거 */
+  margin: 0;
 }
 
 .post-body .about-divider {
@@ -174,6 +176,17 @@ details ol li { line-height: 1.5; margin-bottom: 8px; }
   color: #007bff;
   text-decoration: underline;
   font-weight: 600;
+}
+
+/* 모바일 화면 대응 */
+@media (max-width: 768px) {
+  .post-body .about-profile-header {
+    flex-direction: column;
+    text-align: center;
+  }
+  .post-body .about-name {
+    font-size: 3rem;
+  }
 }
 
 /* 모바일 화면 대응 */
