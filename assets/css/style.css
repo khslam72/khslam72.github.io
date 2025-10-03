@@ -104,44 +104,34 @@ details summary { font-weight: 600; cursor: pointer; }
 details ol { margin-top: 15px; padding-left: 25px; }
 details ol li { line-height: 1.5; margin-bottom: 8px; }
 
-/* --- About 페이지 스타일 (테이블 레이아웃 + 모바일 대응) --- */
-.about-profile-table {
-  width: 100%;
-  border-collapse: collapse; /* 칸 사이 여백 제거 */
+/* --- About 페이지 스타일 (최종 Flexbox) --- */
+.about-profile-container {
+  display: flex;
+  align-items: center; /* 세로 중앙 정렬 */
+  gap: 20px; /* 로고와 텍스트 사이 간격 */
   margin-bottom: 2em;
 }
 
-.about-profile-table td {
-  border: none; /* 모든 표 테두리 제거 */
-  padding: 0;
-  vertical-align: middle; /* 세로 중앙 정렬 */
-}
-
-.about-logo-cell {
-  width: 120px; /* 로고가 들어갈 칸의 너비 고정 */
-}
-
 .about-profile-logo {
-  height: 100px;
-  width: 100px;
+  height: 80px;
+  width: 80px;
   border-radius: 50%;
-  border: 2px solid var(--border-color);
-  display: block; /* 불필요한 여백 제거 */
+  flex-shrink: 0; /* 좁은 화면에서 찌그러지지 않게 함 */
 }
 
-.about-text-cell {
-  padding-left: 25px; /* 로고와 텍스트 사이 간격 */
-}
-
+/* 'KH Lee' 이름(h2)에는 밑줄과 불필요한 여백 제거 */
 .post-body .about-name {
-  margin-bottom: 0; /* 이름과 Curator 텍스트 사이 간격 줄임 */
+  margin-bottom: 0;
+  border-bottom: none;
+  padding-bottom: 0;
+  margin-top: 0;
 }
 
 .post-body .about-curator {
   font-size: 1.2rem;
   color: #FF8C00;
   font-weight: 600;
-  margin-top: 0.5em; /* 이름 밑줄과의 간격 */
+  margin-top: 0.25em; /* 이름과의 간격 */
 }
 
 /* --- 나머지 About 페이지 스타일 --- */
@@ -184,20 +174,13 @@ details ol li { line-height: 1.5; margin-bottom: 8px; }
   font-weight: 600;
 }
 
-/* --- ✅ About 페이지 모바일 대응 (새로 추가) --- */
+/* --- About 페이지 모바일 대응 --- */
 @media (max-width: 768px) {
-  .about-logo-cell,
-  .about-text-cell {
-    display: block; /* ✅ 테이블 칸을 블록 요소로 바꿔 세로로 쌓음 */
-    width: 100%;
-    text-align: center; /* ✅ 텍스트 가운데 정렬 */
-    padding-left: 0; /* ✅ 왼쪽 여백 제거 */
-  }
-  .about-profile-logo {
-    margin: 0 auto 20px auto; /* ✅ 로고를 가운데 정렬하고 아래 여백 추가 */
+  .about-profile-container {
+    flex-direction: column; /* 세로로 쌓음 */
+    text-align: center;
   }
 }
-
 /* --- 페이지네이션(Pagination) --- */
 .pagination { display: flex; justify-content: center; align-items: center; padding: 2rem 0; gap: 10px; clear: both; }
 .pagination a, .pagination span { display: inline-block; padding: 10px 18px; border: 1px solid var(--border-color); border-radius: 8px; text-decoration: none; font-weight: 600; transition: all 0.2s ease-in-out; background-color: #ffffff; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
