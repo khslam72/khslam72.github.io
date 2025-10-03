@@ -82,7 +82,7 @@ a { text-decoration: none; color: inherit; }
     margin-bottom: 1em; /* ✅ 밑줄과의 간격을 위해 수정 */
     font-family: 'Rajdhani', sans-serif;
     font-weight: 700;
-    padding-bottom: 10px; /* ✅ 밑줄과의 간격 수정 */
+    padding-bottom: 2px; /* ✅ 밑줄과의 간격 수정 */
     font-size: 1.8rem;
     border-bottom: 1px solid; /* ✅ 밑줄을 border로 변경 */
     border-image: linear-gradient(to right, #00aaff, #e040fb) 1;
