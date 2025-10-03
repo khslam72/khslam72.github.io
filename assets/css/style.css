@@ -44,7 +44,7 @@ a { text-decoration: none; color: inherit; }
 
 #header .site-title {
     font-family: 'Pretendard', sans-serif; /* 헤더는 Pretendard 유지 */
-    font-size: 2.2rem;
+    font-size: 3.2rem;
     font-weight: 700;
     color: #FF8C00;
     text-shadow: 0 5 10px rgba(255, 140, 2, 0.4);
