@@ -42,19 +42,56 @@
             </div>
         </main>
 
- <footer id="footer">
+<footer id="footer">
     <div class="footer-inner">
-   <!-- 방문자 통계 (HTTPS 수정) -->
-<div class="visitor-stats">
-    <a href="https://www.cutercounter.com/" target="_blank">
-        <img src="https://www.cutercounter.com/hits.php?id=hvxookp&nd=6&style=33" border="0" alt="visitor counter">
-    </a>
-</div>
+        <!-- 방문자 통계 (Today/Total 최종 수정) -->
+        <div class="visitor-stats" id="visitor-stats-container">
+            <!-- 자바스크립트로 통계 뱃지를 여기에 추가합니다. -->
+        </div>
+
         <p>&copy; {% assign current_year = 'now' | date: '%Y' %} {{ site.title }}. All Rights Reserved.</p>
         
         <p>Designed by Lee KH</p>
     </div>
 </footer>
+
+<!-- 방문자 통계 뱃지 생성을 위한 스크립트 -->
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        // 오늘 날짜를 YYYY-MM-DD 형식으로 가져옵니다. (한국 시간 기준)
+        const today = new Date();
+        const kstOffset = 9 * 60; // KST is UTC+9
+        const kstToday = new Date(today.getTime() + (kstOffset + today.getTimezoneOffset()) * 60000);
+        const dateString = kstToday.toISOString().split('T')[0];
+
+        // Total과 Today를 위한 고유 ID 생성
+        const totalPageId = 'khslam72.kcontents.site.total';
+        const todayPageId = 'khslam72.kcontents.site.daily.' + dateString;
+
+        // 뱃지 이미지 URL 생성
+        const totalBadgeUrl = `https://visitor-badge.glitch.me/badge?page_id=${totalPageId}&left_color=%23555555&right_color=%2300D9FF&left_text=Total`;
+        const todayBadgeUrl = `https://visitor-badge.glitch.me/badge?page_id=${todayPageId}&left_color=%23555555&right_color=%23FF8C00&left_text=Today`;
+
+        // 이미지를 표시할 컨테이너
+        const statsContainer = document.getElementById('visitor-stats-container');
+
+        if (statsContainer) {
+            // Today 뱃지 이미지 생성
+            const todayImg = document.createElement('img');
+            todayImg.src = todayBadgeUrl;
+            todayImg.alt = "Today's visitors";
+
+            // Total 뱃지 이미지 생성
+            const totalImg = document.createElement('img');
+            totalImg.src = totalBadgeUrl;
+            totalImg.alt = "Total visitors";
+            
+            // 페이지에 뱃지 추가
+            statsContainer.appendChild(todayImg);
+            statsContainer.appendChild(totalImg);
+        }
+    });
+</script>
     </div>
     <!-- 애널리틱스 스크립트 시작 -->
 
