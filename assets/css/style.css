@@ -79,7 +79,7 @@ a { text-decoration: none; color: inherit; }
     position: relative;
     color: #00aaff;
     margin-top: 2.5em;
-    margin-bottom: 1em; /* ✅ 밑줄과의 간격을 위해 수정 */
+    margin-bottom: 0em; /* ✅ 밑줄과의 간격을 위해 수정 */
     font-family: 'Rajdhani', sans-serif;
     font-weight: 700;
     padding-bottom: 10px; /* ✅ 밑줄과의 간격 수정 */
