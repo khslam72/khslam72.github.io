@@ -145,12 +145,12 @@ details ol li { line-height: 1.5; margin-bottom: 8px; }
   font-family: 'Rajdhani', sans-serif;
   font-size: 1.8rem;
   font-weight: 700;
-  color: var(--title-color);
+  color: #00aaff; /* ✅ 포스트 h2와 동일한 색상으로 변경 */
   margin-top: 2.5em;
   margin-bottom: 1em;
-  border-bottom: 2px solid #FF8C00;
-  padding-bottom: 0.3em;
-  display: inline-block;
+  padding-bottom: 3px; /* ✅ 제목과 밑줄 사이 간격 최소화 */
+  border-bottom: 1px solid; /* ✅ 1px 얇은 밑줄로 변경 */
+  border-image: linear-gradient(to right, #00aaff, #e040fb) 1; /* ✅ 포스트 h2와 동일한 그라데이션 밑줄 */
 }
 .post-body .about-list {
   list-style-type: '✓  ';
