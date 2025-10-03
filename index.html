@@ -2,8 +2,10 @@
 layout: default
 title: Home
 ---
+
 <div class="post-list">
-    {% for post in site.posts %}
+    <!-- ✅ 'site.posts'를 'paginator.posts'로 변경 -->
+    {% for post in paginator.posts %}
     <article class="post-item">
         <a href="{{ post.url | relative_url }}" class="post-link">
             <div class="thumbnail-box">
@@ -26,9 +28,23 @@ title: Home
     {% endfor %}
 </div>
 
-{% if paginator.total_pages > 1 %}
+<!-- ✅ 페이지네이션 링크 (새로 추가된 부분) -->
 <div class="pagination">
-    </div>
-{% endif %}
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+    {% else %}
+      <span class="previous disabled">Previous</span>
+    {% endif %}
+  
+    <span class="page_number">
+      Page: {{ paginator.page }} of {{ paginator.total_pages }}
+    </span>
+  
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+    {% else %}
+      <span class="next disabled">Next</span>
+    {% endif %}
+</div>
 
 
