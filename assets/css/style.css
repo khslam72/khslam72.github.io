@@ -106,15 +106,15 @@ details summary { font-weight: 600; cursor: pointer; }
 details ol { margin-top: 15px; padding-left: 25px; }
 details ol li { line-height: 1.5; margin-bottom: 8px; }
 
-/* --- About 페이지 스타일 (V3) --- */
-.about-profile-header {
+/* --- About 페이지 스타일 (V4 - 최종 수정) --- */
+.post-body .about-profile-header {
   display: flex;
   align-items: center;
-  gap: 25px; /* 로고와 텍스트 사이 간격 */
+  gap: 25px;
   margin-bottom: 1em;
 }
 
-.about-profile-logo {
+.post-body .about-profile-logo {
   height: 100px;
   width: 100px;
   border-radius: 50%;
@@ -122,30 +122,26 @@ details ol li { line-height: 1.5; margin-bottom: 8px; }
   flex-shrink: 0;
 }
 
-.about-name {
-  font-family: 'Rajdhani', sans-serif;
-  font-size: 3.5rem;
-  color: var(--title-color);
-  margin: 0;
-  line-height: 1.1;
-  font-weight: 700;
+/* ✅ 'KH Lee' h2 태그의 아래쪽 여백만 별도로 제거 */
+.post-body .about-name {
+  margin-bottom: 0;
 }
 
-.about-curator {
+.post-body .about-curator {
   font-size: 1.2rem;
-  color: #FF8C00; /* 사이트 제목과 동일한 주황색 */
+  color: #FF8C00;
   font-weight: 600;
-  margin: 0;
+  margin-top: 0; /* ✅ 위쪽 여백 제거 */
 }
 
-.about-divider {
+.post-body .about-divider {
   border: 0;
   height: 1px;
   background-image: linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,0.1), rgba(0,0,0,0));
   margin: 2.5em 0;
 }
 
-.about-section-title {
+.post-body .about-section-title {
   font-family: 'Rajdhani', sans-serif;
   font-size: 1.8rem;
   font-weight: 700;
@@ -157,16 +153,16 @@ details ol li { line-height: 1.5; margin-bottom: 8px; }
   display: inline-block;
 }
 
-.about-list {
+.post-body .about-list {
   list-style-type: '✓  ';
   padding-left: 20px;
 }
 
-.about-list li {
+.post-body .about-list li {
   margin-bottom: 0.8em;
 }
 
-.about-contact {
+.post-body .about-contact {
   margin-top: 2.5em;
   font-size: 1rem;
   color: #555;
@@ -176,12 +172,22 @@ details ol li { line-height: 1.5; margin-bottom: 8px; }
   border-radius: 8px;
 }
 
-.about-email-link {
+.post-body .about-email-link {
   color: #007bff;
   text-decoration: underline;
   font-weight: 600;
 }
 
+/* 모바일 화면 대응 */
+@media (max-width: 768px) {
+  .post-body .about-profile-header {
+    flex-direction: column;
+    text-align: center;
+  }
+  .post-body .about-name {
+    font-size: 3rem;
+  }
+}
 /* 모바일 화면 대응 */
 @media (max-width: 768px) {
   .about-profile-header {
