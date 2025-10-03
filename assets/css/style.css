@@ -47,7 +47,7 @@ a { text-decoration: none; color: inherit; }
     font-size: 2.2rem;
     font-weight: 700;
     color: #FF8C00;
-    text-shadow: 0 0 10px rgba(255, 140, 0, 0.4);
+    text-shadow: 0 5 10px rgba(255, 140, 2, 0.4);
 }
 
 .navigation { display: flex; gap: 25px; }
