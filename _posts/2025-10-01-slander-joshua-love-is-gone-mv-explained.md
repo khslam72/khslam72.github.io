@@ -59,10 +59,6 @@ tags:
 <h2>Quick Summary: The Vibe Check</h2>
 This reinterpretation of 'Love Is Gone' trades the original's explosive desperation for a fragile, intimate sorrow. JOSHUA's delicate vocals create a personal, heart-wrenching plea that feels less like a public cry for help and more like a whispered confession meant for only one person. It’s the same heartbreak, just delivered with a completely different, and arguably more personal, kind of pain.
 
-<div class="related-reading-box">
-<strong>Related reading:</strong> <a href="/search/label/MV%20Explained">More K-POP MV Explained</a> · <a href="/search/label/Streaming%20Guide">K-POP Streaming Guide</a>
-</div>
-
 <a name="quick-facts"></a>
 <h2>Quick Facts & Credits</h2>
 * **Artists:** SLANDER, JOSHUA of SEVENTEEN, Dylan Matthew
