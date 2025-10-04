@@ -4,16 +4,16 @@ title: "TWICE's 'THIS IS FOR' M/V Explained: An Anthem for Unapologetic Confiden
 description: "MV Explained: TWICE’s 'THIS IS FOR'—a deep dive into the empowering visuals, bold lyrics, and why this track is a certified 'baddie era' anthem for ladies everywhere."
 thumbnail: /images/twice-this-is-for-mv-screencap-2025.webp
 categories:
-  - K-POP MV Explained
+  - K-POP MV Explained
 tags:
-  - "K-POP MV Explained"
-  - "TWICE"
-  - "THIS IS FOR"
-  - "THIS IS FOR Meaning"
-  - "K-Pop Analysis"
-  - 'Artist: TWICE'
-  - 'Agency: JYP Entertainment'
-  - "2025 K-Pop"
+  - "K-POP MV Explained"
+  - "TWICE"
+  - "THIS IS FOR"
+  - "THIS IS FOR Meaning"
+  - "K-Pop Analysis"
+  - 'Artist: TWICE'
+  - 'Agency: JYP Entertainment'
+  - "2025 K-Pop"
 ---
 
 <p style="margin: 8px 0px 16px;">
