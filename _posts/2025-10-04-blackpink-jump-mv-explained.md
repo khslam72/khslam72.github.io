@@ -4,17 +4,17 @@ title: "BLACKPINK’s ‘JUMP’ MV Explained: Why It’s Still an Anthem Months
 description: "MV Explained: Two months on, we dive back into BLACKPINK's 'JUMP'—analyzing its lasting impact, empowering lyrics, and the stunning visual story that keeps it on top."
 thumbnail: /images/blackpink-jump-mv-screencap-2025.webp
 categories:
-  - K-POP MV Explained
+  - K-POP MV Explained
 tags:
-  - "K-POP MV Explained"
-  - "BLACKPINK"
-  - "JUMP"
-  - "JUMP Meaning"
-  - "K-Pop Analysis"
-  - 'Artist: BLACKPINK'
-  - 'Song: JUMP'
-  - 'Agency: YG Entertainment'
-  - "2025 K-Pop"
+  - "K-POP MV Explained"
+  - "BLACKPINK"
+  - "JUMP"
+  - "JUMP Meaning"
+  - "K-Pop Analysis"
+  - 'Artist: BLACKPINK'
+  - 'Song: JUMP'
+  - 'Agency: YG Entertainment'
+  - "2025 K-Pop"
 ---
 
 <p style="margin: 8px 0px 16px;">
@@ -182,5 +182,3 @@ With "JUMP," BLACKPINK has once again proven their prowess and set the bar incre
 }
 }
 </script>
-
-2025-10-04-blackpink-jump-mv-explained.md
