@@ -21,15 +21,15 @@
 </head>
 <body>
     <div id="wrap">
-        <header id="header">
-            <div class="header-inner">
-             <h1 class="logo">
-    <a href="{{ "/" | relative_url }}" class="logo-link">
-        <img src="{{ '/images/logo.png' | relative_url }}" alt="{{ site.title }} Logo" class="site-logo">
-        <span class="site-title">{{ site.title }}</span>
-    </a>
-</h1>
-                <nav class="navigation">
+       <header id="header">
+    <div class="header-inner">
+        <div class="logo">
+            <a href="{{ "/" | relative_url }}" class="logo-link">
+                <img src="{{ '/images/logo.png' | relative_url }}" alt="{{ site.title }} Logo" class="site-logo">
+                <span class="site-title">{{ site.title }}</span>
+            </a>
+        </div>
+        <nav class="navigation">
                     <a href="{{ "/" | relative_url }}">Home</a>
                     <a href="/about/">About</a> 
                 </nav>
