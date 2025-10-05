@@ -5,6 +5,7 @@ description: "MV Explained: Two months on, we dive back into BLACKPINK's 'JUMP'â
 thumbnail: /images/blackpink-jump-mv-screencap-2025.webp
 categories:
   - K-POP MV Explained
+  - 'Artist: BLACKPINK'
 tags:
   - "K-POP MV Explained"
   - "BLACKPINK"
