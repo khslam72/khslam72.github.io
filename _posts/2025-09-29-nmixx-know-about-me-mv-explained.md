@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2025-03-17 00:00:00 +0900
+date: 2025-10-02 00:00:00 +0900
 title: "NMIXX's 'KNOW ABOUT ME' Explained: Sci-Fi R&B and the Quest for the Sixth Sense"
 description: "MV Explained: A deep dive into NMIXX’s ‘KNOW ABOUT ME’ MV—exploring the sci-fi journey, R&B shift, Mixxtopia lore, and the symbolism of the MMU ship and cat's eyes. Plus, the next chapter: 'Blue Valentine' comeback in October."
 excerpt: "Stop what you’re doing and know about NMIXX! While the K-Pop world usually associates NMIXX with the abrupt, genre-bending MIXX POP, their 2025 title track, “KNOW ABOUT ME,” presented a stunning shift—a sleek, sultry R&B/trap fusion that proved their vocal prowess is truly hexagonal."
