@@ -5,6 +5,7 @@ description: "MV Explained: IU’s ‘Love wins all’—cube & camcorder symbol
 thumbnail: /images/iu-love-wins-all-mv-screencap-2024.webp
 categories:
   - K-POP MV Explained
+  - "Artist: IU"
 tags:
   - "K-POP MV Explained"
   - "IU"
