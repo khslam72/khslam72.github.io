@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2025-09-05 09:58:00 +0900 # ✅ 날짜 추가 (임의)
+date: 2025-09-29 09:58:00 +0900 # ✅ 날짜 추가 (임의)
 title: "The Story of 'Rich Man' by aespa Explained: Redefining Wealth and Power"
 description: "A deep-dive MV Explained guide for aespa's Rich Man. We analyze the luxurious and confident visual story, the core lyric meaning, and the connection to the group's evolving cinematic universe."
 excerpt: "A deep-dive MV Explained guide for aespa's Rich Man. We analyze the luxurious and confident visual story, the core lyric meaning, and the connection to the group's evolving cinematic universe."
