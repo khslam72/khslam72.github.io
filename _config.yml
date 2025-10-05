@@ -38,9 +38,9 @@ sass:
 plugins:
   - jekyll-sitemap
   - jekyll-feed
-  - jyll-paginate
+  - jekyll-paginate # ✅ 'jyll'을 'jekyll'로 수정했습니다.
   - jekyll-seo-tag
-  - jekyll-remote-theme # ✅ 이 줄을 추가하세요
+  - jekyll-remote-theme
 
 # -----------------------------------------------------------------------------
 # 소셜/푸터 링크 설정
@@ -63,4 +63,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
