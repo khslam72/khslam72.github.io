@@ -5,6 +5,7 @@ description: "MV Explained: A deep dive into Hwasa's 'I Love My Body,' analyzing
 thumbnail: /images/hwasa-i-love-my-body-mv-screencap-2023.webp
 categories:
   - K-POP MV Explained
+  - "Artist: Hwasa"
 tags:
   - "K-POP MV Explained"
   - "Hwasa"
