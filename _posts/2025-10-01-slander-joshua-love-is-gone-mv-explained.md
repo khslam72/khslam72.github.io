@@ -7,6 +7,7 @@ excerpt: "Ever wonder what happens when a K-Pop idol's gentle touch meets an EDM
 thumbnail: /images/slander-joshua-love-is-gone-mv-explained.webp
 categories:
   - K-POP MV Explained
+  - "Artist: JOSHUA"
 tags:
   - "K-POP MV Explained"
   - "SLANDER"
