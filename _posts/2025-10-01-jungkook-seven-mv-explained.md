@@ -7,6 +7,7 @@ excerpt: "It's the song that shattered records, but the real story is in the hil
 thumbnail: /images/jungkook-seven-mv-explained.webp
 categories:
   - K-POP MV Explained
+  - "Artist: Jungkook"
 tags:
   - "K-POP MV Explained"
   - "Jungkook"
