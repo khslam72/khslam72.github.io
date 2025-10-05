@@ -6,6 +6,7 @@ thumbnail: /images/ive-xoxz-mv-screencap-2025.webp
 excerpt: "How do you turn a term of endearment into a weapon? Ask IVE. Their B-side track 'XOXZ' flips 'hugs and kisses' into a fiery, unapologetic kiss-off."
 categories:
   - K-POP MV Explained
+  - 'Artist: IVE'
 tags:
   - "K-POP MV Explained"
   - "IVE"
