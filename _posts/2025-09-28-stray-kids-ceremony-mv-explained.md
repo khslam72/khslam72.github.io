@@ -6,6 +6,7 @@ description: "MV Explained: Stray Kids' 'CEREMONY' — A deep dive into the 'vis
 thumbnail: /images/stray-kids-ceremony-mv-screencap-2025.webp
 categories:
   - K-POP MV Explained
+  - 'Artist: Stray Kids'
 tags:
   - "K-POP MV Explained"
   - "Stray Kids"
