@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2024-04-15 09:00:00 +0900 # ✅ 날짜 추가 (MV 공개일 기준, UTC 기준 00:00:00 +9시간)
+date: 2025-09-30 09:00:00 +0900 # ✅ 날짜 추가 (작성일 기준, UTC 기준 00:00:00 +9시간)
 title: "BOYNEXTDOOR – “Earth, Wind & Fire” MV Explained: Love as a Weather Report (With Zero Chill)"
 description: "A deep-dive MV Explained guide for BOYNEXTDOOR's 'Earth, Wind & Fire.' We analyze how the MV turns first love into a literal forecast: gusty emotions, blazing confessions, and surreal scenery."
 excerpt: "A deep-dive MV Explained guide for BOYNEXTDOOR's 'Earth, Wind & Fire.' We analyze how the MV turns first love into a literal forecast: gusty emotions, blazing confessions, and surreal scenery."
