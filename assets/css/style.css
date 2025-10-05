@@ -214,3 +214,7 @@ details ol li { line-height: 1.5; margin-bottom: 8px; }
   text-align: center;
   margin-bottom: 2em;
 }
+/* --- 푸터 텍스트 가운데 정렬 --- */
+#footer {
+  text-align: center;
+}
