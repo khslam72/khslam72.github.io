@@ -43,14 +43,14 @@
             </div>
         </main>
 
-       <footer id="footer">
+ <footer id="footer">
     <div class="footer-inner">
-        <!-- 방문자 통계가 필요하시면 여기에 추가하세요 -->
-        
         <p class="footer-links">
             <a href="{{ "/" | relative_url }}">Home</a> |
             <a href="/about/">About</a> |
-            <a href="/privacy-policy/">Privacy Policy</a>
+            <a href="/categories/">Categories</a> |
+            <a href="/privacy-policy/">Privacy Policy</a> |
+            <a href="/terms-of-service/">Terms of Service</a> <!-- ✅ 이 줄을 추가했습니다 -->
         </p>
         
         <p>&copy; {% assign current_year = 'now' | date: '%Y' %} {{ site.title }}. All Rights Reserved.</p>
