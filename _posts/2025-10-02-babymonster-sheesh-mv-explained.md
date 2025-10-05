@@ -5,6 +5,7 @@ description: "MV Explained: A deep dive into BABYMONSTER's 'SHEESH' visual story
 thumbnail: /images/babymonster-sheesh-mv-explained-2025.webp
 categories:
   - K-POP MV Explained
+  - 'Artist: BABYMONSTER'
 tags:
   - "K-POP MV Explained"
   - "BABYMONSTER"
