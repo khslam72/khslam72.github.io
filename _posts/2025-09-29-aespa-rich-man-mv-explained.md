@@ -7,6 +7,7 @@ excerpt: "A deep-dive MV Explained guide for aespa's Rich Man. We analyze the lu
 thumbnail: /images/aespa-rich-man-mv-screencap-2025.webp
 categories:
   - K-POP MV Explained
+  - "Artist: aespa"
 tags:
   - K-POP MV Explained
   - aespa Rich Man
