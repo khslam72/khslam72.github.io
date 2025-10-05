@@ -5,6 +5,7 @@ description: "MV Explained: NMIXX's pre-release 'SPINNIN’ ON IT' is a visual f
 thumbnail: /images/nmixx-spinnin-on-it-mv-screencap-2025.webp
 categories:
   - K-POP MV Explained
+  - 'Artist: NMIXX'
 tags:
   - "K-POP MV Explained"
   - "NMIXX"
