@@ -7,6 +7,7 @@ excerpt: "It's been over a year since Stray Kids blew up our screens with 'Chk C
 thumbnail: /images/Stray Kids Chk Chk Boom.webp
 categories:
   - K-POP MV Explained
+  - "Artist: Stray Kids"
 tags:
   - "K-POP MV Explained"
   - "Stray Kids"
