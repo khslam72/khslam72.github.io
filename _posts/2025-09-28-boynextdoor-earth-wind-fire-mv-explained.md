@@ -5,9 +5,9 @@ title: "BOYNEXTDOOR – “Earth, Wind & Fire” MV Explained: Love as a Weather
 description: "A deep-dive MV Explained guide for BOYNEXTDOOR's 'Earth, Wind & Fire.' We analyze how the MV turns first love into a literal forecast: gusty emotions, blazing confessions, and surreal scenery."
 excerpt: "A deep-dive MV Explained guide for BOYNEXTDOOR's 'Earth, Wind & Fire.' We analyze how the MV turns first love into a literal forecast: gusty emotions, blazing confessions, and surreal scenery."
 thumbnail: /images/boynextdoor-earth-wind-fire-mv-thumbnail.webp # ✅ 썸네일 추가
-category: 
-- K-POP MV Explained
-- Artist: BOYNEXTDOOR
+categories:
+  - K-POP MV Explained
+  - "Artist: BOYNEXTDOOR"
 tags:
 - "BOYNEXTDOOR Earth Wind Fire" # ✅ 따옴표 추가
 - "BOYNEXTDOOR MV Explained" # ✅ 따옴표 추가
