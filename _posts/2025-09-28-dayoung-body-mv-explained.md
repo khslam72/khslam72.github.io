@@ -4,9 +4,8 @@ title: "Dayoung \"body\" MV Explained: Lyrics, Story, and Behind the Scenes"
 date: 2025-09-28 01:47:03 +0900
 thumbnail: /images/WJSN Dayoung body official MV thumbnail from go.jpg # ✅ 썸네일 경로 추가
 categories:
-  - K-POP # ✅ 들여쓰기 수정
-  - MV Explained
-  - Artist
+  - K-POP MV Explained
+  - Artist: Dayoung
 tags:
   - Dayoung # ✅ 들여쓰기 수정
   - body
