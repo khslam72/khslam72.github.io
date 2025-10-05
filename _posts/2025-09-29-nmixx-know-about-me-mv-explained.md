@@ -7,6 +7,7 @@ excerpt: "Stop what you’re doing and know about NMIXX! While the K-Pop world u
 thumbnail: /images/nmixx-know-about-me-mv-screencap-2025.webp
 categories:
   - K-POP MV Explained
+  - "Artist: NMIXX"
 tags:
   - "K-POP MV Explained"
   - "NMIXX"
