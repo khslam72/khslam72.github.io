@@ -12,14 +12,16 @@ permalink: /categories/
   <div class="post-body">
     <div class="category-archive">
       
-      {% assign categories = "" %}
+      <!-- ✅ 모든 카테고리를 안전하게 수집하고 정렬하는 새로운 코드 -->
+      {% assign all_categories = "" %}
       {% for post in site.posts %}
         {% for category in post.categories %}
-          {% assign categories = categories | append: category | append: "||" %}
+          {% assign all_categories = all_categories | append: category | append: "||" %}
         {% endfor %}
       {% endfor %}
-      {% assign category_list = categories | split: "||" | uniq | sort %}
+      {% assign category_list = all_categories | split: "||" | uniq | sort %}
 
+      <!-- ✅ 정제된 카테고리 목록을 사용 -->
       {% for category_name in category_list %}
         {% if category_name == "" %}{% continue %}{% endif %}
         <div class="category-group">
