@@ -5,6 +5,7 @@ description: "MV Explained: TWICE’s 'THIS IS FOR'—a deep dive into the empow
 thumbnail: /images/twice-this-is-for-mv-screencap-2025.webp
 categories:
   - K-POP MV Explained
+  - 'Artist: TWICE'
 tags:
   - "K-POP MV Explained"
   - "TWICE"
