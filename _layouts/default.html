@@ -3,36 +3,36 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <!-- ✅ Google 서치 콘솔 소유권 확인 코드 -->
-    <meta name="google-site-verification" content="google37b994b8641bf793" />
-  <!-- ✅ Bing 웹마스터 도구 소유권 확인 코드 -->
+
+    <!-- Bing & Google 소유권 확인 메타 태그 -->
     <meta name="msvalidate.01" content="6C8CE98E1961F351CC825DB90694D13A" />
+    <meta name="google-site-verification" content="google37b994b8641bf793" />
+
+    <!-- SEO 플러그인 태그 -->
     {% seo %}
 
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600;700&display=swap" rel="stylesheet">
+    <!-- 폰트 불러오기: Pretendard, Orbitron, Rajdhani -->
     <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@700&display=swap" rel="stylesheet">
     
+    <!-- 메인 CSS 파일 -->
     <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
-    <!-- _layouts/default.html 파일의 <head> 안에 추가 -->
-<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap" rel="stylesheet">
 </head>
 <body>
     <div id="wrap">
        <header id="header">
-    <div class="header-inner">
-        <div class="logo">
-            <a href="{{ "/" | relative_url }}" class="logo-link">
-                <img src="{{ '/images/logo.png' | relative_url }}" alt="{{ site.title }} Logo" class="site-logo">
-                <span class="site-title">{{ site.title }}</span>
-            </a>
-        </div>
-        <nav class="navigation">
+            <div class="header-inner">
+                <div class="logo">
+                    <a href="{{ "/" | relative_url }}" class="logo-link">
+                        <img src="{{ '/images/logo.png' | relative_url }}" alt="{{ site.title }} Logo" class="site-logo">
+                        <span class="site-title">{{ site.title }}</span>
+                    </a>
+                </div>
+                <nav class="navigation">
                     <a href="{{ "/" | relative_url }}">Home</a>
-                    <a href="/about/">About</a> 
-</nav>
+                    <a href="/about/">About</a>
+                    <a href="/categories/">Categories</a>
                 </nav>
             </div>
         </header>
@@ -43,35 +43,37 @@
             </div>
         </main>
 
-<footer id="footer">
-    <div class="footer-inner">
-        <p>&copy; {% assign current_year = 'now' | date: '%Y' %} {{ site.title }}. All Rights Reserved.</p>
-        <p>Designed by Lee KH</p>
+        <footer id="footer">
+            <div class="footer-inner">
+                <p class="footer-links">
+                    <a href="{{ "/" | relative_url }}">Home</a> |
+                    <a href="/about/">About</a> |
+                    <a href="/privacy-policy/">Privacy Policy</a>
+                </p>
+                
+                <p>&copy; {% assign current_year = 'now' | date: '%Y' %} {{ site.title }}. All Rights Reserved.</p>
+                <p>Designed by Lee KH</p>
+            </div>
+        </footer>
     </div>
-</footer>
-    </div>
-    <!-- 애널리틱스 스크립트 시작 -->
 
-<!-- 1. Naver Analytics -->
-<script type="text/javascript" src="//wcs.pstatic.net/wcslog.js"></script>
-<script type="text/javascript">
-if(!wcs_add) var wcs_add = {};
-wcs_add["wa"] = "15206442d4cd53";
-if(window.wcs) {
-wcs_do();
-}
-</script>
-
-<!-- 2. Google Analytics (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-5808KZ346C"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-5808KZ346C');
-</script>
-
-<!-- 애널리틱스 스크립트 끝 -->
+    <!-- 애널리틱스 스크립트 -->
+    <!-- Naver Analytics -->
+    <script type="text/javascript" src="//wcs.pstatic.net/wcslog.js"></script>
+    <script type="text/javascript">
+    if(!wcs_add) var wcs_add = {};
+    wcs_add["wa"] = "15206442d4cd53";
+    if(window.wcs) {
+    wcs_do();
+    }
+    </script>
+    <!-- Google Analytics (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-5808KZ346C"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-5808KZ346C');
+    </script>
 </body>
 </html>
