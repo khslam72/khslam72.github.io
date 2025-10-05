@@ -11,11 +11,8 @@ permalink: /categories/
   
   <div class="post-body">
     <div class="category-archive">
-      <!-- ✅ 'site.categories | sort' 를 'sorted_categories' 라는 변수에 저장 -->
-      {% assign sorted_categories = site.categories | sort %}
-      
-      <!-- ✅ 'sorted_categories' 변수를 사용하도록 수정 -->
-      {% for category in sorted_categories %}
+      <!-- ✅ 'sort' 기능을 제거하여 안정성을 확보했습니다. -->
+      {% for category in site.categories %}
         <div class="category-group">
           <h2 class="category-name" id="{{ category | first | slugify }}">{{ category | first }}</h2>
           <ul class="category-post-list">
