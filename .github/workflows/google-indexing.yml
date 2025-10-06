@@ -1,0 +1,57 @@
+name: Submit to Google Indexing API
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - '_posts/**.md'
+
+jobs:
+  indexing:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Get changed posts
+        id: changed_posts
+        run: |
+          # Get list of added/modified markdown files in _posts
+          FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep "^_posts/.*\.md$")
+          URLS=""
+          for file in $FILES; do
+            # Extract title from filename like YYYY-MM-DD-title.md
+            FILENAME=$(basename "$file" .md)
+            TITLE_PART=$(echo "$FILENAME" | cut -d'-' -f4-)
+            # This matches the permalink: /:title/
+            URL="https://kcontents.site/${TITLE_PART}/"
+            URLS="$URLS $URL"
+          done
+          echo "URLS_TO_INDEX=$URLS" >> $GITHUB_ENV
+          echo "Found URLs to index: $URLS"
+
+      - name: Authenticate to Google Cloud
+        id: auth
+        uses: 'google-github-actions/auth@v1'
+        with:
+          credentials_json: '${{ secrets.SERVICE_ACCOUNT_KEY }}'
+
+      - name: Submit URLs
+        if: env.URLS_TO_INDEX != ''
+        run: |
+          for url_to_index in ${{ env.URLS_TO_INDEX }}; do
+            echo "Submitting: $url_to_index"
+            response_code=$(curl -s -o /dev/null -w "%{http_code}" -X POST "https://indexing.googleapis.com/v3/urlNotifications:publish" \
+              -H "Authorization: Bearer $(gcloud auth print-access-token)" \
+              -H "Content-Type: application/json" \
+              --data '{ "url": "'$url_to_index'", "type": "URL_UPDATED" }')
+            echo "Google API response: $response_code"
+            if [ "$response_code" -ne 200 ]; then
+              echo "Error submitting URL. See logs for details."
+              # Optionally, you can fail the job here:
+              # exit 1
+            fi
+          done
