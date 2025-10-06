@@ -1,26 +1,25 @@
 ---
 layout: post
-date: 2025-10-06 
+date: 2025-10-06
 title: "Jungkook 'Seven' Explained: A Week of Catastrophic Devotion"
 description: "MV Explained: A deep dive into Jung Kook's 'Seven,' analyzing its comedic storytelling, lyrical dual meanings, and its lasting cultural impact."
 excerpt: "It's the song that shattered records, but the real story is in the hilariously disastrous music video. We're breaking down how Jung Kook's 'Seven' became an unforgettable visual story of love against all (and we mean ALL) odds."
 thumbnail: /images/jungkook-seven-mv-explained.webp
 categories:
-  - K-POP MV Explained
-  - "Artist: Jungkook"
-  - "Agency: BIGHIT MUSIC"
+  - K-POP MV Explained
+  - "Artist: Jungkook"
+  - "Agency: BIGHIT MUSIC"
 tags:
-  - "K-POP MV Explained"
-  - "Jungkook"
-  - "Seven"
-  - "Seven Meaning"
-  - "K-Pop Analysis"
-  - 'Artist: Jungkook'
-  - 'Song: Seven'
-  - 'Agency: BIGHIT MUSIC'
-  - "2023 K-Pop"
+  - "K-POP MV Explained"
+  - "Jungkook"
+  - "Seven"
+  - "Seven Meaning"
+  - "K-Pop Analysis"
+  - 'Artist: Jungkook'
+  - 'Song: Seven'
+  - 'Agency: BIGHIT MUSIC'
+  - "2023 K-Pop"
 ---
-
 <p>
 <em>Let's be real, 'Seven' wasn't just a solo debut; it was a global event. But beyond the record-breaking streams is a music video that asks one simple question: how much chaos can one man endure for love in a single week? The answer, it turns out, is a lot.</em>
 </p>
