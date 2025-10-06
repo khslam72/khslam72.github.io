@@ -92,8 +92,14 @@ a { text-decoration: none; color: inherit; }
 .post-body h2::after {
     display: none;
 }
-.post-body h3 { color: #304090; margin-top: 1.5em; margin-bottom: 0.8em; }
-
+/* --- 본문 H3 소제목 스타일 (여백 조정) --- */
+.post-body h3 {
+  font-family: var(--font-title); /* 글꼴 통일 */
+  font-weight: 600;
+  color: #304090; /* 기존 색상 유지 */
+  margin-top: 2.5em;    /* ✅ h3 제목 위쪽에 충분한 여백 추가 */
+  margin-bottom: 1em;   /* ✅ h3 제목과 아래 문단 사이의 여백 */
+}
 /* --- 본문 컴포넌트 (Quick Facts, 목차 등) --- */
 .quick-facts-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px 20px; }
 .related-reading-box { border: 1px solid var(--border-color); background-color: #fafafa; padding: 15px 20px; border-radius: 10px; margin: 2em 0; font-size: 0.9rem; }
