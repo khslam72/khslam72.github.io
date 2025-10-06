@@ -75,7 +75,7 @@ loading="lazy"></iframe>
 
 <a name="story-on-screen"></a>
 <h2 style="color: #00aaff;">The Story You See on Screen: Unleashed Energy and Unstoppable Power</h2>
-The "JUMP" MV is a dazzling display of BLACKPINK's charisma and visual prowess, a true testament to their reign.
+<p>The "JUMP" MV is a dazzling display of BLACKPINK's charisma and visual prowess, a true testament to their reign.</p>
 <br>
 
 **1. The Setting: A World of Their Own:** From the very first frame, we're immersed in a series of vivid, high-energy settings. Each member shines in their individual segments, often surrounded by dynamic visuals that reflect their powerful presence. Think neon-lit cityscapes, ethereal, dreamlike landscapes, and sleek, futuristic stages. This isn't just a backdrop; it's *their* world, where they set the rules.
@@ -96,7 +96,7 @@ The "JUMP" MV is a dazzling display of BLACKPINK's charisma and visual prowess, 
 <h2 style="color: #00aaff;">Lyrics & Meaning: A Deep Dive into Defiant Confidence</h2>
 <h3 style="color: #304090;">The Intent Behind the Hook & Cultural Nuance (The Fun Analysis)</h3>
 
-The lyrics of "JUMP" are a powerful declaration of self-assuredness and a playful challenge to anyone who underestimates them.
+<p>The lyrics of "JUMP" are a powerful declaration of self-assuredness and a playful challenge to anyone who underestimates them.</p>
 <br>
 
 **1. "I'm not that easy to tame":** Right from the start, the lyrics set a defiant tone. This isn't about being docile or fitting into molds. It's a quintessential BLACKPINK statement, reminding everyone of their fierce, independent spirit that cannot be controlled. This resonates strongly with the group's image of strong, empowered women in a genre often criticized for its manufactured perfection.
@@ -115,7 +115,9 @@ The lyrics of "JUMP" are a powerful declaration of self-assuredness and a playfu
 
 <a name="bts-insights"></a>
 <h2 style="color: #00aaff;">Behind the Scenes & Visual Insights</h2>
-While specific director's notes are still emerging, the MV's visual language speaks volumes about its intent and production.
+
+<p>While specific director's notes are still emerging, the MV's visual language speaks volumes about its intent and production.</p>
+<br>
 
 **1. High-Concept Set Design:** The sets are undeniably extravagant and futuristic, suggesting a significant investment in world-building. Each scene, whether it's an abandoned cityscape or a vibrant, fantastical garden, is meticulously crafted to amplify the song's energy and message of breaking free. The diverse backdrops ensure a visually stimulating experience that keeps viewers engaged.
 
@@ -135,7 +137,7 @@ While specific director's notes are still emerging, the MV's visual language spe
 
 <a name="future-prospects"></a>
 <h2 style="color: #00aaff;">Future Prospects: What's Next for BLACKPINK?</h2>
-With "JUMP," BLACKPINK has once again proven their prowess and set the bar incredibly high. This single feels like a springboard, not just a standalone track.
+<p>With "JUMP," BLACKPINK has once again proven their prowess and set the bar incredibly high. This single feels like a springboard, not just a standalone track.</p>
 <br>
 
 **1. World Tour Potential:** Given the song's high energy and "all gas no brakes" attitude, it's highly probable that "JUMP" is a precursor to a major world tour. The anthemic quality of the track is perfect for live performances, and fans are undoubtedly clamoring for the chance to see this powerful new era unfold on stage.
