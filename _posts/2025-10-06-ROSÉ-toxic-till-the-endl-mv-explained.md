@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2025-10-06
-title: "ROSÉ's toxic till the end - The Beautifully Brutal B-Side Stealing Hearts"
+title: "ROSÉ's toxic till the end Explained - The Beautifully Brutal B-Side Stealing Hearts"
 description: "Forget 'APT.' for a second. We're diving deep into 'toxic till the end,' the raw, heartbreaking gem from ROSÉ's album 'rosie' that everyone's whispering about. This is the real story."
 excerpt: "While the world was playing the 'APT.' game, ROSÉ quietly dropped a masterpiece about a love that's beautifully broken. Let's break down the lyrics, meaning, and raw emotion of 'toxic till the end.'"
 thumbnail: /images/rose-toxic-till-the-end.webp
