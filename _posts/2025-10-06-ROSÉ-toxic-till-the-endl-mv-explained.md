@@ -40,7 +40,7 @@ tags:
 <ol>
 <li><a href="#tldr">Quick Summary: The Vibe Check</a></li>
 <li><a href="#quick-facts">Credits</a></li>
-<li><a href="#story-on-screen">The Story You Hear in the Sound</a></li>
+<li><a href="#story-on-screen">The Story You See on Screen</a></li>
 <li><a href="#lyrics-meaning">Lyrics & meaning</a></li>
 <li><a href="#bts-insights">Behind the Scenes & Vocal Insights</a></li>
 <li><a href="#fan-takeaways">Fan Takeaways</a></li>
@@ -50,8 +50,8 @@ tags:
 </details>
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:12px;">
-<iframe src="https://www.youtube.com/embed/rCZ_ilTwQiE?rel=0"
-title="ROSÉ - toxic till the end (Official Audio) Explained"
+<iframe src="https://www.youtube.com/embed/eA0lHNZ1KCA?rel=0"
+title="ROSÉ - toxic till the end (Official Music Video) Explained"
 style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
 allowfullscreen
 loading="lazy"></iframe>
@@ -71,14 +71,19 @@ loading="lazy"></iframe>
 <div><strong>Album</strong>: rosie</div>
 <div><strong>Release</strong>: 2024-12-06</div>
 <div><strong>Agency</strong>: THEBLACKLABEL / Atlantic Records</div>
-<div><strong>Director</strong>: N/A (Official Audio)</div>
+<div><strong>Director</strong>: N/A (Official Music Video)</div>
 <div><strong>Genre</strong>: Pop / Ballad</div>
-<div><strong>MV ID</strong>: rCZ_ilTwQiE</div>
+<div><strong>MV ID</strong>: eA0lHNZ1KCA</div>
 </div>
 
 <a name="story-on-screen"></a>
-<h2>The Story You Hear in the Sound</h2>
-<p>Since this track doesn't have a cinematic music video, the "story" isn't on screen—it's in the sound itself. The song opens with a simple, almost hesitant guitar melody, creating an immediate sense of intimacy. It feels like we're eavesdropping on a private, late-night confession. ROSÉ's voice is front and center, delicate and breathy. As the song progresses, subtle layers of synths and harmonies build, swelling like the unshed tears in a relationship's final moments. There's no dramatic beat drop, no explosive finale. Instead, the song just... fades. It mirrors the feeling of a love that doesn't end with a bang, but with a slow, heartbreaking fizzle. It’s a masterclass in atmospheric storytelling.</p>
+<h2>The Story You See on Screen</h2>
+<p>
+The music video for "toxic till the end" is a masterclass in conveying raw emotion through minimalist, yet deeply impactful visuals. The entire video feels like a prolonged, intimate moment, stripped bare of flashy sets or complex narratives. We see ROSÉ in a series of poignant, often solitary settings—a dimly lit room, standing by a window, or simply gazing into the distance. The muted color palette and soft lighting amplify the melancholic atmosphere, drawing us into her internal world.
+</p>
+<p>
+The visual storytelling relies heavily on ROSÉ's expressions and subtle body language. Her eyes often convey a deep sadness and resignation, perfectly mirroring the lyrics of a love that's fading but stubbornly clinging on. There are no dramatic plot twists or explosive scenes; instead, the video focuses on the quiet agony of a relationship's slow demise. The camera lingers on her, emphasizing vulnerability and introspection. This stripped-down approach allows the viewer to project their own experiences onto the visuals, making the emotional impact even more profound. It's a testament to the power of simplicity, where every subtle gesture and glance tells a story of beautiful, agonizing heartbreak.
+</p>
 
 <a name="lyrics-meaning"></a>
 <h2>Lyrics & meaning</h2>
@@ -88,15 +93,15 @@ loading="lazy"></iframe>
 The lyrics of "toxic till the end" unfold like a short film, documenting the harrowing, quiet final act of a relationship. This isn't a sudden breakup announcement; it's a record of the last few days, where two people, fully aware of the fading warmth, just can't let go of each other's hands.
 </p>
 <p>
-<strong>Verse 1: "Fake a smile, tell a lie / Say I'm happy to be by your side"</strong><br>
+<strong>Verse 1: "Fake a smile, tell a lie / Say I'm happy to be by your side" (억지로 웃고, 거짓말을 해 / 네 곁에 있어 행복하다고 말이야)</strong><br>
 From the very beginning, the song opens with a heartbreaking 'performance.' It's the act of faking happiness because the pain of separation feels more terrifying than the numbness of staying. The line "happy to be by your side" is no longer a truth but an incantation, a desperate spell cast to prolong the relationship for just one more day. This opening verse immediately tells us just how fragile their situation is.
 </p>
 <p>
-<strong>Pre-Chorus: "We say 'I love you' more than we should / Almost like we're tryna prove it's still good"</strong><br>
+<strong>Pre-Chorus: "We say 'I love you' more than we should / Almost like we're tryna prove it's still good" (우린 필요 이상으로 '사랑해'라고 말하지 / 마치 아직 괜찮다는 걸 증명하려는 것처럼)</strong><br>
 Wow, isn't this part chillingly realistic? When a relationship feels insecure, we often find ourselves saying "I love you" more frequently, more desperately. It's no longer about expressing genuine affection but about reassuring each other, trying to maintain the illusion that 'we are still in love.' This lyric perfectly captures how the words of love can mutate into expressions of duty and anxiety.
 </p>
 <p>
-<strong>Bridge: "I know your heart is breaking just like mine / But we're too scared to leave this all behind"</strong><br>
+<strong>Bridge: "I know your heart is breaking just like mine / But we're too scared to leave this all behind" (네 마음도 나처럼 부서지고 있는 걸 알아 / 하지만 우린 이 모든 걸 뒤로하고 떠나기엔 너무 두려운 거지)</strong><br>
 This is perhaps the most tragic part of the song. It confirms that the pain is mutual; both people know they are suffering. This isn't a one-sided problem but a stalemate created by shared silence and fear. What's keeping them tethered isn't love anymore, but a paralyzing fear of being alone and losing the history they've built. The relationship, it becomes clear, is no longer sustained by love, but by lingering attachments and a shared terror of the unknown.
 </p>
 
@@ -110,6 +115,7 @@ It goes beyond simply stating, "we're in a bad relationship." It reflects a stat
 <p>
 This is where the Korean concept of **"Aejeung" (애증)**, which I mentioned earlier, truly shines. "Aejeung" is more than just feeling love and hate simultaneously; it describes a state where the two emotions have become so deeply entangled they are impossible to separate. They hurt each other, yet even that pain has become an integral part of their connection. With "toxic till the end," ROSÉ has essentially translated the complex emotion of "Aejeung" into the more globally understood language of "toxic." It’s a brilliant and sophisticated move. She shatters the mold of the typical K-pop love song to explore the darker, more complicated facets of love, proving her depth as an artist. And honestly, that's not a story just anyone can tell.
 </p>
+
 <a name="bts-insights"></a>
 <h2>Behind the Scenes & Vocal Insights</h2>
 <p>The most crucial "behind the scenes" fact? **ROSÉ is a credited songwriter on this track.** This isn't just a song she was given; it's a story she helped write. And you can feel it. Her vocal performance is incredibly nuanced. Notice how she uses her signature airy head voice in the verses, making the confession feel fragile and intimate. But in the chorus, there's a subtle strength, a sense of resolve in the sadness. The minimalist production—letting her voice and a single guitar carry the weight—was a deliberate choice. It forces you to hang on every word, every slight tremble in her voice. The song doesn't need heavy production because the emotion *is* the main event. It proves that ROSÉ isn't just a world-class vocalist; she's a deeply affecting storyteller.</p>
@@ -146,25 +152,23 @@ This is where the Korean concept of **"Aejeung" (애증)**, which I mentioned ea
 <h2>Sources & Technical Data</h2>
 <h3>Credible Sources</h3>
 <ul style="padding-left:18px; margin:0 0 12px;">
-<li><a href="https://www.youtube.com/watch?v=rCZ_ilTwQiE" rel="nofollow noopener" target="_blank">Official YouTube Audio - THEBLACKLABEL</a></li>
+<li><a href="https://youtu.be/eA0lHNZ1KCA" rel="nofollow noopener" target="_blank">Official Music Video - THEBLACKLABEL (ROSÉ)</a></li>
 <li><a href="https://open.spotify.com/album/3fS83hJ2iYYv0aR32p3kF1" rel="nofollow noopener" target="_blank">"rosie" Album - Spotify</a></li>
 </ul>
 
 <script type="application/ld+json">
 {
 "@context": "https://schema.org",
-"@type": "MusicComposition",
-"name": "ROSÉ - toxic till the end (Explained)",
+"@type": "MusicVideoObject",
+"name": "ROSÉ - toxic till the end (Official Music Video) Explained",
 "description": "Forget 'APT.' for a second. We're diving deep into 'toxic till the end,' the raw, heartbreaking gem from ROSÉ's album 'rosie' that everyone's whispering about. This is the real story.",
 "byArtist": {
 "@type": "MusicGroup",
 "name": "ROSÉ"
 },
-"inAlbum": {
-"@type": "MusicAlbum",
-"name": "rosie"
-},
-"datePublished": "2024-12-06T00:00:00Z",
+"uploadDate": "2024-12-06T00:00:00Z",
+"thumbnailUrl": "https://[내 사이트 주소]/images/rose-toxic-till-the-end.webp",
+"embedUrl": "https://www.youtube.com/embed/eA0lHNZ1KCA",
 "publisher": {
 "@type": "Organization",
 "name": "THEBLACKLABEL"
