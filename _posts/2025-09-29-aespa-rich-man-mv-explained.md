@@ -53,10 +53,10 @@ allowfullscreen
 loading="lazy"></iframe>
 </div>
 
----
+
 <a name="tldr"></a>
 <h2 style="color: #00aaff;">Quick Summary: The Vibe Check (I Am a Rich Man)</h2>
-***
+
 **"Rich Man"** is aespa's bold counter-attack against the societal pressure to seek a wealthy partner. The song's core thesis is **"I am the wealth,"** using its music video to visualize **inner power and self-affirmation** through elaborate styling and overwhelming confidence. The MV fuses **rock energy** with **hip-hop swagger**, cementing aespa's distinctive status in the K-Pop landscape.
 <div style="border:1px solid #eee;border-radius:10px;padding:10px 12px;background:#fafafa;margin:12px 0;">
 <strong>Related reading:</strong>
@@ -64,10 +64,10 @@ loading="lazy"></iframe>
 <a href="/search/label/Streaming%20Guide">K-POP Streaming Guide</a>
 </div>
 
----
+
 <a name="quick-facts"></a>
 <h2 style="color: #00aaff;">Quick Facts & Credits for "Rich Man"</h2>
-***
+
 <div style="border:1px solid #eee;border-radius:12px;padding:12px 14px;background:#fcfcfc;">
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px 16px;font-size:14px;line-height:1.8;">
 <div><strong>Artist</strong>: aespa (에스파)</div>
@@ -83,10 +83,10 @@ loading="lazy"></iframe>
 </div>
 <p style="margin-top:12px;"><em>Composers: Cody Tarpley, Rachel Kanner, Ben Samama, Ryan Jhun / Producer: Cody Tarpley, Ryan Jhun</em></p>
 
----
+
 <a name="story-on-screen"></a>
 <h2 style="color: #00aaff;">The Story You See on Screen: The Aura of Unshakeable Confidence</h2>
-***
+
 The "Rich Man" MV focuses less on a linear story (Narrative) and more on conveying an **Aura** and a **Declaration**. From the very first shot, the members project a kind of value that cannot be bought—the **intrinsic worth of their own existence**.
 
 **1. Juxtaposition of Space:** The MV often uses rough, empty, or sparse industrial spaces. This visually asserts that the definition of **'Rich Man'** is rooted in the members' **innate energy**, not their material surroundings. This clash between luxurious fashion and stark backdrops immediately commands attention.
@@ -97,10 +97,10 @@ The "Rich Man" MV focuses less on a linear story (Narrative) and more on conveyi
 
 Ultimately, the "Rich Man" MV is a sleek, powerful visual statement: **The only person who can give you everything you want is yourself.**
 
----
+
 <a name="lyrics-meaning"></a>
 <h2 style="color: #00aaff;">Lyrics & meaning: Deep Dive into the 'Rich Man' Mindset</h2>
-***
+
 <h3 style="color: #304090;">The Intent Behind the Hook & Cultural Nuance (The Fun Analysis)</h3>
 
 The moment this song drops, you realize the genius of the hook isn't just in the beat; it’s in the audacity of the opening lines. Forget the fierce choreography—the most powerful part of "Rich Man" is the lyrical premise.
@@ -111,10 +111,10 @@ The moment this song drops, you realize the genius of the hook isn't just in the
 
 **3. The Attitude is Non-Negotiable.** The final declaration, **"I won't double back. I don't copy,"** solidifies the hook as the manifesto of a group defining its own legacy. This refusal to copy ensures the entire song feels like an authentic, powerful statement of self-creation.
 
----
+
 <a name="bts-insights"></a>
 <h2 style="color: #00aaff;">Behind the Scenes & Visual Insights</h2>
-***
+
 The MV's success is rooted in the strategic intent behind every visual choice.
 
 **1. The Rock Band Visual Shift:** The sudden embrace of rock band styling (leather, chains, guitar graphics) signals a definitive shift in the group’s sound and thematic intensity. This choice visually communicates that aespa is moving beyond digital aesthetics to embody a more **raw, resistive, and powerful spirit**.
@@ -125,18 +125,18 @@ The MV's success is rooted in the strategic intent behind every visual choice.
 * **Karina & Winter:** Project **unshakeable core mentality** through intense gazes and static, powerful poses.
 * **Giselle & Ningning:** Deliver the **rebellious, dynamic energy** through attitude and fluid movement, signifying the ambition to conquer new spaces.
 
----
+
 <a name="fan-takeaways"></a>
 <h2 style="color: #00aaff;">Fan Takeaways: Why This Song Hits So Hard</h2>
-***
+
 * This song is a powerful injection of **self-love**, reminding fans that their inner belief is their truest form of wealth.
 * This MV is the perfect track to listen to when you need to feel **unapologetically confident** and ready to take on social expectations.
 * The group's bold shift in visual and sonic identity serves as an inspiring example of **self-determination** within the K-Pop machine.
 
----
+
 <a name="sources"></a>
 <h2 style="color: #00aaff;">Sources & Technical Data</h2>
-***
+
 <h3 style="color: #304090;">Credible Sources</h3>
 <ul style="padding-left:18px; margin:0 0 12px;">
 <li><a href="https://www.youtube.com/watch?v=5oQVTnq-UKk" rel="nofollow noopener" target="_blank">Official MV — aespa YouTube</a></li>
