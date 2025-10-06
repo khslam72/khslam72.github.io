@@ -17,7 +17,7 @@ theme: null
 # -----------------------------------------------------------------------------
 # 빌드 및 퍼머링크 설정
 # -----------------------------------------------------------------------------
-permalink: /:categories/:year/:month/:day/:title:output_ext
+permalink: /:title/
 paginate: 6
 paginate_path: /page:num/
 
@@ -50,3 +50,4 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
