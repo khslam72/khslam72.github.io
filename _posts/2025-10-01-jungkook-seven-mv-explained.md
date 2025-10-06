@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2025-10-06
+date: 2025-10-01
 title: "Jungkook 'Seven' Explained: A Week of Catastrophic Devotion"
 description: "MV Explained: A deep dive into Jung Kook's 'Seven,' analyzing its comedic storytelling, lyrical dual meanings, and its lasting cultural impact."
 excerpt: "It's the song that shattered records, but the real story is in the hilariously disastrous music video. We're breaking down how Jung Kook's 'Seven' became an unforgettable visual story of love against all (and we mean ALL) odds."
@@ -49,13 +49,11 @@ tags:
 </details>
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:12px;">
-  <iframe
-    src="https://www.youtube.com/embed/QU9c0053UAU?rel=0"
-    title="Jung Kook - Seven (feat. Latto) (Official MV)"
-    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
-    allowfullscreen
-    loading="lazy">
-  </iframe>
+<iframe src="https://www.youtube.com/embed/QU9c0053UAU?rel=0"
+title="Jung Kook - Seven (feat. Latto) (Official MV) Explained"
+style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
+allowfullscreen
+loading="lazy"></iframe>
 </div>
 
 ---
