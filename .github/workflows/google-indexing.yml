@@ -1,6 +1,10 @@
 name: Submit to Google Indexing API
 
 on:
+  # ✅ "Run workflow" 버튼을 추가하기 위한 설정
+  workflow_dispatch:
+
+  # 기존의, 새 글이 올라올 때 자동으로 실행되는 설정
   push:
     branches:
       - master
@@ -16,14 +20,20 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Get changed posts
-        id: changed_posts
+      - name: Get post URLs
+        id: get_urls
         run: |
-          # Get list of added/modified markdown files in _posts
-          FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep "^_posts/.*\.md$")
           URLS=""
+          # ✅ 수동으로 실행했는지, 자동으로 실행됐는지 확인
+          if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
+            echo "Manual trigger: Processing all posts."
+            FILES=$(find _posts -name "*.md") # 모든 글 목록 가져오기
+          else
+            echo "Push trigger: Processing changed posts."
+            FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep "^_posts/.*\.md$") # 변경된 글만 가져오기
+          fi
+
           for file in $FILES; do
-            # Extract title from filename like YYYY-MM-DD-title.md
             FILENAME=$(basename "$file" .md)
             TITLE_PART=$(echo "$FILENAME" | cut -d'-' -f4-)
             # This matches the permalink: /:title/
@@ -50,8 +60,6 @@ jobs:
               --data '{ "url": "'$url_to_index'", "type": "URL_UPDATED" }')
             echo "Google API response: $response_code"
             if [ "$response_code" -ne 200 ]; then
-              echo "Error submitting URL. See logs for details."
-              # Optionally, you can fail the job here:
-              # exit 1
+              echo "Error submitting URL for $url_to_index. Response code: $response_code"
             fi
           done
