@@ -75,7 +75,7 @@ loading="lazy"></iframe>
 
 <a name="story-on-screen"></a>
 <h2 style="color: #00aaff;">The Story You See on Screen: An Emotional Food Fight</h2>
-The MV ditches a straightforward narrative for a series of powerful, symbolic scenes that perfectly capture the song's emotional core.
+<p>The MV ditches a straightforward narrative for a series of powerful, symbolic scenes that perfectly capture the song's emotional core.</p>
 <br>
 **1. The Sweet Beginning Turns Sour:** We open on domestic, almost sweet scenes: members handling eggs, looking at desserts. But this tranquility quickly descends into chaos. Eggs are crushed, and a food fight erupts. It’s a brilliant visual metaphor for how quickly affection can turn into conflict in a passionate relationship.
 <br>
@@ -88,9 +88,10 @@ The MV ditches a straightforward narrative for a series of powerful, symbolic sc
 <a name="lyrics-meaning"></a>
 <h2 style="color: #00aaff;">Lyrics & Meaning: A Vicious Cycle</h2>
 
-<h3 style="color: #304090;"> The Intent Behind the Hook & Cultural Nuance (The Fun Analysis)</h3>
+<h3 style="color: #304090;"> The Intent Behind the Hook & Cultural Nuance</h3>
 
-The lyrics for "SPINNIN' ON IT" mirror the visual chaos, painting a picture of a relationship caught in an endless loop of conflict and affection.
+<p>The MV ditches a straightforward narrative for a series of powerful, symbolic scenes that perfectly capture the song's emotional core.
+The lyrics for "SPINNIN' ON IT" mirror the visual chaos, painting a picture of a relationship caught in an endless loop of conflict and affection.</p>
 <br>
 **1. The Endless Möbius Strip:** While the phrase "spinnin' on it" can have multiple interpretations, the song's context points directly to a feeling of being stuck in a cycle. One fan theory even points to lyrics mentioning an "endless Möbius," a perfect metaphor for a one-sided loop where you always end up back where you started. The spinning locket, the recurring arguments—it all points to this theme. You fight, you make up, you love, you hate, and you spin right back to the beginning.
 <br>
@@ -100,7 +101,7 @@ The lyrics for "SPINNIN' ON IT" mirror the visual chaos, painting a picture of a
 
 <a name="bts-insights"></a>
 <h2 style="color: #00aaff;">Behind the Scenes & Visual Insights</h2>
-The entire concept is a masterclass in aesthetic storytelling, using objects and colors to deepen the theme.
+<p>The entire concept is a masterclass in aesthetic storytelling, using objects and colors to deepen the theme.</p>
 <br>
 **1. Monochrome with a Splash of... Cake:** The members' monochrome styling against the chaotic, colorful mess of the food fight is a deliberate artistic choice. It creates a stark visual contrast that highlights their poised, "idol" personas being overwhelmed by raw, uncontrollable emotion. They *look* put-together, but their world is falling apart in the most delicious way.
 <br>
