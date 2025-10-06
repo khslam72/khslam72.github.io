@@ -62,10 +62,6 @@ loading="lazy"></iframe>
 <h2>Quick Summary: The Vibe Check</h2>
 'Seven' pairs a smooth, infectious UK garage-pop track with a slapstick comedy music video. While the song is a passionate serenade about wanting to be with your lover 24/7, the video shows Jung Kook's hilariously disastrous, near-immortal attempts to win over his fed-up girlfriend, played by Han So-hee. It’s a brilliant contrast that has kept fans talking long after its release.
 
-<div class="related-reading-box">
-<strong>Related reading:</strong> <a href="/search/label/MV%20Explained">More K-POP MV Explained</a> · <a href="/search/label/Streaming%20Guide">K-POP Streaming Guide</a>
-</div>
-
 <a name="quick-facts"></a>
 <h2>Credits</h2>
 <div class="quick-facts-grid">
