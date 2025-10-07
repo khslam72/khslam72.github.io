@@ -6,20 +6,20 @@ description: "NewJeans' 'Hype Boy' wasn't just a song—it was a captivating nar
 excerpt: "Ready to get hyped? NewJeans' 'Hype Boy' redefined K-Pop debuts with its innovative strategy and irresistible charm. Let's unpack the magic behind this long-running hit!"
 thumbnail: /images/newjeans-hype-boy-multi-mv-explained.webp
 categories:
-  - K-POP MV Explained
-  - "Artist: NewJeans"
-  - "Agency: ADOR"
+  - K-POP MV Explained
+  - "Artist: NewJeans"
+  - "Agency: ADOR"
 tags:
-  - "K-POP MV Explained"
-  - "NewJeans"
-  - "Hype Boy"
-  - "Hype Boy Meaning"
-  - "Hype Boy MV Analysis"
-  - "NewJeans Debut"
-  - 'Artist: NewJeans'
-  - 'Song: Hype Boy'
-  - 'Agency: ADOR'
-  - "2022 K-Pop"
+  - "K-POP MV Explained"
+  - "NewJeans"
+  - "Hype Boy"
+  - "Hype Boy Meaning"
+  - "Hype Boy MV Analysis"
+  - "NewJeans Debut"
+  - 'Artist: NewJeans'
+  - 'Song: Hype Boy'
+  - 'Agency: ADOR'
+  - "2022 K-Pop"
 ---
 
 <p>
