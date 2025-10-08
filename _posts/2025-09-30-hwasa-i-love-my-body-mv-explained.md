@@ -4,7 +4,7 @@ date: 2025-09-30
 title: "[HWASA] 'I Love My Body' Explained: An Anthem of Unapologetic Self-Love"
 description: "A deep dive into Hwasa's 'I Love My Body' MV. We're analyzing the retro-funk production, Lia Kim's empowering choreography, the defiant lyrics, and how it serves as a powerful statement against K-Pop's rigid beauty standards."
 excerpt: "Hwasa's first single with P NATION is more than a song—it's a manifesto. Let's break down the cinematic flair, cultural context, and the powerful message of 'I Love My Body,' the self-love anthem we all needed."
-thumbnail: /images/hwasa-i-love-my-body-mv-explained.webp
+thumbnail: /images/hwasa-i-love-my-body-mv-screencap-2023.webp
 categories:
   - K-POP MV Explained
   - "Artist: Hwasa"
@@ -28,7 +28,7 @@ tags:
 ---
 
 <div align="center">
-<img src="/images/hwasa-i-love-my-body-mv-explained.webp" alt="Hwasa in the 'I Love My Body' official MV explained analysis thumbnail" />
+<img src="/images/hwasa-i-love-my-body-mv-screencap-2023.webp" alt="Hwasa in the 'I Love My Body' official MV explained analysis thumbnail" />
 <br>
 <span style="font-size:12px;color:#666;">Source: Official Hwasa YouTube (© P NATION)</span>
 </div>
@@ -165,7 +165,7 @@ loading="lazy"></iframe>
 "name": "Hwasa"
 },
 "uploadDate": "2023-09-06T00:00:00Z",
-"thumbnailUrl": "https://kcontents.site/images/hwasa-i-love-my-body-mv-explained.webp",
+"thumbnailUrl": "https://kcontents.site/images/hwasa-i-love-my-body-mv-screencap-2023.webp",
 "embedUrl": "https://www.youtube.com/embed/Crq_fRV0O0E",
 "publisher": {
 "@type": "Organization",
