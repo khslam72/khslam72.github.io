@@ -31,6 +31,10 @@ jobs:
         with:
           credentials_json: '${{ secrets.SERVICE_ACCOUNT_KEY }}'
 
+      - name: Activate gcloud SDK session
+        run: |
+          gcloud auth activate-service-account --key-file=${GOOGLE_APPLICATION_CREDENTIALS}
+
       - name: Determine URLs to index
         id: get_urls
         run: |
