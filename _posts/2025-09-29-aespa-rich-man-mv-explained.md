@@ -6,18 +6,18 @@ description: "A curator's guide to aespa's 'Rich Man': breaking down the rock-me
 excerpt: "aespa just told the entire K-pop industry: we don't need your fantasy. We ARE the fantasy. Let's unpack how 'Rich Man' became the manifesto nobody asked for but everyone needed."
 thumbnail: /images/aespa-rich-man-mv-screencap-2025.webp
 categories:
-  - K-POP MV Explained
-  - "Artist: aespa"
-  - "Agency: SM Entertainment"
+  - K-POP MV Explained
+  - "Artist: aespa"
+  - "Agency: SM Entertainment"
 tags:
-  - K-POP MV Explained
-  - aespa Rich Man
-  - Rich Man Lyrics Meaning
-  - K-Pop Analysis
-  - "Artist: aespa"
-  - "Song: Rich Man"
-  - "Agency: SM Entertainment"
-  - "2025 K-Pop"
+  - K-POP MV Explained
+  - aespa Rich Man
+  - Rich Man Lyrics Meaning
+  - K-Pop Analysis
+  - "Artist: aespa"
+  - "Song: Rich Man"
+  - "Agency: SM Entertainment"
+  - "2025 K-Pop"
 ---
 
 <p>
