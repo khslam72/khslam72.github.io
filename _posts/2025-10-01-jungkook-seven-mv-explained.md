@@ -68,7 +68,7 @@ loading="lazy"></iframe>
 <div><strong>Artist</strong>: Jung Kook (정국)</div>
 <div><strong>Featured Artist</strong>: Latto</div>
 <div><strong>Song</strong>: “Seven”</div>
-<div><strong>Album</strong>: <a href="#">Golden</a></div>
+<div><strong>Album</strong>: <a href="https://ibighit.com/jungkook/kor/discography/detail/golden.php" target="_blank" rel="noopener">Golden</a></div>
 <div><strong>Release</strong>: 2023-07-14</div>
 <div><strong>Agency</strong>: BIGHIT MUSIC</div>
 <div><strong>Director</strong>: Bradley & Pablo</div>
@@ -84,12 +84,12 @@ The catastrophes escalate. **Wednesday** finds him in a flooding laundromat at <
 <a name="lyrics-meaning"></a>
 <h2>Lyrics & meaning: The Duality of Devotion</h2>
 <h3>Lyrical Story & Narrative</h3>
-At its core, the song is a straightforward and potent declaration of all-consuming passion. The lyrics articulate an intense desire to spend every waking moment with a lover, championing a love that is both deeply affectionate and physically present. Lines like, "Weight of the world on your shoulders / I kiss your waist and ease your mind," ground the song's grand promise in a tangible, intimate moment. It’s this blend of a week-long commitment and small, tender details that gives the song its undeniable charm.
+<p>At its core, the song is a straightforward and potent declaration of all-consuming passion. The lyrical structure itself is a promise: the relentless, cyclical repetition of the seven days of the week acts as a binding oath, suggesting a love that never rests. It’s a modern serenade that frames devotion not as a fleeting feeling, but as a full-time, unbreakable schedule. The lyrics ground this grand promise in tangible, intimate moments. Lines like, <em>"Weight of the world on your shoulders / I kiss your waist and ease your mind,"</em> shift the scale from an epic, week-long commitment to a single, gentle, and incredibly personal gesture of care.</p>
+<p>The narrative is not one-sided. Latto’s feature verse is a crucial piece of the story, providing a confident and assertive response to Jung Kook's plea. She takes control, matching his energy with lines that speak of her own standards and desires, such as <em>"Take me to paradise / 'Cause I don't wanna wait, I don't wanna wait no more."</em> Her verse transforms the song from a serenade into a dynamic conversation between two equals who are fully aware of their mutual attraction. It adds a layer of mature, consensual passion that elevates the entire track beyond a simple story of pursuit.</p>
 
 <h3>The Intent Behind the Hook & Cultural Nuance</h3>
-The hook, "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday... Seven days a week," is deceptively simple. Its genius lies in its universality, tying his devotion to a global concept. However, the song's true cultural brilliance is in the strategic release of "Clean" and "Explicit" versions. The clean version is a passionate pop serenade. The explicit version, swapping "lovin'" for a direct f-bomb, transforms it into a raw, unabashedly sexual anthem. As a listener, you can almost feel the playful smirk behind the delivery, inviting you to choose your own adventure: a sweet declaration or a straight-up booty call anthem.
-
-This duality was a masterstroke. For Western listeners, the explicit lyric feels standard for pop, but in the K-Pop context, it was a bold, headline-making choice. It brilliantly acknowledged the mature artist Jung Kook has become while respecting the broader audience of K-Pop, creating a global talking point and signaling a new, unapologetic era for a superstar.
+<p>The hook, "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday... Seven days a week," is deceptively simple. Its genius lies in its universality, tying his devotion to a global concept. However, the song's true cultural brilliance is in the strategic release of "Clean" and "Explicit" versions. The clean version is a passionate pop serenade. The explicit version, swapping "lovin'" for a direct f-bomb, transforms it into a raw, unabashedly sexual anthem. As a listener, you can almost feel the playful smirk behind the delivery, inviting you to choose your own adventure: a sweet declaration or a straight-up booty call anthem.</p>
+<p>This duality was a masterstroke for Jung Kook's transition as a solo artist. For Western listeners, the explicit lyric feels standard for pop, but in the K-Pop context, it was a bold, headline-making choice. It was a deliberate signal of his evolution from BTS's "golden maknae" to a mature adult artist exploring grown-up themes. This move brilliantly acknowledged his artistic growth while still providing a radio-friendly option for a broader audience, sparking global conversation and defining a new, unapologetic era for a superstar.</p>
 
 <a name="beneath-the-surface"></a>
 <h2>Beneath the Surface: A Multi-Layered Analysis</h2>
@@ -109,8 +109,8 @@ This music video is arguably one of the strongest acting performances from a BTS
 <div style="border:1px solid #ddd; border-radius:10px; padding:1em; background:#f9f9f9; margin-bottom: 20px;">
 <h3 style="margin-top:0; color:#00aaff;">You Might Also Like</h3>
 <ul style="margin:0; padding-left:20px;">
-<li><a href="#">[Deep Dive] Hwasa 'I Love My Body' MV Explained: A Celebration of Self</a></li>
-<li><a href="#">[Artist Focus] The Evolution of BTS Members' Solo Careers</a></li>
+<li><a href="https://kcontents.site/iu-love-wins-all-mv-explained/">[Deep Dive] IU's 'Love wins all': A Dystopian Ballad of Rebellion</a></li>
+<li><a href="https://kcontents.site/boynextdoor-earth-wind-fire-mv-explained/">[MV Explained] BOYNEXTDOOR 'Earth, Wind & Fire': A Natural Disaster of First Love</a></li>
 </ul>
 </div>
 
