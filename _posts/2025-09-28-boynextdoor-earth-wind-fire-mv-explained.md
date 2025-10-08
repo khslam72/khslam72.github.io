@@ -165,7 +165,7 @@ BOYNEXTDOOR's "Earth, Wind & Fire" visualizes the chaotic, overwhelming force of
 "name": "BOYNEXTDOOR"
 },
 "uploadDate": "2024-04-15T09:00:00Z",
-"thumbnailUrl": "https://[YOUR-SITE-DOMAIN]/images/boynextdoor-earth-wind-fire-mv-explained.webp",
+"thumbnailUrl": "https://[YOUR-SITE-DOMAIN]/images/boynextdoor-earth-wind-fire-mv-thumbnail.webp",
 "embedUrl": "https://www.youtube.com/embed/u9nP3qXQA4o",
 "publisher": {
 "@type": "Organization",
