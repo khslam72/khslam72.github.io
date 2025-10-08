@@ -1,10 +1,10 @@
-name: Submit URLs to Google Indexing API
+name: Submit Selected URLs to Google Indexing API
 
 on:
   workflow_dispatch:
     inputs:
       mode:
-        description: "Select URLs to index"
+        description: "Choose which posts to index"
         required: true
         type: choice
         options:
@@ -12,7 +12,7 @@ on:
           - yesterday
           - manual
       manual_urls:
-        description: "Manual mode: Enter URLs separated by spaces"
+        description: "If manual mode: enter one or more URLs separated by spaces"
         required: false
         default: ""
 
@@ -26,15 +26,21 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
+      # ✅ Google Cloud 인증
       - name: Authenticate to Google Cloud
         uses: google-github-actions/auth@v1
         with:
           credentials_json: '${{ secrets.SERVICE_ACCOUNT_KEY }}'
 
+      # ✅ gcloud 세션 활성화 (환경변수 유지)
       - name: Activate gcloud SDK session
         run: |
-          gcloud auth activate-service-account --key-file=${GOOGLE_APPLICATION_CREDENTIALS}
+          echo "🔑 Activating service account..."
+          export GOOGLE_APPLICATION_CREDENTIALS="${GOOGLE_APPLICATION_CREDENTIALS}"
+          gcloud auth activate-service-account --key-file="${GOOGLE_APPLICATION_CREDENTIALS}"
+          gcloud auth list
 
+      # ✅ 색인 대상 URL 수집
       - name: Determine URLs to index
         id: get_urls
         run: |
@@ -42,38 +48,51 @@ jobs:
           URLS=""
 
           if [ "$MODE" == "today" ]; then
+            echo "🕒 Mode: today - finding posts modified in the last 1 day"
             FILES=$(find _posts -type f -mtime -1)
           elif [ "$MODE" == "yesterday" ]; then
+            echo "🕒 Mode: yesterday - finding posts modified 1–2 days ago"
             FILES=$(find _posts -type f -mtime 1)
           elif [ "$MODE" == "manual" ]; then
+            echo "📝 Manual mode - using input URLs"
             URLS="${{ github.event.inputs.manual_urls }}"
           fi
 
-          for file in $FILES; do
-            FILENAME=$(basename "$file" .md)
-            TITLE_PART=$(echo "$FILENAME" | cut -d'-' -f4-)
-            URL="https://kcontents.site/${TITLE_PART}/"
-            URLS="$URLS $URL"
-          done
+          if [ "$MODE" != "manual" ]; then
+            for file in $FILES; do
+              FILENAME=$(basename "$file" .md)
+              TITLE_PART=$(echo "$FILENAME" | cut -d'-' -f4-)
+              URL="https://kcontents.site/${TITLE_PART}/"
+              URLS="$URLS $URL"
+            done
+          fi
 
           echo "URLs to index: $URLS"
           echo "URLS_TO_INDEX=$URLS" >> $GITHUB_ENV
 
-      - name: Submit URLs to Google Indexing API
+      # ✅ Google Indexing API 제출
+      - name: Submit to Google Indexing API
         if: env.URLS_TO_INDEX != ''
         run: |
+          export GOOGLE_APPLICATION_CREDENTIALS="${GOOGLE_APPLICATION_CREDENTIALS}"
           for url_to_index in ${{ env.URLS_TO_INDEX }}; do
             echo "Submitting: $url_to_index"
-            ACCESS_TOKEN=$(gcloud auth print-access-token)
-            RESPONSE_CODE=$(curl -s -o /dev/null -w "%{http_code}" \
+            ACCESS_TOKEN=$(gcloud auth print-access-token --scopes="https://www.googleapis.com/auth/indexing")
+
+            RESPONSE=$(curl -s -w "\n%{http_code}" \
               -X POST "https://indexing.googleapis.com/v3/urlNotifications:publish" \
               -H "Authorization: Bearer ${ACCESS_TOKEN}" \
               -H "Content-Type: application/json" \
               --data "{ \"url\": \"$url_to_index\", \"type\": \"URL_UPDATED\" }")
 
-            if [ "$RESPONSE_CODE" -eq 200 ]; then
+            CODE=$(echo "$RESPONSE" | tail -n1)
+            BODY=$(echo "$RESPONSE" | sed '$d')
+
+            if [ "$CODE" -eq 200 ]; then
               echo "✅ Successfully submitted: $url_to_index"
             else
-              echo "❌ Error submitting: $url_to_index (Response code: $RESPONSE_CODE)"
+              echo "❌ Error submitting: $url_to_index (HTTP $CODE)"
+              echo "↳ Response body:"
+              echo "$BODY"
             fi
           done
