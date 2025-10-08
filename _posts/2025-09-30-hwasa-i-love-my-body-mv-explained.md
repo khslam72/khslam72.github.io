@@ -1,12 +1,12 @@
 ---
 layout: post
-date: 2025-10-07
+date: 2025-09-30
 title: "[HWASA] 'I Love My Body' Explained: An Anthem of Unapologetic Self-Love"
 description: "A deep dive into Hwasa's 'I Love My Body' MV. We're analyzing the retro-funk production, Lia Kim's empowering choreography, the defiant lyrics, and how it serves as a powerful statement against K-Pop's rigid beauty standards."
 excerpt: "Hwasa's first single with P NATION is more than a song—it's a manifesto. Let's break down the cinematic flair, cultural context, and the powerful message of 'I Love My Body,' the self-love anthem we all needed."
 thumbnail: /images/hwasa-i-love-my-body-mv-explained.webp
 categories:
-  - K-POP MV Explained
+  - K-POP MV Explained
   - "Artist: Hwasa"
   - "Agency: P NATION"
 tags:
