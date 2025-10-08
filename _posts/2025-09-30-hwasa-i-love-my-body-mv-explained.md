@@ -10,7 +10,7 @@ categories:
   - "Artist: Hwasa"
   - "Agency: P NATION"
 tags:
-  - "K-POP MV Explained"
+  - "K-POP MV Explained"
   - "Hwasa"
   - "I Love My Body"
   - "I Love My Body Meaning"
