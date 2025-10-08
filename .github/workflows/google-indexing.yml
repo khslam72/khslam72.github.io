@@ -19,6 +19,8 @@ on:
 jobs:
   indexing:
     runs-on: ubuntu-latest
+    env:
+      TZ: "Asia/Seoul"
 
     steps:
       - name: Checkout code
