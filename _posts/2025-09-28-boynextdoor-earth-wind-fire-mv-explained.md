@@ -6,7 +6,7 @@ description: "A curator's deep-dive into BOYNEXTDOOR's 'Earth, Wind & Fire' MV. 
 excerpt: "It's more than a weather metaphor—BOYNEXTDOOR's 'Earth, Wind & Fire' MV is a masterclass in visual storytelling. Let's unpack the kitsch-core revolution, the production DNA, and the genius of controlled chaos."
 thumbnail: /images/boynextdoor-earth-wind-fire-mv-explained.webp
 categories:
-  - K-POP MV Explained
+  - K-POP MV Explained
   - "Artist: BOYNEXTDOOR"
   - "Agency: KOZ Entertainment"
 tags:
