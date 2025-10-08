@@ -47,7 +47,6 @@ jobs:
               URL="https://kcontents.site/${TITLE_PART}/"
               URLS="$URLS $URL"
             done
-
           elif [ "$MODE" == "yesterday" ]; then
             echo "🕒 Mode: yesterday - finding posts modified 1–2 days ago"
             FILES=$(find _posts -type f -mtime 1)
@@ -57,7 +56,6 @@ jobs:
               URL="https://kcontents.site/${TITLE_PART}/"
               URLS="$URLS $URL"
             done
-
           elif [ "$MODE" == "manual" ]; then
             echo "📝 Manual mode - using input URLs"
             URLS="${{ github.event.inputs.manual_urls }}"
@@ -75,11 +73,9 @@ jobs:
               -H "Authorization: Bearer $(gcloud auth print-access-token)" \
               -H "Content-Type: application/json" \
               --data "{ \"url\": \"$url_to_index\", \"type\": \"URL_UPDATED\" }")
-
             if [ "$response_code" -eq 200 ]; then
               echo "✅ Successfully submitted: $url_to_index"
             else
               echo "❌ Error submitting: $url_to_index (Response code: $response_code)"
             fi
           done
-
