@@ -7,18 +7,18 @@ excerpt: "Hwasa's first single with P NATION is more than a song—it's a manife
 thumbnail: /images/hwasa-i-love-my-body-mv-explained.webp
 categories:
   - K-POP MV Explained
-  - "Artist: Hwasa"
-  - "Agency: P NATION"
+  - "Artist: Hwasa"
+  - "Agency: P NATION"
 tags:
   - "K-POP MV Explained"
-  - "Hwasa"
-  - "I Love My Body"
-  - "I Love My Body Meaning"
-  - "K-Pop Analysis"
-  - 'Artist: Hwasa'
-  - 'Song: I Love My Body'
-  - 'Agency: P NATION'
-  - "2023 K-Pop"
+  - "Hwasa"
+  - "I Love My Body"
+  - "I Love My Body Meaning"
+  - "K-Pop Analysis"
+  - 'Artist: Hwasa'
+  - 'Song: I Love My Body'
+  - 'Agency: P NATION'
+  - "2023 K-Pop"
 ---
 
 <p>
@@ -125,24 +125,24 @@ loading="lazy"></iframe>
 <h2>Frequently Asked Questions (Q&A)</h2>
 
 <details class="faq-item">
-  <summary class="faq-question">What is the main message of Hwasa's "I Love My Body"?</summary>
-  <div class="faq-answer">
-    <p>The core message is a radical and joyful declaration of self-acceptance and body positivity. It's a direct rejection of restrictive societal beauty standards, arguing that true confidence and beauty come from within, not from external validation. The song serves as an anthem for anyone who has ever felt judged for their appearance.</p>
-  </div>
+  <summary class="faq-question">What is the main message of Hwasa's "I Love My Body"?</summary>
+  <div class="faq-answer">
+    <p>The core message is a radical and joyful declaration of self-acceptance and body positivity. It's a direct rejection of restrictive societal beauty standards, arguing that true confidence and beauty come from within, not from external validation. The song serves as an anthem for anyone who has ever felt judged for their appearance.</p>
+  </div>
 </details>
 
 <details class="faq-item">
-  <summary class="faq-question">How does this song connect to Hwasa's previous solo work?</summary>
-  <div class="faq-answer">
-    <p>"I Love My Body" is seen as the final, celebratory chapter in a trilogy of self-love. While "Maria" (2020) dealt with the pain of criticism and the process of healing, and "I'm a B" (2021) was about building a defensive shield, this song represents the victory lap—a pure, joyful celebration now that the battle has been won.</p>
-  </div>
+  <summary class="faq-question">How does this song connect to Hwasa's previous solo work?</summary>
+  <div class="faq-answer">
+    <p>"I Love My Body" is seen as the final, celebratory chapter in a trilogy of self-love. While "Maria" (2020) dealt with the pain of criticism and the process of healing, and "I'm a B" (2021) was about building a defensive shield, this song represents the victory lap—a pure, joyful celebration now that the battle has been won.</p>
+  </div>
 </details>
 
 <details class="faq-item">
-  <summary class="faq-question">Why is the song's production style significant?</summary>
-  <div class="faq-answer">
-    <p>The song's 70s soul and funk-inspired production, with live brass and organic instrumentation, is significant because it sonically aligns Hwasa with a history of empowering music pioneered by Black artists. It also sets the track apart from the trendy, electronic-heavy sound of modern K-Pop, giving the timeless message a correspondingly classic and grounded feel.</p>
-  </div>
+  <summary class="faq-question">Why is the song's production style significant?</summary>
+  <div class="faq-answer">
+    <p>The song's 70s soul and funk-inspired production, with live brass and organic instrumentation, is significant because it sonically aligns Hwasa with a history of empowering music pioneered by Black artists. It also sets the track apart from the trendy, electronic-heavy sound of modern K-Pop, giving the timeless message a correspondingly classic and grounded feel.</p>
+  </div>
 </details>
 
 <a name="sources"></a>
@@ -176,33 +176,33 @@ loading="lazy"></iframe>
 
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the main message of Hwasa's 'I Love My Body'?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The core message is a radical and joyful declaration of self-acceptance and body positivity. It's a direct rejection of restrictive societal beauty standards, arguing that true confidence and beauty come from within, not from external validation. The song serves as an anthem for anyone who has ever felt judged for their appearance."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How does this song connect to Hwasa's previous solo work?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "'I Love My Body' is seen as the final, celebratory chapter in a trilogy of self-love. While 'Maria' (2020) dealt with the pain of criticism and the process of healing, and 'I'm a B' (2021) was about building a defensive shield, this song represents the victory lap—a pure, joyful celebration now that the battle has been won."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Why is the song's production style significant?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The song's 70s soul and funk-inspired production, with live brass and organic instrumentation, is significant because it sonically aligns Hwasa with a history of empowering music pioneered by Black artists. It also sets the track apart from the trendy, electronic-heavy sound of modern K-Pop, giving the timeless message a correspondingly classic and grounded feel."
-      }
-    }
-  ]
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the main message of Hwasa's 'I Love My Body'?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The core message is a radical and joyful declaration of self-acceptance and body positivity. It's a direct rejection of restrictive societal beauty standards, arguing that true confidence and beauty come from within, not from external validation. The song serves as an anthem for anyone who has ever felt judged for their appearance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does this song connect to Hwasa's previous solo work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "'I Love My Body' is seen as the final, celebratory chapter in a trilogy of self-love. While 'Maria' (2020) dealt with the pain of criticism and the process of healing, and 'I'm a B' (2021) was about building a defensive shield, this song represents the victory lap—a pure, joyful celebration now that the battle has been won."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is the song's production style significant?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The song's 70s soul and funk-inspired production, with live brass and organic instrumentation, is significant because it sonically aligns Hwasa with a history of empowering music pioneered by Black artists. It also sets the track apart from the trendy, electronic-heavy sound of modern K-Pop, giving the timeless message a correspondingly classic and grounded feel."
+      }
+    }
+  ]
 }
 </script>
