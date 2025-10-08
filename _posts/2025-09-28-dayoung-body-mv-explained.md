@@ -4,7 +4,7 @@ date: 2025-09-28
 title: "[Dayoung] 'body' MV Explained: A Nine-Year Metamorphosis into a Solo Rockstar"
 description: "A curator's deep-dive into Dayoung's 'body' MV: unpacking the visual language of self-reinvention, the strategic shift from idol to artist, and what this solo debut means for WJSN's legacy and Starship's 2025 playbook."
 excerpt: "Nine years after her WJSN debut, Dayoung sheds the 'cosmic girl' image for something rawer. Let's break down how the 'body' MV rewrites her narrative—and why it matters in K-pop's oversaturated solo market."
-thumbnail: /images/WJSN Dayoung body official MV thumbnail from go.jpg
+thumbnail: /images/Dayoung-body-official-MV-thumbnail.webp
 categories:
   - K-POP MV Explained
   - "Artist: Dayoung"
@@ -28,7 +28,7 @@ tags:
 ---
 
 <div align="center">
-<img src="/images/WJSN Dayoung body official MV thumbnail from go.jpg" alt="WJSN's Dayoung in the 'body' official MV explained analysis thumbnail" />
+<img src="/images/Dayoung-body-official-MV-thumbnail.webp" alt="WJSN's Dayoung in the 'body' official MV explained analysis thumbnail" />
 <br>
 <span style="font-size:12px;color:#666;">Source: Official StarshipTV YouTube (© Starship Entertainment)</span>
 </div>
@@ -161,11 +161,11 @@ Dayoung's solo debut "body" is a calculated rebranding. After nine years within 
 "name": "Dayoung - body (Official Music Video) Explained",
 "description": "A curator's deep-dive into Dayoung's 'body' MV, examining the visual reinvention, strategic positioning in 2025's solo market, and the nine-year journey from WJSN's cosmic concepts to rockstar authenticity.",
 "byArtist": {
-"@type": "MusicGroup",
+"@type": "Person",
 "name": "Dayoung"
 },
 "uploadDate": "2025-09-09T00:00:00Z",
-"thumbnailUrl": "https://[YOUR-SITE-DOMAIN]/images/dayoung-body-mv-explained.webp",
+"thumbnailUrl": "https://kcontents.site/images/Dayoung-body-official-MV-thumbnail.webp",
 "embedUrl": "https://www.youtube.com/embed/SJpmNMWboWg",
 "publisher": {
 "@type": "Organization",
