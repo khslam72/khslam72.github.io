@@ -28,22 +28,31 @@ title: Home
     {% endfor %}
 </div>
 
-<!-- ✅ 페이지네이션 링크 (새로 추가된 부분) -->
+<!-- ✅ 페이지네이션 링크 (번호 목록으로 변경) -->
 <div class="pagination">
+    <!-- Previous Page -->
     {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+      <a href="{{ paginator.previous_page_path }}" class="pagination-item arrow">&laquo;</a>
     {% else %}
-      <span class="previous disabled">Previous</span>
+      <span class="pagination-item arrow disabled">&laquo;</span>
     {% endif %}
   
-    <span class="page_number">
-      Page: {{ paginator.page }} of {{ paginator.total_pages }}
-    </span>
+    <!-- Page Numbers -->
+    {% for page in (1..paginator.total_pages) %}
+      {% if page == paginator.page %}
+        <span class="pagination-item active">{{ page }}</span>
+      {% elsif page == 1 %}
+        <a href="{{ '/' | relative_url }}" class="pagination-item">{{ page }}</a>
+      {% else %}
+        <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}" class="pagination-item">{{ page }}</a>
+      {% endif %}
+    {% endfor %}
   
+    <!-- Next Page -->
     {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+      <a href="{{ paginator.next_page_path }}" class="pagination-item arrow">&raquo;</a>
     {% else %}
-      <span class="next disabled">Next</span>
+      <span class="pagination-item arrow disabled">&raquo;</span>
     {% endif %}
 </div>
 
