@@ -25,11 +25,12 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
-- name: Authenticate to Google Cloud
-  uses: google-github-actions/auth@v1
-  with:
-    credentials_json: '${{ secrets.SERVICE_ACCOUNT_KEY }}'
-    access_token_scopes: 'https://www.googleapis.com/auth/indexing'
+
+      - name: Authenticate to Google Cloud
+        uses: google-github-actions/auth@v1
+        with:
+          credentials_json: '${{ secrets.SERVICE_ACCOUNT_KEY }}'
+          access_token_scopes: 'https://www.googleapis.com/auth/indexing'
 
       - name: Determine URLs to index
         id: get_urls
@@ -71,7 +72,7 @@ jobs:
           for url_to_index in ${{ env.URLS_TO_INDEX }}; do
             echo "Submitting: $url_to_index"
             response_code=$(curl -s -o /dev/null -w "%{http_code}" -X POST "https://indexing.googleapis.com/v3/urlNotifications:publish" \
-              -H "Authorization: Bearer ${{ steps.auth.outputs.access_token }}" \
+              -H "Authorization: Bearer $(gcloud auth print-access-token)" \
               -H "Content-Type: application/json" \
               --data "{ \"url\": \"$url_to_index\", \"type\": \"URL_UPDATED\" }")
 
@@ -81,3 +82,4 @@ jobs:
               echo "❌ Error submitting: $url_to_index (Response code: $response_code)"
             fi
           done
+
