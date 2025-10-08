@@ -4,7 +4,7 @@ date: 2025-09-28
 title: "[BOYNEXTDOOR] 'Earth, Wind & Fire' MV Explained: A Natural Disaster of First Love"
 description: "A curator's deep-dive into BOYNEXTDOOR's 'Earth, Wind & Fire' MV. We're exploring its kitsch-core aesthetic, ZICO's production genius, and how its cinematic language captures the beautiful chaos of Gen Z love."
 excerpt: "It's more than a weather metaphor—BOYNEXTDOOR's 'Earth, Wind & Fire' MV is a masterclass in visual storytelling. Let's unpack the kitsch-core revolution, the production DNA, and the genius of controlled chaos."
-thumbnail: /images/boynextdoor-earth-wind-fire-mv-explained.webp
+thumbnail: /images/boynextdoor-earth-wind-fire-mv-thumbnail.webp
 categories:
 - K-POP MV Explained
 - "Artist: BOYNEXTDOOR"
@@ -28,7 +28,7 @@ tags:
 ---
 
 <div align="center">
-<img src="/images/boynextdoor-earth-wind-fire-mv-explained.webp" alt="BOYNEXTDOOR in the 'Earth, Wind & Fire' official MV explained analysis thumbnail" />
+<img src="/images/boynextdoor-earth-wind-fire-mv-thumbnail.webp" alt="BOYNEXTDOOR in the 'Earth, Wind & Fire' official MV explained analysis thumbnail" />
 <br>
 <span style="font-size:12px;color:#666;">Source: Official HYBE LABELS YouTube (© KOZ Entertainment)</span>
 </div>
