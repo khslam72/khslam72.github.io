@@ -6,19 +6,19 @@ description: "A curator's deep-dive into Dayoung's 'body' MV: unpacking the visu
 excerpt: "Nine years after her WJSN debut, Dayoung sheds the 'cosmic girl' image for something rawer. Let's break down how the 'body' MV rewrites her narrative—and why it matters in K-pop's oversaturated solo market."
 thumbnail: /images/dayoung-body-mv-explained.webp
 categories:
-  - K-POP MV Explained
-  - "Artist: Dayoung"
-  - "Agency: Starship Entertainment"
+  - K-POP MV Explained
+  - "Artist: Dayoung"
+  - "Agency: Starship Entertainment"
 tags:
   - "K-POP MV Explained"
-  - "Dayoung"
-  - "body"
-  - "WJSN Dayoung"
-  - "K-Pop Analysis"
-  - 'Artist: Dayoung'
-  - 'Song: body'
-  - 'Agency: Starship Entertainment'
-  - "2025 K-Pop"
+  - "Dayoung"
+  - "body"
+  - "WJSN Dayoung"
+  - "K-Pop Analysis"
+  - 'Artist: Dayoung'
+  - 'Song: body'
+  - 'Agency: Starship Entertainment'
+  - "2025 K-Pop"
 ---
 
 <p>
