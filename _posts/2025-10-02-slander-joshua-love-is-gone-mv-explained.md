@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2025-10-01 02:30:00
+date: 2025-10-02
 title: "SLANDER & JOSHUA 'Love Is Gone' Review: When Heartbreak Sounds Like Home"
 description: "A deep dive into SLANDER and JOSHUA of SEVENTEEN's 'Love Is Gone' collaboration—exploring the vocals, production, and why this EDM ballad resonates so deeply."
 excerpt: "Some songs hurt in all the right ways. This is what happens when JOSHUA's voice wraps around your heartbreak and refuses to let go—a complete analysis of the SLANDER collaboration that's redefining emotional EDM."
@@ -8,6 +8,7 @@ thumbnail: /images/slander-joshua-love-is-gone-mv-explained.webp
 categories:
   - K-POP MV Explained
   - "Artist: JOSHUA"
+  - "Agency: Pledis Entertainment"
 tags:
   - "K-POP MV Explained"
   - "SLANDER"
@@ -21,17 +22,28 @@ tags:
   - "Song: Love Is Gone"
   - "Agency: Pledis Entertainment"
   - "2025 K-Pop"
-canonical_url: https://yoursite.com/slander-joshua-love-is-gone-review
-keywords: "SLANDER JOSHUA, Love Is Gone lyrics, JOSHUA SEVENTEEN solo, SLANDER collaboration, Love Is Gone meaning, emotional EDM, K-pop EDM collaboration"
-author: Your Name
-image:
-  path: /images/slander-joshua-love-is-gone-mv-explained.webp
-  alt: "SLANDER and JOSHUA of SEVENTEEN Love Is Gone collaboration artwork"
 ---
+<p>
+<em>It’s the song that has soundtracked countless heartbreaks, a festival anthem screamed by thousands. But what happens when that scream turns into a fragile whisper? Well, SLANDER and JOSHUA of SEVENTEEN just gave us the answer, and honestly, it’s devastatingly beautiful.</em>
+</p>
+<div style="text-align: center;">
+<img src="/images/slander-joshua-love-is-gone-mv-explained.webp" alt="JOSHUA of SEVENTEEN in the 'Love is Gone' collaboration explained analysis thumbnail" />
+<br>
+<span style="font-size:12px;color:#666;">Source: Official Pledis Entertainment (© Pledis Entertainment)</span>
+</div>
 
 * TOC
 {:toc}
-
+---
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:12px;">
+  <iframe 
+    src="https://www.youtube.com/embed/suEyjN0M9_k?rel=0"
+    title="SLANDER & JOSHUA of SEVENTEEN – Love Is Gone (Official MV)"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
+    allowfullscreen
+    loading="lazy">
+  </iframe>
+</div>
 ## About 'Love Is Gone': The SLANDER x JOSHUA Collaboration Explained {#about-love-is-gone}
 
 When **SLANDER**, the renowned American DJ duo, announced their collaboration with **JOSHUA of SEVENTEEN** for a new version of **'Love Is Gone'**, I wasn't sure what to expect. The original track by Dylan Matthew had already become an EDM anthem, and Cha Eun-woo's version added another layer of K-pop sensibility. But JOSHUA's interpretation? It's something else entirely.
@@ -258,20 +270,20 @@ In this moment, that's exactly what I needed.
 
 ## Frequently Asked Questions {#faq}
 
-**Q: When was SLANDER and JOSHUA's 'Love Is Gone' released?**  
-A: The collaboration was released in 2024 on Monstercat label.
+**Q:** When was SLANDER and JOSHUA's 'Love Is Gone' released?
+**A:** The collaboration was released in 2024 on Monstercat label.
 
-**Q: Who originally sang 'Love Is Gone'?**  
-A: The original version was performed by Dylan Matthew. Other notable versions include Cha Eun-woo's cover.
+**Q:** Who originally sang 'Love Is Gone'?
+**A:** The original version was performed by Dylan Matthew. Other notable versions include Cha Eun-woo's cover.
 
-**Q: What genre is 'Love Is Gone' by SLANDER and JOSHUA?**  
-A: The song blends EDM, melodic dubstep, and emotional bass with K-pop vocal sensibilities.
+**Q:** What genre is 'Love Is Gone' by SLANDER and JOSHUA?
+**A:** The song blends EDM, melodic dubstep, and emotional bass with K-pop vocal sensibilities.
 
-**Q: Where can I listen to SLANDER and JOSHUA's 'Love Is Gone'?**  
-A: The song is available on all major streaming platforms including Spotify, Apple Music, YouTube Music, and SoundCloud.
+**Q:** Where can I listen to SLANDER and JOSHUA's 'Love Is Gone'?
+**A:** The song is available on all major streaming platforms including Spotify, Apple Music, YouTube Music, and SoundCloud.
 
-**Q: Is JOSHUA working on more solo music?**  
-A: While primarily active with SEVENTEEN, JOSHUA has expressed interest in more solo and collaboration projects.
+**Q:** Is JOSHUA working on more solo music?
+**A:** While primarily active with SEVENTEEN, JOSHUA has expressed interest in more solo and collaboration projects.
 
 ---
 
