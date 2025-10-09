@@ -261,13 +261,6 @@ In this moment, that's exactly what I needed.
 
 ---
 
-## Related Articles {#related-articles}
-
-- [SEVENTEEN's Best B-Sides: Hidden Gems You Need to Hear](#)
-- [The Rise of K-Pop and EDM Collaborations](#)
-- [JOSHUA's Evolution as a Vocalist](#)
-- [SLANDER's Most Emotional Tracks Ranked](#)
-
 ## Frequently Asked Questions {#faq}
 
 **Q:** When was SLANDER and JOSHUA's 'Love Is Gone' released?
