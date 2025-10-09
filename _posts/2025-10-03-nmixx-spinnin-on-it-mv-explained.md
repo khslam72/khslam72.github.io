@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2025-10-03
 title: "NMIXX's 'SPINNIN' ON IT' Explained: A Chaotic Dive into Love and Hate"
 description: "MV Explained: NMIXX's pre-release 'SPINNIN' ON IT' is a visual feast exploring the turbulent cycle of love and hate. A deep dive into the symbolism ahead of their 'Blue Valentine' album."
 thumbnail: /images/nmixx-spinnin-on-it-mv-screencap-2025.webp
@@ -23,8 +24,7 @@ tags:
 *Brace yourselves, NSWERs, because NMIXX just threw a cake-fueled party of emotional chaos, and we're all invited. Their new pre-release track, **"SPINNIN' ON IT,"** is the first taste of their upcoming full album, "Blue Valentine," and wow, what a statement. This isn't just a song; it's a full-blown **'visual story'** that perfectly captures the dizzying, messy, and utterly captivating dance between love and resentment. Let's dive headfirst into this beautiful mess and figure out what it all means.*</p>
 
 <div align="center">
-<img src="/images/nmixx-spinnin-on-it-mv-screencap-2025.webp"
-alt='NMIXX members in a chaotic, cake-filled scene from the "SPINNIN' ON IT" official MV explained analysis thumbnail by JYP Entertainment'
+<img src="/images/nmixx-spinnin-on-it-mv-screencap-2025.webp" alt='NMIXX members in a chaotic, cake-filled scene from the "SPINNIN' ON IT" official MV explained analysis thumbnail by JYP Entertainment'
 width="100%"
 loading="lazy"
 decoding="async"
