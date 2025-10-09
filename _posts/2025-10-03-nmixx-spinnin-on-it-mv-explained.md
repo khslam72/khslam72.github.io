@@ -40,6 +40,7 @@ fetchpriority="high" />
 <li><a href="#quick-facts">Quick Facts & Credits</a></li>
 <li><a href="#story-on-screen">The Story You See on Screen</a></li>
 <li><a href="#lyrics-meaning">Lyrics & Meaning</a></li>
+<li><a href="#vocal-performance">Vocal Performance: Voices That Refuse to Be Ignored</a></li>
 <li><a href="#bts-insights">Behind the Scenes & Visual Insights</a></li>
 <li><a href="#fan-takeaways">Fan Takeaways & What's Next</a></li>
 <li><a href="#sources">Sources & Technical Data</a></li>
@@ -152,6 +153,25 @@ What makes "SPINNIN' ON IT" resonate beyond cultural boundaries is its honesty a
 Who hasn't been in a relationship that felt both essential and impossible? Who hasn't said "I'm done" while knowing you're not? Who hasn't felt that maddening combination of wanting to stay and needing to leave?
 
 NMIXX isn't glorifying toxicity here. They're acknowledging complexity. Love isn't always healthy, but it's always human. And sometimes the most passionate connections are the most chaotic.
+
+<a name="vocal-performance"></a>
+## Vocal Performance: Voices That Refuse to Be Ignored
+
+And then there are the vocals.
+
+God, the vocals.
+
+The first time I heard Lily's opening lines, I had to pause the video. That voice—it doesn't just enter your ears, it settles somewhere in your chest. There's this crystalline quality to her tone that somehow feels both weightless and devastatingly heavy at the same time. When she sings, I swear I can feel the exact shape of the emotion she's conveying.
+
+Sullyoon's high notes in the chorus made me actually sit up straight. I've heard plenty of K-pop vocalists hit high notes, but this isn't about technical prowess—it's about what those notes carry. There's an ache in them, a tension that never quite releases. It's the sound of someone barely holding themselves together, and I felt that in my bones.
+
+But what got me—what really destroyed me—was the harmony work. Put on good headphones and listen again. Really listen. The way their voices layer and interweave is almost architectural. I found myself rewinding just to catch Haewon's lower register supporting Lily's runs, or the moment where Bae's raspier tone cuts through the chorus like a question mark.
+
+Each voice is so distinct—you could identify any member blind. Yet somehow when they blend, it's seamless. Not in that overly-polished, auto-tuned-to-death way. It's organic, almost conversational, like six people finishing each other's sentences in a heated argument.
+
+The production is dense—all that bass, those layered instrumentals—but their voices never get lost. Instead, they ride on top of it, cut through it, become part of the texture itself. I kept thinking: this is what happens when vocalists are good enough to be treated as instruments in their own right.
+
+By the bridge, I realized my jaw was clenched. That's what this vocal performance does—it makes your body react before your brain catches up.
 
 <a name="bts-insights"></a>
 ## Behind the Scenes & Visual Insights
