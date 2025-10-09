@@ -112,11 +112,36 @@ By the time the song ends, I realize my eyes are wet, and I'm not entirely sure 
 
 <h3>Comparing the Versions</h3>
 
-| Version | Style | Emotional Focus | Vocal Approach |
-|---|---|---|---|
-| Dylan Matthew (Original) | Acoustic Pop | Personal confession | Raw, intimate |
-| Cha Eun-woo | K-pop Ballad | Melancholic longing | Smooth, polished |
-| **SLANDER x JOSHUA** | **EDM/Electronic** | **Desperate pleading** | **Vulnerable, layered** |
+<table>
+  <thead>
+    <tr>
+      <th>Version</th>
+      <th>Style</th>
+      <th>Emotional Focus</th>
+      <th>Vocal Approach</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Dylan Matthew (Original)</td>
+      <td>Acoustic Pop</td>
+      <td>Personal confession</td>
+      <td>Raw, intimate</td>
+    </tr>
+    <tr>
+      <td>Cha Eun-woo</td>
+      <td>K-pop Ballad</td>
+      <td>Melancholic longing</td>
+      <td>Smooth, polished</td>
+    </tr>
+    <tr>
+      <td><b>SLANDER x JOSHUA</b></td>
+      <td><b>EDM/Electronic</b></td>
+      <td><b>Desperate pleading</b></td>
+      <td><b>Vulnerable, layered</b></td>
+    </tr>
+  </tbody>
+</table>
 
 The lyrics of 'Love Is Gone' remain the same—that desperate plea of *"don't leave me, I need you by me"* and *"I can't breathe, I'm so weak, I know it's not easy"*—but the perspective shifts entirely. In previous versions, I always felt like I was the one pleading, the one trying to hold onto someone. But with JOSHUA's rendition, something flips.
 
@@ -224,13 +249,42 @@ The 'Love Is Gone' lyrics repeat the refrain: *"Don't tell me that your love is 
 
 **Full Lyrics Interpretation:**
 
-| Lyric Line | Surface Meaning | Deeper Interpretation |
-|---|---|---|
-| "I'm sorry, don't leave me" | Apology to lover | Universal plea against abandonment |
-| "I want you here with me" | Physical presence | Emotional connection and support |
-| "I know that your love is gone" | Acceptance of breakup | Recognition of loss |
-| "I can't breathe, I'm so weak" | Physical symptoms | Emotional vulnerability |
-| "Don't tell me that your love is gone" | Denial | Hope against hopelessness |
+<table>
+  <thead>
+    <tr>
+      <th>Lyric Line</th>
+      <th>Surface Meaning</th>
+      <th>Deeper Interpretation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>"I'm sorry, don't leave me"</td>
+      <td>Apology to lover</td>
+      <td>Universal plea against abandonment</td>
+    </tr>
+    <tr>
+      <td>"I want you here with me"</td>
+      <td>Physical presence</td>
+      <td>Emotional connection and support</td>
+    </tr>
+    <tr>
+      <td>"I know that your love is gone"</td>
+      <td>Acceptance of breakup</td>
+      <td>Recognition of loss</td>
+    </tr>
+    <tr>
+      <td>"I can't breathe, I'm so weak"</td>
+      <td>Physical symptoms</td>
+      <td>Emotional vulnerability</td>
+    </tr>
+    <tr>
+      <td>"Don't tell me that your love is gone"</td>
+      <td>Denial</td>
+      <td>Hope against hopelessness</td>
+    </tr>
+  </tbody>
+</table>
 
 The irony isn't lost on me. A song called 'Love Is Gone' that actually restores faith in love's existence. But maybe that's exactly the point. Love doesn't disappear—it just transforms. It lives in art, in music, in the connection between an artist and a listener.
 
