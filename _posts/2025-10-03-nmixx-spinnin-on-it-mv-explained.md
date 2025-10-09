@@ -23,9 +23,9 @@ tags:
 <p style="margin: 8px 0px 16px;">
 *Brace yourselves, NSWERs, because NMIXX just threw a cake-fueled party of emotional chaos, and we're all invited. Their new pre-release track, **"SPINNIN' ON IT,"** is the first taste of their upcoming full album, "Blue Valentine," and wow, what a statement. This isn't just a song; it's a full-blown **'visual story'** that perfectly captures the dizzying, messy, and utterly captivating dance between love and resentment. Let's dive headfirst into this beautiful mess and figure out what it all means.*</p>
 
-<div align="center">
-<img src="/images/nmixx-spinnin-on-it-mv-screencap-2025.webp" alt='NMIXX members in a chaotic, cake-filled scene from the "SPINNIN' ON IT" official MV explained analysis thumbnail by JYP Entertainment'
-width="100%"
+<div style="text-align: center;">
+<img src="/images/nmixx-spinnin-on-it-mv-screencap-2025.webp" alt="NMIXX members in a chaotic, cake-filled scene from the SPINNIN' ON IT official MV"
+style="width:100%; max-width:100%; height:auto;"
 loading="lazy"
 decoding="async"
 fetchpriority="high" />
@@ -68,8 +68,8 @@ If this is how they're setting the tone for "Blue Valentine," we're in for an em
 <a name="quick-facts"></a>
 ## Quick Facts & Credits for "SPINNIN' ON IT"
 
-<div style="border:1px solid #eee;border-radius:12px;padding:12px 14px;background:#fcfcfc;">
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:8px 16px;font-size:14px;line-height:1.8;">
+<div style="border:1px solid #eee;border-radius:12px;padding:12px 14px;background:#fcfcfc;font-size:14px;line-height:1.8;">
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:8px 16px;">
 <div><strong>Artist</strong>: NMIXX (엔믹스)</div>
 <div><strong>Song</strong>: "SPINNIN' ON IT"</div>
 <div><strong>Album</strong>: Blue Valentine (1st Full Album)</div>
@@ -79,9 +79,13 @@ If this is how they're setting the tone for "Blue Valentine," we're in for an em
 <div><strong>MV ID</strong>: RblIsNFR1j4</div>
 <div><strong>Main Concept</strong>: The Duality of Love and Hate</div>
 </div>
-<p style="margin-top:12px;"><em>Composers: Lee Woo-min "collapsedone", C'SA, Fredrik "Fredro" Odesjo, etc. / Lyrics: 3! (lalala studio), SINCE, etc. / Arranger: Lee Woo-min "collapsedone", Fredrik "Fredro" Odesjo</em></p>
+<hr style="border:none;border-top:1px solid #eee;margin:12px 0;" />
+<div>
+<span style="font-weight:bold;">Composers:</span> Lee Woo-min "collapsedone", C'SA, Fredrik "Fredro" Odesjo, etc.<br>
+<span style="font-weight:bold;">Lyrics:</span> 3! (lalala studio), SINCE, etc.<br>
+<span style="font-weight:bold;">Arranger:</span> Lee Woo-min "collapsedone", Fredrik "Fredro" Odesjo
 </div>
-
+</div>
 
 <a name="story-on-screen"></a>
 ## The Story You See on Screen: When Love Becomes Warfare
