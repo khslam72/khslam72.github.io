@@ -10,18 +10,30 @@ permalink: /categories/
   </header>
   
   <div class="post-body">
-    <div class="category-archive">
-      
-      <!-- ✅ 모든 카테고리를 가장 안전한 방식으로 수집하고 정렬하는 최종 코드 -->
-      {% assign categories = "" %}
-      {% for post in site.posts %}
-        {% for category in post.categories %}
-          {% assign categories = categories | append: category | append: "||" %}
-        {% endfor %}
-      {% endfor %}
-      {% assign category_list = categories | split: "||" | uniq | sort %}
 
-      <!-- ✅ 정제된 카테고리 목록을 사용 -->
+    <!-- ✅ 1. 카테고리 인덱스 (빠른 이동 메뉴) -->
+    <div class="category-index-container">
+      <h3>Category Index</h3>
+      <ul class="category-index">
+        {% assign categories = "" %}
+        {% for post in site.posts %}
+          {% for category in post.categories %}
+            {% assign categories = categories | append: category | append: "||" %}
+          {% endfor %}
+        {% endfor %}
+        {% assign category_list = categories | split: "||" | uniq | sort %}
+
+        {% for category_name in category_list %}
+          {% if category_name == "" %}{% continue %}{% endif %}
+          <li class="index-item">
+            <a href="#{{ category_name | slugify }}">{{ category_name }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <!-- ✅ 2. 카테고리 목록 (다중 칼럼) -->
+    <div class="category-archive-grid">
       {% for category_name in category_list %}
         {% if category_name == "" %}{% continue %}{% endif %}
         <div class="category-group">
@@ -38,7 +50,7 @@ permalink: /categories/
           </ul>
         </div>
       {% endfor %}
-
     </div>
+
   </div>
 </div>
