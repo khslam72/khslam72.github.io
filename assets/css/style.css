@@ -279,6 +279,7 @@ details ol li { line-height: 1.5; margin-bottom: 8px; }
 #footer {
   text-align: center;
 }
+
 /* --- 게시물 본문 표(Table) 스타일 --- */
 .post-body table {
   width: 100%;
