@@ -8,6 +8,7 @@ thumbnail: /images/slander-joshua-love-is-gone-mv-explained.webp
 categories:
   - K-POP MV Explained
   - "Artist: JOSHUA"
+  - "Agency: Pledis Entertainment"
 tags:
   - "K-POP MV Explained"
   - "SLANDER"
