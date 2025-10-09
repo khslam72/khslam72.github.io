@@ -279,3 +279,28 @@ details ol li { line-height: 1.5; margin-bottom: 8px; }
 #footer {
   text-align: center;
 }
+/* --- 게시물 본문 표(Table) 스타일 --- */
+.post-body table {
+  width: 100%;
+  border-collapse: collapse; /* 칸 사이의 이중선을 하나로 합침 */
+  margin: 2em 0; /* 표 위아래 여백 */
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05); /* 은은한 그림자 효과 */
+  border-radius: 8px;
+  overflow: hidden; /* 모서리를 둥글게 하기 위함 */
+}
+
+.post-body th,
+.post-body td {
+  border: 1px solid var(--border-color); /* ✅ 얇은 회색 테두리 선 */
+  padding: 12px 15px; /* 칸 안쪽 여백 */
+  text-align: left;
+}
+
+.post-body th {
+  background-color: #f9f9f9; /* 제목 칸 배경색 */
+  font-weight: 600;
+}
+
+.post-body tr:nth-of-type(even) {
+  background-color: #fdfdfd; /* 짝수 행에 살짝 다른 배경색 적용 */
+}
