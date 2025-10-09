@@ -79,8 +79,9 @@ If this is how they're setting the tone for "Blue Valentine," we're in for an em
 <div><strong>MV ID</strong>: RblIsNFR1j4</div>
 <div><strong>Main Concept</strong>: The Duality of Love and Hate</div>
 </div>
-</div>
 <p style="margin-top:12px;"><em>Composers: Lee Woo-min "collapsedone", C'SA, Fredrik "Fredro" Odesjo, etc. / Lyrics: 3! (lalala studio), SINCE, etc. / Arranger: Lee Woo-min "collapsedone", Fredrik "Fredro" Odesjo</em></p>
+</div>
+
 
 <a name="story-on-screen"></a>
 ## The Story You See on Screen: When Love Becomes Warfare
@@ -148,7 +149,7 @@ Who hasn't been in a relationship that felt both essential and impossible? Who h
 
 NMIXX isn't glorifying toxicity here. They're acknowledging complexity. Love isn't always healthy, but it's always human. And sometimes the most passionate connections are the most chaotic.
 
-<a name="bts-insights"></a>  
+<a name="bts-insights"></a>
 ## Behind the Scenes & Visual Insights
 
 ### The Aesthetic of Controlled Chaos
