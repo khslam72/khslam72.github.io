@@ -22,7 +22,7 @@ tags:
 ---
 
 <p>
-<em>So here's the thing about Dayoung's solo debut: it's not just another "main vocal goes solo" story. This is a nine-year metamorphosis from WJSN's ethereal cosmic concept to... well, lighting metaphorical things on fire and declaring self-ownership. The "body" MV is less a music video and more a visual thesis on artistic autonomy. Let me show you why this matters—not just for Dayoung, but for how we think about idol-to-artist transitions in 2025.</em>
+<em>I'll be honest—I had no idea what to expect when I clicked on Dayoung's solo debut. The cute, bubbly Dayoung from WJSN? Doing... this? But three seconds into "body," I realized: this isn't the Dayoung we thought we knew. This is the Dayoung she's been waiting nine years to show us. And I'm not ready for how good this is.</em>
 </p>
 
 ---
@@ -59,14 +59,22 @@ loading="lazy"></iframe>
 ---
 
 <a name="tldr"></a>
-<h2>Quick Summary: The Vibe Check</h2>
-Dayoung's solo debut "body" is a calculated rebranding. After nine years within WJSN's fantasy-driven concepts, she pivots to a mature, self-assured persona built on funk-pop grooves and unapologetic self-love. The MV strips away all spectacle to spotlight her as an individual artist, betting on authenticity and creative control to stand out in a flooded solo market.
+## Quick Summary: The Vibe Check
+
+Let me tell you what happened when I first watched this: I genuinely thought I had the wrong video open.
+
+This is Dayoung? The Dayoung from Chocome? The one who was doing cute concepts and variety shows? Because the woman I'm watching right now looks like she walked off a California beach, got tan on purpose, and decided to become the main character of her own story.
+
+"body" isn't just a solo debut—it's a declaration. After nine years of being one voice in a ten-member group, Dayoung took three years to prepare this moment. And you can feel every single day of that preparation. The confidence in her movement, the way she owns every frame, the sheer determination radiating from her eyes—this is what happens when someone finally gets to show what they've been holding back.
+
+The song itself? A funky, groove-driven pop track that sounds like late summer feels—when it's still hot but the nights are getting cooler, when you're not ready to let go but you know things are changing. It's the perfect metaphor for this entire debut.
 
 <a name="quick-facts"></a>
-<h2>Credits</h2>
+## Credits
+
 <div class="quick-facts-grid">
 <div><strong>Artist</strong>: Dayoung (다영)</div>
-<div><strong>Song</strong>: “body”</div>
+<div><strong>Song</strong>: "body"</div>
 <div><strong>Album</strong>: gonna love me, right?</div>
 <div><strong>Release</strong>: 2025-09-09</div>
 <div><strong>Agency</strong>: Starship Entertainment</div>
@@ -76,78 +84,135 @@ Dayoung's solo debut "body" is a calculated rebranding. After nine years within 
 </div>
 
 <a name="story-on-screen"></a>
-<h2>The Story You See on Screen</h2>
-<p>The narrative of "body" is one of introspection and rebirth, told through potent visual symbols. It begins with Dayoung in a stark, sterile white room, confronting her reflection in an oversized mirror. This isn't about seeking external validation; it's a powerful act of self-confrontation. By stripping away the elaborate, cosmic sets of her WJSN past, the video immediately forces the viewer's focus onto Dayoung herself, unadorned and unfiltered.</p>
-<p>As the track progresses, she moves into darker, moodier sets dominated by red and black hues, backed by dancers who serve to amplify her presence rather than share the spotlight. This section represents her embracing a newfound power and confidence. The story arc is not about finding love from someone else, but about claiming ownership over her own image and narrative. It’s a visual journey from quiet self-reflection to a bold public declaration.</p>
-<p>The climax is the solo dance break, where she holds the entire frame under a single spotlight. This moment is crucial; in a group of ten, such singular focus is rare. The MV culminates in a series of "power stances"—hands on hips, a confident smirk—that directly challenge the typical "ending fairy" trope of K-pop. It’s a definitive statement: the girl from the cosmic concept has been reborn as a self-possessed rockstar.</p>
+## The Story You See on Screen
+
+The video opens with Dayoung in a stark white room, staring at herself in an oversized mirror. And I know what you're thinking—"oh, another self-reflection concept"—but wait. Look at her face. That's not the expression of someone seeking validation. That's someone who's already made peace with who they are and is ready to prove it.
+
+There's no elaborate storyline here, no narrative twists. Just Dayoung moving through spaces that get progressively darker, moodier, more her. The white room gives way to reds and blacks, and with each transition, you can see her shedding layers of what people expected her to be.
+
+What got me was how the dancers function in this video. They're not backup—they're amplifiers. They make her look even more powerful by comparison. When she's standing center frame and they're all moving around her? That's not choreography. That's a visual representation of everyone orbiting around her energy.
+
+And then comes the solo dance break at **1:35**. The camera just... stops. No fancy cuts, no dramatic zooms. Just her, a spotlight, and absolute command of the frame. I realized in that moment: this is what she's been capable of all along. We just never got to see it because there were always nine other people sharing the stage.
+
+The final shots—those power stances, that confident smirk—aren't trying to be an "ending fairy." She's not being cute. She's being formidable. And the difference is everything.
 
 <a name="lyrics-meaning"></a>
-<h2>Lyrics & meaning</h2>
-<h3>Lyrical Story & Narrative</h3>
-<p>The lyrics of "body" serve as a manifesto for Dayoung's artistic reinvention. The album's title, *'gonna love me, right?'*, functions as a confident challenge rather than a needy question. It reframes the power dynamic, suggesting her self-worth isn't up for debate—it's a fact you will come to accept because she already has. The song is a masterclass in using the language of self-love as a strategic career move.</p>
-<p>The line **"I'm a new type of story" (0:42)** is the lyrical anchor of the entire debut. It’s a multipurpose declaration that simultaneously rejects her past WJSN narrative, claims novelty in a crowded market, and invites the audience to get to know her all over again. It’s a concise and powerful way of saying, "Forget what you think you know."</p>
-<p>The central hook, **"Gonna love my body" (0:54)**, operates on two levels. On the surface, it's a timely body positivity anthem. But in the context of K-pop, where an idol's body is often seen as a product managed by their agency, this line is a radical act of reclaiming ownership. Here, "body" becomes a metaphor for her entire artistic output: her music, her choices, and her narrative. She's not just loving her physical self; she's loving her body of work.</p>
+## Lyrics & meaning
 
-<h3>The Intent Behind the Hook & Cultural Nuance</h3>
-<p>The cultural significance of this debut lies in its transparent ambition to transition from "idol" to "artist." Dayoung’s heavy involvement in the creative process, a fact she emphasized in interviews, is crucial. In today's K-pop landscape, this kind of creative autonomy is a key metric of authenticity and is highly valued by fans who want to connect with a genuine personality, not just a performer.</p>
-<p>Her vocal delivery is a key part of this strategy. Instead of showcasing the soaring, emotive high notes she was known for in WJSN, she adopts a restrained, almost conversational tone. Her delivery is confident and groove-oriented, using a straight tone with minimal vibrato. This is a deliberate choice to trade technical spectacle for attitude, signaling that her goal is no longer just to impress with her vocal range, but to convey a specific, confident persona.</p>
-<p>Furthermore, Dayoung's insistence on conducting her **Forbes interview in English** is a significant cultural signal. It's a direct address to the Western market, demonstrating a willingness to connect on their terms. By choosing authenticity over perfection (her English is good, but not native), she strategically positions herself as a relatable and earnest artist, a stark contrast to the often-intimidating perfection of the "idol" machine.</p>
+### What "Gonna Love Me, Right?" Actually Means
+
+Let's talk about that album title for a second. "gonna love me, right?" could be a question. It could also be a command. And I think that duality is the entire point.
+
+This isn't Dayoung asking for approval. It's Dayoung saying "you're going to love me, right? Because I already do, so you might as well catch up."
+
+The lyrics hit differently when you know how long she waited for this. **"I'm a new type of story"** at **0:42** isn't just a catchy line—it's her drawing a line between WJSN Dayoung and solo artist Dayoung. She's literally narrating her own reinvention in real-time.
+
+### The Body Positivity That's Actually Radical
+
+When she sings **"Gonna love my body"** at **0:54**, yeah, it's about body positivity. But in K-pop? Where an idol's body is managed, monitored, discussed, critiqued, and controlled by everyone except the idol themselves? That line is borderline revolutionary.
+
+She's not just saying she loves her physical form. She's saying she loves her body of work. Her artistic output. Her choices. Everything that makes her her. And after watching her work this hard—the visible muscle definition, the tan (which is still controversial in K-pop), the unapologetic confidence—you believe her.
+
+### The Vocal Choice That Changes Everything
+
+Here's something that struck me: Dayoung is known as a main vocalist. She can hit high notes that would make other singers cry. But in "body," she barely does any of that.
+
+Her vocal delivery is restrained, conversational, almost nonchalant. She's using a straight tone with minimal vibrato, prioritizing groove over vocal gymnastics. And at first I was like "why isn't she showing off?"
+
+Then I realized: she doesn't need to anymore. She's already proven she can sing. Now she's proving she can be an artist with a point of view. The vocal restraint IS the flex.
 
 <a name="curators-deep-dive"></a>
-<h2>Beneath the Surface: A Multi-Layered Analysis</h2>
-<h3>1. Fashion Deconstruction: The Armor of a New Era</h3>
-<p>The styling in "body" is a masterclass in visual storytelling, functioning as a complete repudiation of the WJSN aesthetic. Gone are the soft pastels, flowy skirts, and ethereal fabrics. In their place, Dayoung’s primary look is a **black leather crop top paired with high-waisted pants**. This isn't merely a change of clothes; it's a change of armor. Leather, as a material, communicates toughness, rebellion, and a mature sexuality—a stark contrast to the soft, innocent image cultivated in her group activities.</p>
-<p>This wardrobe choice aligns her with a lineage of female performers who used leather to signal a break from their past—from Joan Jett to Madonna. The sharp, angular silhouettes created by the outfits are designed to make her appear powerful and defined, rather than soft and delicate. It's a visual uniform for her new narrative, stripping away femininity in its most traditional K-pop form and replacing it with a more androgynous strength.</p>
-<p>Even the color palette is a strategic choice. The bold reds and blacks stand in direct opposition to WJSN's signature palette of whites, pinks, and blues. This visual dichotomy is intentional, designed to create a "before and after" effect in the audience's mind. It's a clear, non-verbal signal that the artist they are watching is a completely new entity, built on different values and a different aesthetic language.</p>
+## Beneath the Surface: A Multi-Layered Analysis
 
-<h3>2. The Sound: A Producer's Perspective</h3>
-<p>The track's "funky pop-dance" label barely scratches the surface. From a producer's standpoint, "body" is built on a foundation of 70s funk, specifically a prominent, syncopated **slap bass line** that drives the entire song. This is a sound with a rich history, famously used by artists like SUNMI ("Gashina") to convey confidence and swagger. By choosing a groove-driven instrumental over a melody-heavy one, the production forces the listener to focus on rhythm and attitude.</p>
-<p>The arrangement is deceptively simple and incredibly effective. Modern production elements, like the crisp **trap-style hi-hats**, keep the funk influence from sounding dated. However, the most telling choice is the restraint in the vocal production. Dayoung’s voice is mixed to be upfront, dry, and conversational, with minimal reverb. This creates a sense of intimacy and directness, as if she's speaking directly to the listener. It's a stark contrast to WJSN's layered, ethereal vocal harmonies.</p>
-<p>She's deliberately suppressing her famous "main vocalist" high notes. This isn't because she can't hit them; it's a conscious artistic choice to serve the song's message. By prioritizing a confident, rhythmic delivery over a technical showcase, she shifts the perception of her skills from being a great singer to being a compelling performer with a distinct point of view.</p>
+### The Styling: Burning Down the Cosmic Concept
 
-<h3>3. Cinematic Language: Reading Between the Frames</h3>
-<p>The music video's direction is defined by its confident minimalism. The opening scene in the white room (**0:10**) uses a harsh, almost interrogative **overhead key light**. This is not the soft, flattering beauty lighting common in idol MVs; it creates shadows and reveals texture, symbolizing a commitment to showing an unvarnished, honest version of herself. The mirror itself is a classic cinematic tool for self-confrontation, and here, it establishes the MV's entire theme in a single shot.</p>
-<p>The most powerful directorial choice occurs during the solo dance break (**1:35**). The camera remains **static**, refusing to use quick cuts or dynamic zooms to generate artificial energy. It simply trusts Dayoung to hold the frame alone, under a single spotlight. This is a profound statement of confidence in her charisma as a solo performer. It tells the audience, "You don't need any distractions. Just watch her."</p>
-<p>Throughout the video, the editing masterfully balances rhythm and emotion. While the performance sequences feature cuts that sync with the beat, the camera lingers on Dayoung's face during key lyrical moments, allowing her micro-expressions to tell the story. This deliberate pacing ensures that even within a dance-focused MV, the emotional core of her reinvention is never lost.</p>
+Can we talk about the styling for a minute? Because this is a complete and total repudiation of everything WJSN stood for aesthetically.
 
-<h3>4. Choreography & Performance: The Story in Motion</h3>
-<p>The choreography of "body" is a physical manifestation of its lyrical themes. The point choreography, where Dayoung's hand traces her own silhouette (**0:54**), is a perfect example of **"direct translation choreography."** It's a literal and unambiguous gesture of self-love and ownership. What makes it powerful is the execution: her movements are sharp and confident, not soft or suggestive. She isn't inviting the male gaze; she is performing for herself.</p>
-<p>A crucial point of comparison is the shift away from group formations. WJSN's choreography relied on creating beautiful, intricate patterns with ten members. In "body," the backup dancers exist purely to frame Dayoung. She is the undisputed center of gravity in every shot. This visual hierarchy reinforces her new status as a solo artist, in complete command of her stage.</p>
-<p>The performance culminates in the final **"rockstar pose" (2:45)**. With her arms crossed or hands on her hips and a confident smirk, she evokes the iconography of Western rock legends like **Joan Jett**. This is a deliberate rejection of the cute "ending fairy" pose. It’s a final, powerful gesture that solidifies her new identity—not as an idol, but as a musician with attitude and agency.</p>
+No more pastels. No more flowy skirts. No more soft, ethereal fabrics. Dayoung shows up in **black leather crop tops and high-waisted pants** like she's auditioning to be in a 90s girl group—and I mean that in the best possible way.
+
+Leather communicates toughness, rebellion, a certain kind of sexuality that K-pop has historically been uncomfortable with. The fact that Starship let her go this hard is... surprising? Impressive? Both?
+
+The color palette shift is just as intentional. WJSN's signature colors were whites, pinks, and blues—soft, dreamy, cosmic. "body" operates in reds and blacks—bold, grounded, human. It's a visual before-and-after that doesn't need explanation.
+
+Even her tan is a statement. In an industry that still pushes pale skin as the ideal, Dayoung shows up sun-kissed and glowing, looking like she just got back from a beach vacation and couldn't care less what the beauty standards think.
+
+### The Sound: Funk as a Power Move
+
+From a production standpoint, "body" is built on **70s funk**, specifically that syncopated slap bass line that drives the entire track. If you've ever heard SUNMI's "Gashina," you know exactly what kind of swagger this sound communicates.
+
+But here's what I love: they added modern production elements—those crisp trap-style hi-hats—that keep it from sounding dated. It's funk for 2025, and it works.
+
+The mixing is interesting too. Dayoung's voice is dry and upfront, with minimal reverb. It creates this sense of intimacy, like she's performing right next to you. It's the opposite of WJSN's layered, ethereal vocal production, where harmonies created this dreamy, distant effect.
+
+She's deliberately suppressing her "main vocalist" abilities. The high notes she's famous for? Nowhere to be found. Because this song doesn't need them. It needs attitude. It needs confidence. It needs someone who can ride a groove without needing to prove anything.
+
+And she delivers.
+
+### The Cinematography: Trust in the Frame
+
+The direction of this MV shows so much confidence in Dayoung as a solo performer. That opening shot at **0:10** uses harsh overhead lighting—not the soft, flattering beauty lighting you typically see in idol MVs. It creates shadows, reveals texture, makes her look human rather than porcelain.
+
+The mirror is classic cinematic language for self-confrontation. But what I noticed is that Dayoung doesn't look conflicted. She looks determined. Like she's giving herself a pep talk before going to war.
+
+The most powerful directorial choice happens during that solo dance break at **1:35**. The camera stays static. No cuts, no zooms, no tricks. Just Dayoung under a spotlight, holding the entire frame by herself.
+
+That's a statement of trust. The director is saying "we don't need to hide anything or create artificial energy. Just watch her."
+
+And it works. You can't look away.
+
+### The Choreography: Dancing Like She Means It
+
+The point choreography where Dayoung traces her own silhouette at **0:54** is such a smart choice. It's a literal, unambiguous gesture of self-love and ownership. And the way she executes it—sharp, confident, powerful—makes it clear this isn't for the male gaze. This is for her.
+
+What really stands out compared to WJSN choreography is the use of space. In a ten-member group, formations are everything—you're always thinking about how to create beautiful patterns with bodies. In "body," Dayoung is the only pattern that matters. The backup dancers exist purely to frame her.
+
+That final pose at **2:45**—arms crossed, confident smirk, rockstar stance—reminds me of Joan Jett. It's a rejection of the cutesy "ending fairy" tradition and an embrace of rock and roll swagger.
+
+She's not asking to be liked. She's daring you not to respect her.
 
 <a name="fan-takeaways"></a>
-<h2>Fan Takeaways</h2>
-<p>For UJUNGs, Dayoung’s solo debut was a bittersweet and deeply emotional moment. On one hand, there was immense pride and excitement in seeing a member, often perceived as a dependable but overshadowed vocalist, finally step into the spotlight with such confidence and creative control. Fans celebrated it as the arrival of the "true Dayoung," an artist whose full potential was finally being unleashed.</p>
-<p>The positive reception largely centered on the project's authenticity. The knowledge that Dayoung was deeply involved in every decision, from the music to the concept, created a powerful bond with fans. The sentiment was clear: this wasn't just another Starship project; this was *Dayoung's* project. Her departure from the expected WJSN sound was seen as a brave and necessary step in her evolution as an artist.</p>
-<p>However, this reinvention also brought a sense of anxiety. The stark departure from her established image led some to miss the "soft Dayoung" they knew and loved. More significantly, such a definitive solo statement fueled underlying fears about the future of WJSN as a full group. This debut, while a personal triumph for Dayoung, also served as a poignant milestone for fans, forcing them to grapple with the reality of a new chapter for both the artist and the group they adore.</p>
+## Fan Takeaways
+
+I need to be honest about what I felt watching this debut unfold.
+
+There's this overwhelming sense of pride mixed with something more complicated. Pride because Dayoung is finally getting her moment, finally showing what she's capable of, finally being seen as more than "one of ten." The excitement is palpable and deserved.
+
+But there's also this undercurrent of bittersweetness. Because a solo debut this definitive, this far removed from the group's image, makes you wonder about WJSN's future. When a member reinvents themselves this completely, it's hard not to read it as a statement about moving on.
+
+What struck me most while watching this is the sheer effort visible in every frame. The three years of preparation aren't just a talking point—they're tangible. You can see it in her body, in her confidence, in the way she moves. This isn't someone who half-heartedly prepared a solo debut. This is someone who gambled everything on showing the world a version of herself they'd never seen.
+
+And watching her nail it? There's something deeply moving about witnessing someone who was often in the background finally step into the spotlight and absolutely command it. Not because she suddenly got talented, but because she finally got the chance to show what was there all along.
+
+The determination in her eyes throughout this video tells me everything I need to know: she's not playing around. This isn't a one-off project. This is the beginning of something bigger.
 
 <a name="qna"></a>
-<h2>Frequently Asked Questions (Q&A)</h2>
+## Frequently Asked Questions (Q&A)
 
 <details class="faq-item">
-  <summary class="faq-question">Why did Dayoung wait nine years for a solo debut?</summary>
-  <div class="faq-answer">
-    <p>Multiple factors were at play: WJSN's active group schedule until 2023, Starship Entertainment prioritizing other major acts, and crucially, Dayoung's own desire to be deeply involved in the creative decisions. She mentioned in interviews that she spent nearly three years specifically preparing this album to ensure it was a true reflection of her artistry.</p>
-  </div>
+  <summary class="faq-question">Why did Dayoung wait nine years for a solo debut?</summary>
+  <div class="faq-answer">
+    <p>It's a combination of factors. WJSN was actively promoting until 2023, Starship had other priorities (they're also managing MONSTA X, IVE, and others), and most importantly—Dayoung wanted to be deeply involved in every creative decision. In interviews, she mentioned spending nearly three years preparing this album because she refused to release something that wasn't authentically her. That level of creative control takes time to negotiate, especially in the K-pop system.</p>
+  </div>
 </details>
 
 <details class="faq-item">
-  <summary class="faq-question">What does the album title 'gonna love me, right?' actually mean?</summary>
-  <div class="faq-answer">
-    <p>It's intentionally ambiguous to reflect the album's themes. It can be interpreted as a confident, almost challenging statement ("You're *going* to love me because I already do") or as a vulnerable question ("*Will* you love me?"). Dayoung has stated she wants listeners to find their own personal meaning in this duality of confidence and self-discovery.</p>
-  </div>
+  <summary class="faq-question">What does the album title 'gonna love me, right?' actually mean?</summary>
+  <div class="faq-answer">
+    <p>The beauty of this title is its intentional ambiguity. It can read as a confident statement ("You're going to love me because I already do") or a vulnerable question ("Will you love me?"). Dayoung has said she wants listeners to find their own meaning in it, reflecting the album's themes of self-discovery and confidence coexisting with uncertainty. It's both an assertion and an invitation.</p>
+  </div>
 </details>
 
 <details class="faq-item">
-  <summary class="faq-question">How does this debut compare to other WJSN member solos?</summary>
-  <div class="faq-answer">
-    <p>While other members like Seola have released solo music, Dayoung's debut is the most comprehensive solo project from a WJSN member to date in terms of scale and creative autonomy. It's positioned as the launch of a standalone artist with a distinct identity, rather than just a "side project" from a group's main vocalist.</p>
-  </div>
+  <summary class="faq-question">How does this debut compare to other WJSN member solos?</summary>
+  <div class="faq-answer">
+    <p>While members like Seola and Yeonjung have released solo music, Dayoung's debut is by far the most comprehensive in terms of scale, budget, and creative autonomy. This isn't positioned as a "side project" from WJSN's main vocalist—it's the launch of Dayoung as a standalone artist with a completely distinct identity. The level of reinvention here (image, sound, concept) is unprecedented for the group.</p>
+  </div>
 </details>
 
 <a name="sources"></a>
-<h2>Sources & Technical Data</h2>
-<h3>Credible Sources</h3>
+## Sources & Technical Data
+
+### Credible Sources
 <ul style="padding-left:18px; margin:0 0 12px;">
 <li><a href="https://www.youtube.com/watch?v=SJpmNMWboWg" rel="nofollow noopener" target="_blank">Dayoung (다영) 'body' Official MV</a></li>
 <li><a href="https://www.forbes.com/sites/tamarherman/2025/09/09/dayoung-is-ready-for-her-pop-rockstar-era-with-gonna-love-me-right/" rel="nofollow noopener" target="_blank">Forbes: Dayoung Is Ready For Her Pop Rockstar Era</a></li>
@@ -176,33 +241,33 @@ Dayoung's solo debut "body" is a calculated rebranding. After nine years within 
 
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Why did Dayoung wait nine years for a solo debut?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Multiple factors were at play: WJSN's active group schedule until 2023, Starship Entertainment prioritizing other major acts, and crucially, Dayoung's own desire to be deeply involved in the creative decisions. She mentioned in interviews that she spent nearly three years specifically preparing this album to ensure it was a true reflection of her artistry."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What does the album title 'gonna love me, right?' actually mean?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It's intentionally ambiguous to reflect the album's themes. It can be interpreted as a confident, almost challenging statement ('You're *going* to love me because I already do') or as a vulnerable question ('*Will* you love me?'). Dayoung has stated she wants listeners to find their own personal meaning in this duality of confidence and self-discovery."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How does this debut compare to other WJSN member solos?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "While other members like Seola have released solo music, Dayoung's debut is the most comprehensive solo project from a WJSN member to date in terms of scale and creative autonomy. It's positioned as the launch of a standalone artist with a distinct identity, rather than just a 'side project' from a group's main vocalist."
-      }
-    }
-  ]
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why did Dayoung wait nine years for a solo debut?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It's a combination of factors. WJSN was actively promoting until 2023, Starship had other priorities, and most importantly—Dayoung wanted to be deeply involved in every creative decision. She spent nearly three years preparing this album because she refused to release something that wasn't authentically her."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What does the album title 'gonna love me, right?' actually mean?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The title is intentionally ambiguous. It can read as a confident statement ('You're going to love me because I already do') or a vulnerable question ('Will you love me?'). Dayoung wants listeners to find their own meaning in it."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does this debut compare to other WJSN member solos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dayoung's debut is by far the most comprehensive in terms of scale, budget, and creative autonomy. This isn't a 'side project'—it's the launch of Dayoung as a standalone artist with a completely distinct identity."
+      }
+    }
+  ]
 }
 </script>
