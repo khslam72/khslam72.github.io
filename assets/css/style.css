@@ -194,3 +194,64 @@ details ol li { line-height: 1.5; margin-bottom: 8px; }
     .table-scroll-hint { display: block; }
     .category-archive-grid { grid-template-columns: 1fr; }
 }
+/* --- 검색 페이지 스타일 --- */
+.search-container {
+  margin-top: 2em;
+}
+
+#search-input {
+  width: 100%;
+  padding: 15px 20px;
+  font-size: 1.2rem;
+  border: 2px solid var(--border-color);
+  border-radius: 8px;
+  margin-bottom: 2em;
+  transition: border-color 0.2s ease;
+}
+
+#search-input:focus {
+  outline: none;
+  border-color: #FF8C00;
+}
+
+#search-results {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.search-result-item {
+  padding: 20px;
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  margin-bottom: 15px;
+  transition: all 0.2s ease;
+}
+
+.search-result-item:hover {
+  border-color: #FF8C00;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+  transform: translateY(-2px);
+}
+
+.search-result-item a {
+  text-decoration: none;
+  display: block;
+}
+
+.search-result-item h4 {
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 1.5rem;
+  color: #007bff;
+  margin: 0 0 0.5em 0;
+}
+
+.search-result-item p {
+  font-size: 0.9rem;
+  color: #555;
+  margin-bottom: 1em;
+}
+
+.search-result-item .search-result-date {
+  font-size: 0.8rem;
+  color: #888;
+}
