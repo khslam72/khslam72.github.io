@@ -173,17 +173,17 @@ She's not asking to be liked. She's daring you not to respect her.
 <a name="fan-takeaways"></a>
 ## Fan Takeaways
 
-I need to be honest about what I felt watching this debut unfold.
+This debut gives fans something powerful: **proof**.
 
-There's this overwhelming sense of pride mixed with something more complicated. Pride because Dayoung is finally getting her moment, finally showing what she's capable of, finally being seen as more than "one of ten." The excitement is palpable and deserved.
+Proof that the nine years of waiting weren't wasted. Proof that Dayoung always had this in her. Proof that when an artist is given creative control and time to prepare, the result speaks for itself.
 
-But there's also this undercurrent of bittersweetness. Because a solo debut this definitive, this far removed from the group's image, makes you wonder about WJSN's future. When a member reinvents themselves this completely, it's hard not to read it as a statement about moving on.
+For UJUNGs who've followed her since WJSN's debut, this is **validation**—she wasn't just "one of ten," she was always capable of carrying a solo career. The pride isn't just about her success; it's about being right about her potential all along.
 
-What struck me most while watching this is the sheer effort visible in every frame. The three years of preparation aren't just a talking point—they're tangible. You can see it in her body, in her confidence, in the way she moves. This isn't someone who half-heartedly prepared a solo debut. This is someone who gambled everything on showing the world a version of herself they'd never seen.
+But there's also a **bittersweet gift** here: the realization that this level of reinvention signals change. Solo projects this definitive often mean the group dynamic shifts. Fans take away both excitement for Dayoung's future and a quiet acknowledgment that WJSN as they knew it might be evolving.
 
-And watching her nail it? There's something deeply moving about witnessing someone who was often in the background finally step into the spotlight and absolutely command it. Not because she suddenly got talented, but because she finally got the chance to show what was there all along.
+What fans ultimately walk away with is **inspiration**. The visible effort—three years of preparation, the physical transformation, the unwavering determination—becomes a reminder that dedication pays off. If Dayoung can wait nine years and come back this strong, what's stopping you from pursuing your own delayed dreams?
 
-The determination in her eyes throughout this video tells me everything I need to know: she's not playing around. This isn't a one-off project. This is the beginning of something bigger.
+The message is clear: it's never too late to become who you were meant to be.
 
 <a name="qna"></a>
 ## Frequently Asked Questions (Q&A)
