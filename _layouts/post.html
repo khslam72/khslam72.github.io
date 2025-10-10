@@ -12,6 +12,34 @@ layout: default
     <!-- ✅ 이 {{ content }} 자리에 각 게시물의 본문이 들어옵니다. -->
     {{ content }}
   </div>
+<!-- ✅ 관련 글 섹션 시작 (이 부분을 추가하세요) -->
+  {% if site.related_posts.size > 0 %}
+    <section class="related-posts-section">
+      <h2>You Might Also Like</h2>
+      <div class="related-posts-grid">
+        {% for post in site.related_posts limit:3 %}
+          <article class="post-item related">
+            <a href="{{ post.url | relative_url }}" class="post-link">
+              <div class="thumbnail-box">
+                {% if post.thumbnail %}
+                  <img src="{{ post.thumbnail | relative_url }}" alt="{{ post.title }} thumbnail">
+                {% else %}
+                  <img src="https://via.placeholder.com/400x225.png?text=No+Image" alt="No Image Available">
+                {% endif %}
+              </div>
+              <div class="text-box">
+                {% if post.categories.first %}
+                  <span class="category">{{ post.categories.first }}</span>
+                {% endif %}
+                <h4 class="title">{{ post.title }}</h4>
+              </div>
+            </a>
+          </article>
+        {% endfor %}
+      </div>
+    </section>
+  {% endif %}
+  <!-- ✅ 관련 글 섹션 끝 -->
 
   <!-- 댓글 섹션 -->
   <section class="comments-section">
