@@ -22,7 +22,7 @@ tags:
 ---
 
 <p>
-<em>You know that feeling when a new crush hits not like a gentle breeze, but like a full-blown natural disaster? That's the entire premise of BOYNEXTDOOR's "Earth, Wind & Fire." But what I find truly fascinating is that this MV isn't just about the chaos of love; it's a strategic, visual thesis on how Gen Z processes overwhelming emotions, wrapped in a brilliantly "fake" aesthetic. Let's dive into why this controlled chaos is one of the smartest moves in K-pop this year.</em>
+<em>You know that moment when a song just... refuses to leave your brain? A year ago, BOYNEXTDOOR dropped "Earth, Wind & Fire," and I'm still not over it. Not because it's perfect—but because it's perfectly imperfect. There's something about watching six boys dance around a burning car in deliberately fake-looking sets that just works. Let me tell you why this chaotic little masterpiece still hits different.</em>
 </p>
 
 ---
@@ -59,14 +59,24 @@ loading="lazy"></iframe>
 ---
 
 <a name="tldr"></a>
-<h2>Quick Summary: The Vibe Check</h2>
-BOYNEXTDOOR's "Earth, Wind & Fire" visualizes the chaotic, overwhelming force of a first crush by turning it into a literal series of natural disasters. The MV uses a deliberately artificial, "toy-box" aesthetic to create a world where emotional exaggeration feels natural. It’s a strategic move that positions the group as relatable and authentic in a K-pop landscape often defined by hyper-polished perfection.
+## Quick Summary: The Vibe Check
+
+Here's the thing about "Earth, Wind & Fire"—it shouldn't work. 
+
+A song that speed-raps through the pre-chorus, uses giant prop pencils, and features a literal car on fire while the members just casually vibe around it? On paper, that sounds like a disaster. But somehow, it became one of 2024's most addictive comebacks.
+
+Looking back a year later, what strikes me most is how this song captured something the K-pop landscape was missing: genuine playfulness without trying too hard. While other groups were going darker and more intense, BOYNEXTDOOR showed up with toy-box sets and said "what if we just had fun?"
+
+And it worked. The song refuses to leave my rotation. That "ja-ja-gan-da-da-da" part still pops into my head at random moments. The members wrote it themselves, sing it live with handheld mics during intense choreography, and somehow make it look easy.
+
+This is what happens when you give talented kids creative freedom and trust them to know what resonates with their generation.
 
 <a name="quick-facts"></a>
-<h2>Credits</h2>
+## Credits
+
 <div class="quick-facts-grid">
 <div><strong>Artist</strong>: BOYNEXTDOOR (보이넥스트도어)</div>
-<div><strong>Song</strong>: “Earth, Wind & Fire”</div>
+<div><strong>Song</strong>: "Earth, Wind & Fire"</div>
 <div><strong>Album</strong>: HOW? (2nd EP)</div>
 <div><strong>Release</strong>: 2024-04-15</div>
 <div><strong>Agency</strong>: KOZ Entertainment</div>
@@ -76,78 +86,133 @@ BOYNEXTDOOR's "Earth, Wind & Fire" visualizes the chaotic, overwhelming force of
 </div>
 
 <a name="story-on-screen"></a>
-<h2>The Story You See on Screen</h2>
-<p>Visually, "Earth, Wind & Fire" unfolds as a series of surreal vignettes, each representing a stage of love-induced panic and excitement. The narrative isn't linear but emotional. It opens in a seemingly normal classroom that is quickly whipped into a frenzy by an invisible "wind"—papers flying, ties askew—symbolizing the internal turmoil of a budding crush. This chaos is the baseline reality of the entire music video.</p>
-<p>The story then escalates into the "fire" phase, where the members' passion becomes an external, almost dangerous force. We see them casually interacting with flames, most notably dancing around a burning vintage car. This isn't a scene of destruction, but of transformation—they are embracing the intensity of their feelings. The world around them is literally on fire with their emotions, but they remain cool and in control, suggesting a mastery over their own chaos.</p>
-<p>Finally, the "earth" element provides a sense of grounding and resolution. After the storm and the blaze, the members are seen packed together in a miniature convertible, driving under a serene, starry night sky. This final sequence represents arrival and stability. They’ve weathered the emotional storm together and have found a shared direction. The journey through wind and fire has led them to a place of cozy, collective peace, suggesting that the tumultuous experience was worth it for the connection it forged.</p>
+## The Story You See on Screen
+
+The video opens in a classroom, and immediately something feels off. Not wrong—just delightfully unreal. The papers start flying before any wind machine is even visible. Ties float at impossible angles. It's like watching a diorama come to life, and that's exactly the point.
+
+There's no linear story here, and honestly, there doesn't need to be. What we're watching is an emotional progression: the chaos of catching feelings (wind), the intensity of actually feeling them (fire), and finally, the contentment of being in them (earth, represented by that adorable final shot of all six crammed into a tiny convertible under a starry sky).
+
+What got me on repeated viewings is how comfortable they look in this artificial world. At **1:42**, they're dancing around a legitimately burning vintage car, and nobody looks concerned. They're not trying to "act" cool—they just are. That nonchalance in the face of literal fire is such a perfect metaphor for the song's message: yeah, love feels like a natural disaster, but we're vibing with it.
+
+The sets are intentionally cheap-looking. Those oversized pencils at **1:12**? The miniature car at **2:05**? They're not trying to fool anyone. And that's the genius—by making the artifice obvious, they create a safe space where these exaggerated emotional metaphors don't feel melodramatic. Of course you feel like you're on fire when you're in love. Of course everything feels like a tornado. The video says: "Yeah, we know it's dramatic. It's supposed to be."
 
 <a name="lyrics-meaning"></a>
-<h2>Lyrics & meaning</h2>
-<h3>Lyrical Story & Narrative</h3>
-<p>The lyrics are a direct, almost breathless confession. The central metaphor is powerful and clear: the person they're addressing isn't just a crush; they are a force of nature, fundamental and all-encompassing. Phrases like, "You're my Earth, Wind, and Fire," redefine these elements as pillars of a relationship. The "wind" is the restless, anxious energy, the "fire" is the burning passion, and the "earth" is the grounding stability they seek.</p>
-<p>The narrative of the lyrics follows a journey from chaotic obsession to a desire for mutual connection. It’s filled with playful impatience and urgency, particularly in the fast-paced rap sections. The members aren't just passively admiring someone; they're actively trying to understand and navigate the whirlwind of feelings, pleading for the other person to "just be my lover." This creates a story that is both dramatic and deeply relatable for anyone who has felt completely consumed by a crush.</p>
-<p>What's particularly clever is how the lyrics, especially in the pre-chorus, build a sense of speed and delightful panic. Lines are delivered in a rapid-fire succession that mimics racing thoughts and a pounding heart. This isn't just a song about love; it's a song that sonically and lyrically embodies the physical sensation of falling in love—fast, a little scary, and utterly exhilarating.</p>
+## Lyrics & meaning
 
-<h3>The Intent Behind the Hook & Cultural Nuance</h3>
-<p>The hook, "My Earth, Wind, and Fire," is deceptively simple but brilliant in its cultural appropriation. It takes the name of the legendary American funk band and re-contextualizes it for a Gen Z love song, instantly creating a memorable and slightly retro-cool catchphrase. This isn't just a random reference; it taps into a universal lexicon of "classic" cool, lending the song a timeless quality despite its trendy sound.</p>
-<p>Musically, the hook is the calm eye of the storm. It follows the frenetic, syllable-packed "Ja-ja-gan-da-da-da" bridge—a signature of producer <strong>ZICO's</strong> style, reminiscent of his work with Block B. This contrast is the song's core dynamic. The rapid-fire bridge builds an almost unbearable tension, and just when you expect an explosive drop, the hook arrives with a smooth, melodic release. It’s a masterful production choice that makes the chorus feel like a much-needed deep breath after holding it for too long.</p>
-<p>The involvement of members <strong>Riwoo, Taesan, and Woonhak</strong> in the songwriting process is a crucial element of ADOR's strategy under ZICO. It infuses the track with an authentic voice. Instead of lyrics that feel assigned, their delivery has the cadence and flow of words they might actually use. This self-producing-idol model, popularized by groups like Stray Kids and SEVENTEEN, builds a deeper trust with fans, who value the perceived authenticity and creative ownership.</p>
+### The Story They're Telling
+
+Let's talk about that title for a second. "Earth, Wind & Fire" is technically the name of a legendary funk band from the 70s. Using it as a title is either bold or brilliant—probably both.
+
+But the members (Riwoo, Taesan, and Woonhak wrote on this) aren't referencing the band. They're redefining these elements as the fundamental components of a relationship. Wind is the restlessness, the anxiety, the "can't sit still" energy of a new crush. Fire is the passion, the intensity, the moments that feel too big for your body to contain. Earth is the grounding, the comfort, the "this person feels like home" sensation.
+
+What I love is how the lyrics don't try to resolve the chaos. The whole song is basically them saying "you're causing a natural disaster in my life and I'm totally okay with that." There's no "calm after the storm" moment—the storm IS the relationship, and they're choosing to dance in it.
+
+### That Speed Rap Section
+
+Can we talk about the "ja-ja-gan-da-da-da" part at **0:55**? 
+
+Taesan reportedly took 27 takes to get it right. TWENTY-SEVEN. And then they perform it live, with choreography, while holding handheld mics. The audacity of writing something that difficult and then refusing to lip-sync it is very on-brand for this group.
+
+That section mimics the physical sensation of your heart racing when you're around your crush. The words tumble over each other because that's what thoughts do when you're overwhelmed. It's uncomfortable and exhilarating at the same time—which is exactly what falling in love feels like.
+
+### The Hook That Won't Leave
+
+"You're my Earth, Wind & Fire" is such a simple hook, but it's been living rent-free in my head for a year. 
+
+It works because it takes something cosmic and elemental and makes it personal. You're not just important—you're fundamental. You're not just a person I like—you're the forces that literally sustain life on this planet.
+
+For a generation that grew up being told to "tone it down" and "be realistic," there's something deeply satisfying about a love song that goes this big. No, we're not being dramatic. Yes, this IS that serious.
 
 <a name="curators-deep-dive"></a>
-<h2>Beneath the Surface: A Multi-Layered Analysis</h2>
-<h3>1. Fashion Deconstruction: Relatable Streetwear as a Statement</h3>
-<p>The styling in "Earth, Wind & Fire" is a deliberate rejection of the high-fashion, "fantasy" concepts dominating the boy group scene. Instead, the members are dressed in accessible, almost mundane streetwear, reinforcing their "boy next door" identity. We see a heavy emphasis on American workwear and skate brands; for instance, Leehan prominently wears a classic brown <strong>Carhartt Active Jacket</strong> during the burning car scene (<strong>1:49</strong>), a staple of youth subculture for decades. This isn't a costume; it's an outfit.</p>
-<p>Throughout the MV, other key pieces anchor this aesthetic. There are oversized graphic tees, baggy cargo pants, and vintage-style varsity jackets. At <strong>0:18</strong>, Jaehyun wears a <strong>Stüssy</strong>-esque graphic hoodie, further cementing their connection to global street fashion. These choices are strategic. By dressing the members in brands that their target audience might actually own, KOZ Entertainment breaks down the barrier between idol and fan, making their larger-than-life emotional journey feel more grounded and relatable.</p>
-<p>Even the accessories are understated—simple beanies, silver chains, and sneakers. There's a notable lack of ostentatious jewelry or bespoke designer pieces. This "anti-luxury" approach is a powerful statement in the 2024 K-pop market. It says that their appeal isn't built on aspiration, but on authenticity and a shared cultural language with their fans.</p>
+## Beneath the Surface: A Multi-Layered Analysis
 
-<h3>2. The Sound: ZICO's Production DNA</h3>
-<p>This track is pure <strong>ZICO</strong> and <strong>Pop Time</strong> in its architecture. The core sound is built on a hyper-fast Jersey Club rhythm, characterized by its rapid triplet kick patterns and chopped vocal samples. But where their genius lies is in the structural dynamics. The song operates on a principle of extreme contrast. You have the blistering speed of Taesan's "speed-rap" verse (<strong>0:32</strong>), which reportedly took 27 takes to perfect, immediately followed by the smooth, melodic chorus.</p>
-<p>This high-tension, high-release formula is a ZICO trademark. If you listen to his earlier work, like Block B's "Nalina," you'll find the same philosophy: a chaotic, aggressive verse that resolves into an irresistibly catchy, sing-along hook. In "Earth, Wind & Fire," the use of a distinctive <strong>808 bass slide</strong> during the transitions and the glitchy, video-game-like sound effects (<strong>0:55</strong>) further enhance this feeling of controlled chaos. It’s a sound that’s complex enough to impress music critics but catchy enough to go viral on TikTok.</p>
-<p>The vocal production is also key. The members' voices are mixed to sound crisp and conversational rather than heavily processed or ethereal. This raw, upfront vocal delivery ensures that even during the most complex rhythmic sections, the lyrics' emotional intent is never lost. It’s a production style that prioritizes personality over polished perfection, a perfect sonic match for the MV's visual theme.</p>
+### The Styling: Relatable on Purpose
 
-<h3>3. Cinematic Language: The Kitsch-Core Revolution</h3>
-<p>Director <strong>Rima Yoon</strong> employs a visual style best described as "kitsch-core" or "toy-box realism." The sets are *intentionally* fake-looking. At <strong>1:12</strong>, Jaehyun is surrounded by oversized pencils that look like theater props, and at <strong>2:05</strong>, the whole group drives a miniature car against a visibly artificial starry backdrop. This isn't a sign of a low budget; it's a sophisticated cinematic choice. By making the artificiality obvious, the MV creates a psychological "safe space" where extreme emotional metaphors (like being on fire) can be explored without seeming melodramatic or absurd.</p>
-<p>The camera work enhances this feeling. Rima Yoon uses a slightly shaky, <strong>handheld camera</strong> during the opening classroom scene (<strong>0:08</strong>), which immerses the viewer in the instability and anxiety of the "wind" element. This contrasts sharply with the static, more composed shots used later on, mirroring the members' journey from chaos to control. The use of scale is also a brilliant narrative tool. The members are dwarfed by giant props when their feelings are overwhelming them, but they command miniature sets when they feel in control of their destiny.</p>
-<p>Color grading is used to map the emotional journey. The "Wind" section is dominated by cool, sterile blues and whites, reflecting anxiety. The "Fire" section shifts to a warm palette of oranges, reds, and ambers, visualizing passion. Finally, the "Earth" section uses deep blues and soft, grounding greens. This carefully planned color script guides the viewer through the song's emotional arc without a single word of dialogue, showcasing a masterful use of cinematic language.</p>
+One thing that struck me from day one: these kids are dressed like... kids.
 
-<h3>4. Choreography & Performance: The Story in Motion</h3>
-<p>The choreography for "Earth, Wind & Fire" is less about technical perfection and more about expressive, interpretive movement. The key moves are direct translations of the lyrics, making them both meaningful and incredibly easy for fans to replicate for TikTok challenges. This accessibility was, without a doubt, a core part of the strategy.</p>
-<p>Let's break down the key gestures. The "Wind" move at <strong>0:25</strong> involves wide, sweeping arm motions, as if trying to grasp at something intangible—the perfect physicalization of restless thoughts. The "Fire" move seen at <strong>1:08</strong> uses sharp, contained pops and clenching fists, representing a passion that's about to burst. Finally, the "Earth" formation, where the members huddle together in the final chorus (<strong>2:20</strong>), creates a visual of unity and a strong foundation.</p>
-<p>What sets their performance apart is its conversational quality. The members often break the fourth wall, looking directly into the camera with playful expressions, making the viewer feel like a participant in their story. This contrasts with the more aloof, "cool" performance style of many other boy groups. Their energy is infectious and inviting, perfectly aligning with the "boy next door" concept. It's a performance designed not to intimidate, but to include.</p>
+There's no designer fantasy here. Leehan's wearing a Carhartt jacket at **1:49**—the kind you'd see on any college campus. Jaehyun's got what looks like a Stüssy hoodie at **0:18**. These are brands actual teenagers and twenty-somethings wear, not high-fashion labels that cost more than rent.
+
+This was a strategic choice by KOZ Entertainment, and it's paying off a year later. While other groups are serving untouchable luxury, BOYNEXTDOOR is serving "I might actually know someone who dresses like this." It makes the entire concept more accessible. The emotional chaos they're singing about feels more real when they look like they could be your actual neighbor.
+
+Even the colors are muted—lots of blacks, browns, basics. No sparkles, minimal jewelry, sensible sneakers. It's anti-glamour in the best way, and it lets their personalities and the music do the heavy lifting.
+
+### The Sound: ZICO's Signature Chaos
+
+If you've listened to ZICO's work with Block B, you'll recognize the DNA here immediately. That high-tension verse followed by the smooth melodic release? That's his calling card.
+
+The Jersey Club rhythm gives the track this frantic, bouncy energy. Those rapid triplet kicks create urgency, like you're running toward something (or away from something—emotions are confusing). But then the chorus hits and everything smooths out into this groove that feels like finally catching your breath.
+
+What I appreciate about the production is how much space there is. Modern K-pop can sometimes feel overstuffed with sounds, but "Earth, Wind & Fire" knows when to pull back. That 808 bass slide during transitions? The video-game-style sound effects at **0:55**? They're used sparingly, which makes them hit harder when they appear.
+
+The vocal mixing is interesting too. The members' voices are crisp and forward in the mix—you can hear every word, every breath, every texture in their voices. It's the opposite of the heavily processed, ethereal sound that's popular right now. These vocals feel human, immediate, present.
+
+And that matters, because when Taesan is speed-rapping or Woonhak is hitting a high note, you need to believe they can actually do this live. The production doesn't hide behind tricks—it showcases what they can actually do.
+
+### The Cinematography: Embracing the Fake
+
+Director Rima Yoon made a choice that could've backfired spectacularly: she made everything look intentionally artificial.
+
+That classroom at **0:08**? Those are clearly props. The giant pencils? Obviously fake. The miniature car at **2:05**? Come on. But here's why it works: by making the artifice obvious, the MV creates its own internal logic. This isn't trying to be reality—it's a heightened emotional state visualized.
+
+The camera work reinforces this. In the opening, there's this handheld shakiness that makes you feel the instability of the "wind" phase. But as the video progresses and the members gain control over their chaos, the camera stabilizes too. By the end, when they're all crammed in that tiny car, the shot is smooth and serene.
+
+The scale play is particularly smart. When they're feeling overwhelmed, they're dwarfed by giant objects. When they're in control, they're commanding miniature sets. It's visual shorthand for how overwhelming emotions can make you feel small or powerful depending on your relationship to them.
+
+And those colors—cool blues and whites for anxiety (wind), warm oranges and reds for passion (fire), deep blues and greens for comfort (earth). The color grading does so much storytelling work without a single word of dialogue.
+
+### The Choreography: Made for Everyone
+
+Here's what I love about the choreo: I could probably learn it.
+
+Not because it's simple—it's not. But because the key moves are intuitive. The wind gesture at **0:25** with those sweeping arms? You don't need to be a trained dancer to understand what that represents. The fire pops at **1:08**? Clear visual metaphor.
+
+This accessibility was absolutely intentional. A year later, you can still find people doing the "Earth, Wind & Fire" challenge on TikTok because the moves are memorable without being impossible. That's rare in K-pop, where choreography is often designed to showcase technical skill above all else.
+
+What really stands out is the performance energy. They're not trying to look cool or detached—they're engaged, playful, inviting you to join them. The frequent direct camera contact makes you feel included rather than observed. It's a subtle but crucial difference in performance style.
 
 <a name="fan-takeaways"></a>
-<h2>Fan Takeaways</h2>
-<p>For fans, "Earth, Wind & Fire" felt like a breath of fresh air. In a market saturated with dark concepts and untouchable fantasy worlds, the MV’s playful, DIY aesthetic was incredibly endearing. The immediate fan reaction was a mix of amusement and admiration for the sheer audacity of the concept. The "car on fire" scene (<strong>1:42</strong>) instantly became a meme, but one born out of love. It represented the group's unique brand of humor and chaotic energy.</p>
-<p>The song's viral potential was realized almost immediately. The fast-paced "Ja-ja-gan-da-da-da" section sparked a massive challenge on TikTok and Reels, with fans and even other idols attempting to master the difficult pronunciation and rhythm. This participatory culture is exactly what the song's accessible choreography and memorable hook were designed to encourage. It turned listening into an active, creative experience.</p>
-<p>Ultimately, what resonated most with the fandom (known as ONEDOOR) was the feeling of authenticity. The kitschy sets, the member-written lyrics, the relatable streetwear—it all added up to a group that felt genuine. Fans didn't just feel like they were consuming content; they felt like they were getting to know the members' actual personalities. This MV wasn't just a comeback; it was a perfect execution of a group's core identity, and it solidified a deep sense of loyalty and connection with their audience.</p>
+## Fan Takeaways
+
+Looking back at this comeback a year later, what ONEDOORs got from "Earth, Wind & Fire" was something more valuable than chart positions: **validation**.
+
+This comeback proved that self-producing rookies could compete. That authenticity could win over polish. That fun could coexist with skill. When members write their own lyrics and still deliver them flawlessly live, when they choose handheld mics over lip-syncing, when they trust their audience to appreciate nuance—that builds a different kind of loyalty.
+
+What fans walked away with was **pride**. Pride in supporting a group that respects its audience enough to show them the real work, the real effort, the real talent. The "27 takes" story about Taesan's speed rap became a point of connection, not criticism—look how hard he worked to give us this.
+
+The other beautiful thing this era gave fans was **community**. The comment sections were full of MOAs, LUNEs, ENGENEs, ARMYs—the entire HYBE family showed up. That cross-fandom support wasn't obligatory; it was genuine appreciation for what BOYNEXTDOOR was bringing to the table. Fans of other groups saw themselves in these boys and wanted to support that energy.
+
+For newer ONEDOORs who joined during this era, they got something special: **the feeling of discovering something before it becomes huge**. There's this sense of "I was there when" that makes you feel like part of the story, not just an observer of it.
+
+And practically speaking, fans got a song that holds up. A year later, it's still in rotation, still making people smile, still prompting new fans to ask "wait, they wrote this themselves?" That longevity is what separates a good comeback from a great one.
 
 <a name="qna"></a>
-<h2>Frequently Asked Questions (Q&A)</h2>
+## Frequently Asked Questions (Q&A)
 
 <details class="faq-item">
-  <summary class="faq-question">What does the 'fake-looking' aesthetic in the MV mean?</summary>
-  <div class="faq-answer">
-    <p>The artificial, "toy-box" aesthetic is a deliberate artistic choice known as kitsch-core. It creates a surreal, playful world where the exaggerated emotions of a first crush—feeling like you're caught in a storm or on fire—can be visualized literally without seeming overly dramatic. It's a way to explore intense feelings in a safe, imaginative space.</p>
-  </div>
+  <summary class="faq-question">What does the 'fake-looking' aesthetic in the MV mean?</summary>
+  <div class="faq-answer">
+    <p>The deliberately artificial "toy-box" aesthetic creates a surreal playground where exaggerated emotions feel natural. When you're falling in love, everything DOES feel heightened and slightly unreal—so why not make that literal? By embracing the artifice rather than hiding it, the MV gives itself permission to be as dramatic as the emotions it's representing without tipping into melodrama.</p>
+  </div>
 </details>
 
 <details class="faq-item">
-  <summary class="faq-question">Who is the director of the 'Earth, Wind & Fire' music video?</summary>
-  <div class="faq-answer">
-    <p>The music video was directed by Rima Yoon of the production company Rigend Film. She is known for her vibrant, high-concept visuals and has worked with many artists in the Korean hip-hop and R&B scene, bringing a distinct, story-driven style to her projects.</p>
-  </div>
+  <summary class="faq-question">Who is the director of the 'Earth, Wind & Fire' music video?</summary>
+  <div class="faq-answer">
+    <p>Rima Yoon of Rigend Film directed the MV. She's known for her vibrant, conceptual work in the Korean hip-hop and R&B scene, and she brought that same boldness to BOYNEXTDOOR's vision. Her willingness to lean into the artificial aesthetic rather than fight it made this video memorable.</p>
+  </div>
 </details>
 
 <details class="faq-item">
-  <summary class="faq-question">How is ZICO's influence seen in the song and MV?</summary>
-  <div class="faq-answer">
-    <p>ZICO's influence as the head producer is evident in the song's musical structure, which features a high-contrast dynamic between complex, rapid-fire verses and a catchy, melodic chorus—a trademark of his production style. He also encouraged member participation in songwriting, fostering an environment of authenticity that is central to the group's identity.</p>
-  </div>
+  <summary class="faq-question">How is ZICO's influence seen in the song and MV?</summary>
+  <div class="faq-answer">
+    <p>ZICO's production signature is all over this track—that high-tension buildup followed by smooth melodic release is straight from his Block B playbook. But more importantly, his philosophy of encouraging member participation in songwriting shaped the entire project. He created an environment where Riwoo, Taesan, and Woonhak felt empowered to write lyrics that actually sound like how they speak, which gives the track its authentic voice.</p>
+  </div>
 </details>
 
 <a name="sources"></a>
-<h2>Sources & Technical Data</h2>
-<h3>Credible Sources</h3>
+## Sources & Technical Data
+
+### Credible Sources
 <ul style="padding-left:18px; margin:0 0 12px;">
 <li><a href="https://www.youtube.com/watch?v=u9nP3qXQA4o" rel="nofollow noopener" target="_blank">BOYNEXTDOOR (보이넥스트도어) 'Earth, Wind & Fire' Official MV</a></li>
 <li><a href="https://magazine.weverse.io/article/view?lang=en&num=1033" rel="nofollow noopener" target="_blank">Weverse Magazine: BOYNEXTDOOR Comeback Interview</a></li>
@@ -176,33 +241,33 @@ BOYNEXTDOOR's "Earth, Wind & Fire" visualizes the chaotic, overwhelming force of
 
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What does the 'fake-looking' aesthetic in the MV mean?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The artificial, 'toy-box' aesthetic is a deliberate artistic choice known as kitsch-core. It creates a surreal, playful world where the exaggerated emotions of a first crush—feeling like you're caught in a storm or on fire—can be visualized literally without seeming overly dramatic. It's a way to explore intense feelings in a safe, imaginative space."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Who is the director of the 'Earth, Wind & Fire' music video?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The music video was directed by Rima Yoon of the production company Rigend Film. She is known for her vibrant, high-concept visuals and has worked with many artists in the Korean hip-hop and R&B scene, bringing a distinct, story-driven style to her projects."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How is ZICO's influence seen in the song and MV?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "ZICO's influence as the head producer is evident in the song's musical structure, which features a high-contrast dynamic between complex, rapid-fire verses and a catchy, melodic chorus—a trademark of his production style. He also encouraged member participation in songwriting, fostering an environment of authenticity that is central to the group's identity."
-      }
-    }
-  ]
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does the 'fake-looking' aesthetic in the MV mean?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The deliberately artificial 'toy-box' aesthetic creates a surreal playground where exaggerated emotions feel natural. By embracing the artifice rather than hiding it, the MV gives itself permission to be as dramatic as the emotions it's representing without tipping into melodrama."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who is the director of the 'Earth, Wind & Fire' music video?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rima Yoon of Rigend Film directed the MV. She's known for her vibrant, conceptual work in the Korean hip-hop and R&B scene, and her willingness to lean into the artificial aesthetic made this video memorable."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is ZICO's influence seen in the song and MV?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "ZICO's production signature is all over this track—that high-tension buildup followed by smooth melodic release. More importantly, his philosophy of encouraging member participation in songwriting gave the track its authentic voice."
+      }
+    }
+  ]
 }
 </script>
