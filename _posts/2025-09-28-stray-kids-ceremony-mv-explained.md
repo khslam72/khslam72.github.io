@@ -237,11 +237,6 @@ What's your favorite moment in the MV? Drop a timestamp in the comments—I'm ge
 - [Karma (Stray Kids album) - Wikipedia](https://en.wikipedia.org/wiki/Karma_(Stray_Kids_album))
 - [Stray Kids "CEREMONY" MV Teaser - Ize Magazine](https://www.ize.co.kr/news/articleView.html?idxno=69968)
 
-**Chart & Stats References:**
-- Billboard 200 chart data (August 2025)
-- YouTube trending statistics (August-September 2025)
-- Spotify Global Chart debut data
-
 **Special Thanks:**
 The STAY community whose genuine reactions and observations in the YouTube comments helped shape some of the insights in this analysis. The collective excitement is what makes K-pop worth covering.
 
