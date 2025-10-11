@@ -271,11 +271,6 @@ Also: How many times does the MMU logo appear throughout the MV? I counted 5 dis
 - Arrangement: Production team collaboration
 - Label: JYP Entertainment
 
-**Related Analysis:**
-- NMIXX "STICK OUT" MV Explained (Fe3O4: STICK OUT era)
-- NMIXX Lore Timeline: From O.O to Mixxtopia
-- Complete NMIXX Discography Hub
-
 **Fan Community Insights:**
 Special thanks to the NSWER community whose observations in YouTube comments (both Korean and Japanese) helped shape some angles in this analysis. The excitement around the MMU Ship details and the lore theories made this piece richer.
 
