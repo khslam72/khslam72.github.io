@@ -7,6 +7,9 @@
     <!-- Bing & Google 소유권 확인 메타 태그 -->
     <meta name="msvalidate.01" content="6C8CE98E1961F351CC825DB90694D13A" />
     <meta name="google-site-verification" content="google37b994b8641bf793" />
+    
+    <!-- Google AdSense 계정 확인 코드 -->
+    <meta name="google-adsense-account" content="ca-pub-2831316027210927">
 
     <!-- SEO 플러그인 태그 -->
     {% seo %}
@@ -33,8 +36,8 @@
                     <a href="{{ "/" | relative_url }}">Home</a>
                     <a href="/about/">About</a>
                     <a href="/categories/">Categories</a>
-                    <a href="/search/">Search</a> <!-- ✅ 이 줄을 추가하세요 -->
-                    <a href="/tags/">Tags</a> <!-- ✅ 이 줄을 추가하세요 -->
+                    <a href="/search/">Search</a>
+                    <a href="/tags/">Tags</a>
                 </nav>
             </div>
         </header>
@@ -45,20 +48,22 @@
             </div>
         </main>
 
- <footer id="footer">
-    <div class="footer-inner">
-        <p class="footer-links">
-            <a href="{{ "/" | relative_url }}">Home</a> |
-            <a href="/about/">About</a> |
-            <a href="/categories/">Categories</a> |
-            <a href="/privacy-policy/">Privacy Policy</a> |
-            <a href="/terms-of-service/">Terms of Service</a> <!-- ✅ 이 줄을 추가했습니다 -->
-        </p>
-        
-        <p>&copy; {% assign current_year = 'now' | date: '%Y' %} {{ site.title }}. All Rights Reserved.</p>
-        <p>Designed by Lee KH</p>
-    </div>
-</footer>
+        <footer id="footer">
+            <div class="footer-inner">
+                <p class="footer-links">
+                    <a href="{{ "/" | relative_url }}">Home</a> |
+                    <a href="/about/">About</a> |
+                    <a href="/categories/">Categories</a> |
+                    <a href="/search/">Search</a> |
+                    <a href="/tags/">Tags</a> |
+                    <a href="/privacy-policy/">Privacy Policy</a> |
+                    <a href="/terms-of-service/">Terms of Service</a>
+                </p>
+                
+                <p>&copy; {% assign current_year = 'now' | date: '%Y' %} {{ site.title }}. All Rights Reserved.</p>
+                <p>Designed by Lee KH</p>
+            </div>
+        </footer>
     </div>
 
     <!-- 애널리틱스 스크립트 -->
