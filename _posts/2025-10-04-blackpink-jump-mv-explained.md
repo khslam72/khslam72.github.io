@@ -2,8 +2,8 @@
 layout: post
 date: 2025-10-04 
 title: "BLACKPINK's 'JUMP' Review: The Anthem That Electrified My K-Pop Soul"
-description: "MV Explained: Two months on, a 30s musician/curator dives into BLACKPINK's 'JUMP'—analyzing its electrifying impact, empowering lyrics, and the stunning visual story that keeps it soaring. Rediscover the power that keeps this anthem unforgettable."
-excerpt: "As a musician and curator, I thought I'd seen it all in K-Pop. Then BLACKPINK's 'JUMP' dropped. This isn't just a song; it's a jolt of pure energy, a visual masterpiece, and a declaration of freedom that reminded me why I fell in love with this genre."
+description: "MV Explained: A deep, personal dive into BLACKPINK's 'JUMP'—analyzing its electrifying impact, empowering lyrics, and the stunning visual story that keeps it soaring. Rediscover the power that keeps this anthem unforgettable."
+excerpt: "I was about to give up. K-Pop started to feel like an endless scroll of the same flavors. Then I heard BLACKPINK's 'JUMP.' This is how one song, with its rich sound and chaotic honesty, reminded me why I fell in love with music in the first place."
 thumbnail: /images/blackpink-jump-mv-screencap-2025.webp
 categories:
   - K-POP MV Explained
