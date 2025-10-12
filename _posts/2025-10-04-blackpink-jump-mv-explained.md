@@ -1,28 +1,37 @@
 ---
 layout: post
-title: "BLACKPINK’s ‘JUMP’ MV Explained: Why It’s Still an Anthem Months Later"
-description: "MV Explained: Two months on, we dive back into BLACKPINK's 'JUMP'—analyzing its lasting impact, empowering lyrics, and the stunning visual story that keeps it on top."
-thumbnail: /images/blackpink-jump-mv-screencap-2025.webp
+date: 2025-10-04 
+title: "BLACKPINK's 'JUMP' Review: The Anthem That Electrified My K-Pop Soul"
+description: "MV Explained: Two months on, a 30s musician/curator dives into BLACKPINK's 'JUMP'—analyzing its electrifying impact, empowering lyrics, and the stunning visual story that keeps it soaring. Rediscover the power that keeps this anthem unforgettable."
+excerpt: "As a musician and curator, I thought I'd seen it all in K-Pop. Then BLACKPINK's 'JUMP' dropped. This isn't just a song; it's a jolt of pure energy, a visual masterpiece, and a declaration of freedom that reminded me why I fell in love with this genre."
+thumbnail: /images/blackpink-jump-mv-review.webp
 categories:
   - K-POP MV Explained
-  - 'Artist: BLACKPINK'
+  - "Artist: BLACKPINK"
+  - "Agency: YG Entertainment"
 tags:
   - "K-POP MV Explained"
   - "BLACKPINK"
   - "JUMP"
-  - "JUMP Meaning"
+  - "BLACKPINK JUMP Meaning"
   - "K-Pop Analysis"
-  - 'Artist: BLACKPINK'
-  - 'Song: JUMP'
-  - 'Agency: YG Entertainment'
+  - "BLACKPINK Comeback"
+  - "BLACKPINK Lyrics"
+  - "Agency: YG Entertainment"
   - "2025 K-Pop"
+canonical_url: https://kcontents.site/blackpink-jump-mv-review
+keywords: "BLACKPINK JUMP, JUMP MV explained, BLACKPINK lyrics, K-pop anthem, BLACKPINK comeback, YG Entertainment, JUMP choreography, BLACKPINK visuals, K-pop review"
+author: "Your Name"
+image:
+  path: /images/blackpink-jump-mv-review.webp
+  alt: "BLACKPINK members electrifying in the 'JUMP' official music video"
 ---
 
 <p style="margin: 8px 0px 16px;">
-*It’s been two months since BLACKPINK dropped **“JUMP,”** but honestly, its energy feels as fresh as if it were released yesterday. This track is far more than just a song—it’s a declaration, a breathtaking **‘visual story,’** and a powerful statement on their constant evolution. Let's dive back into the electrifying energy, empowering lyrics, and dazzling visuals that are keeping "JUMP" at the top of everyone's playlist.*</p>
+<em>As a 30-something musician and curator, I thought I was becoming a connoisseur of K-Pop, appreciating the art but perhaps losing a bit of the raw, visceral excitement that first drew me in. Then, **BLACKPINK** dropped **“JUMP.”** It’s been two months since its release, yet the track still pulsates with an energy so fresh, it feels like a brand-new revelation every time I hear it. This isn't just a song; it's a declaration, a breathtaking **‘visual story,’** and a powerful statement on their constant evolution. It’s the anthem that truly reignited my K-Pop soul.</em></p>
 
 <div align="center">
-<img src="/images/blackpink-jump-mv-screencap-2025.webp"
+<img src="/images/blackpink-jump-mv-review.webp"
 alt='BLACKPINK members in the "JUMP" official MV explained analysis thumbnail by YG Entertainment'
 width="100%"
 loading="lazy"
@@ -33,139 +42,120 @@ fetchpriority="high" />
 </div>
 
 <details open>
-<summary><strong>Table of Contents (Find Your Story)</strong></summary>
+<summary><strong>Table of Contents (My Electrifying Journey with "JUMP")</strong></summary>
 <ol>
-<li><a href="#tldr">Quick Summary: The Vibe Check</a></li>
-<li><a href="#quick-facts">Quick Facts & Credits</a></li>
-<li><a href="#story-on-screen">The Story You See on Screen</a></li>
-<li><a href="#lyrics-meaning">Lyrics & meaning</a></li>
-<li><a href="#bts-insights">Behind the scenes & visual insights</a></li>
-<li><a href="#fan-takeaways">Fan takeaways</a></li>
-<li><a href="#future-prospects">Future Prospects: What's Next for BLACKPINK?</a></li>
-<li><a href="#sources">Sources & Technical Data</a></li>
+<li><a href="#the-comeback-jolt">The Comeback Jolt: Reigniting My K-Pop Soul</a></li>
+<li><a href="#visuals-a-world-unleashed">Visuals: A World Unleashed by Queens</a></li>
+<li><a href="#lyrics-a-defiant-declaration">Lyrics: A Defiant Declaration of Unstoppable Power</a></li>
+<li><a href="#music-and-choreography-the-perfect-storm">Music & Choreography: The Perfect Storm of Energy</a></li>
+<li><a href="#why-jump-still-resonates">Why "JUMP" Still Electrifies: More Than Just a Hit</a></li>
+<li><a href="#final-reflections">Final Reflections: BLACKPINK's Lasting Legacy</a></li>
+<li><a href="#sources-data">Sources & Technical Data</a></li>
 </ol>
 </details>
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:12px;">
 <iframe src="https://www.youtube.com/embed/CgCVZdcKcqY?rel=0"
-title="BLACKPINK - ‘뛰어(JUMP)’ M/V Explained"
+title="BLACKPINK - ‘뛰어(JUMP)’ M/V"
 style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
 allowfullscreen
 loading="lazy"></iframe>
 </div>
 
-<a name="tldr"></a>
-<h2 style="color: #00aaff;">Quick Summary: The Vibe Check (All Gas No Brakes!)</h2>
-"JUMP" is a high-octane anthem that perfectly encapsulates BLACKPINK's unyielding spirit and global dominance. The MV plunges us into a dynamic world where the members are not just performing but asserting their unbreakable power and unity. It's a celebration of breaking free from constraints, embracing freedom, and inviting everyone to join their electrifying journey. With pulsating beats and unapologetic confidence, "JUMP" redefines what it means to be at the top, solidifying BLACKPINK's status as undeniable queens of K-Pop. This track isn't just a comeback; it's a bold leap forward, promising even more exhilarating things to come!
+<a name="the-comeback-jolt"></a>
+<h2>The Comeback Jolt: Reigniting My K-Pop Soul</h2>
+<p>
+Like many long-time fans, I've witnessed countless comebacks. Some are good, some are great, but very few grab you by the collar and shake you awake. "JUMP" did exactly that. After a three-year hiatus from group activities, I’d almost forgotten the unique thrill of **BLACKPINK** reuniting. But from the first beat, it was clear: they weren't just returning; they were reasserting their dominance. It was, as one fan excitedly put it, "the ultimate hype anthem!" It’s the kind of track that instantly makes you want to "jump" right along with them.
+</p>
 
-<a name="quick-facts"></a>
-<h2 style="color: #00aaff;">Quick Facts & Credits for "JUMP"</h2>
-<div style="border:1px solid #eee;border-radius:12px;padding:12px 14px;background:#fcfcfc;">
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:8px 16px;font-size:14px;line-height:1.8;">
-<div><strong>Artist</strong>: BLACKPINK (블랙핑크)</div>
-<div><strong>Song</strong>: “뛰어 (JUMP)”</div>
-<div><strong>Album</strong>: [To Be Confirmed]</div>
-<div><strong>Release</strong>: 2025-07-11</div>
-<div><strong>Agency</strong>: YG Entertainment</div>
-<div>**Director**: [To Be Confirmed]</div>
-<div><strong>MV ID</strong>: CgCVZdcKcqY</div>
-<div><strong>Main Concept</strong>: Empowerment, Freedom, Global Dominance</div>
+<div class="song-info-box" style="border:1px solid #eee;border-radius:12px;padding:12px 14px;background:#fcfcfc;margin-top:20px;margin-bottom:20px;">
+<h3>Song Information: "JUMP"</h3>
+<ul>
+<li><strong>Title:</strong> 뛰어 (JUMP)</li>
+<li><strong>Artist:</strong> BLACKPINK (블랙핑크)</li>
+<li><strong>Release Date:</strong> 2025-07-11</li>
+<li><strong>Genre:</strong> K-Pop, Dance-Pop, Hip Hop</li>
+<li><strong>Agency:</strong> YG Entertainment</li>
+<li><strong>MV ID:</strong> CgCVZdcKcqY</li>
+</ul>
 </div>
-</div>
 
-<a name="story-on-screen"></a>
-<h2 style="color: #00aaff;">The Story You See on Screen: Unleashed Energy and Unstoppable Power</h2>
-<p>The "JUMP" MV is a dazzling display of BLACKPINK's charisma and visual prowess, a true testament to their reign.</p>
-<br>
+<a name="visuals-a-world-unleashed"></a>
+<h2>Visuals: A World Unleashed by Queens</h2>
+<p>
+As a curator, I analyze visuals not just for aesthetics, but for storytelling. The "JUMP" MV is a masterclass in this. It plunges us into a series of dynamic, high-energy settings, each meticulously crafted to reflect BLACKPINK’s powerful presence. Neon-lit cityscapes, ethereal, dreamlike landscapes, sleek futuristic stages – these aren't just backdrops; they are *their* world, where they set the rules.
+</p>
+<p>
+The imagery of **breaking free and soaring** is a constant visual metaphor. Whether it’s through gravity-defying choreography or striking scenes of shattered glass, the message is clear: BLACKPINK is shattering expectations. This resonates so deeply because as a musician, I often feel confined by expectations. Seeing them **"breaking out of this system, breaking out of this cage"** visually translates into transcending barriers, a powerful aspiration for any artist. The visual direction is undeniably fresh and different from their previous works, yet still unmistakably them.
+</p>
+<p>
+And of course, the fashion. Every **BLACKPINK** comeback is a fashion event, and "JUMP" is no exception. The styling is a fierce mix of high-fashion couture and edgy, street-inspired looks. Each outfit isn't just clothing; it's a bold statement, reflecting their individual personalities while contributing to the overall powerful aesthetic. They are, quite simply, global fashion icons.
+</p>
 
-**1. The Setting: A World of Their Own:** From the very first frame, we're immersed in a series of vivid, high-energy settings. Each member shines in their individual segments, often surrounded by dynamic visuals that reflect their powerful presence. Think neon-lit cityscapes, ethereal, dreamlike landscapes, and sleek, futuristic stages. This isn't just a backdrop; it's *their* world, where they set the rules.
+<a name="lyrics-a-defiant-declaration"></a>
+<h2>Lyrics: A Defiant Declaration of Unstoppable Power</h2>
+<p>
+The lyrics of "JUMP" are a direct conversation with their audience, a powerful declaration of self-assuredness. When they sing, **"I'm not that easy to tame,"** it's not just a line; it’s a quintessential BLACKPINK statement. It speaks to their fierce, independent spirit that refuses to be controlled, resonating strongly with their image as empowered women in an industry often criticized for conformity. This defiance, this refusal to be anything but themselves, is what makes their message so impactful.
+</p>
+<p>
+The chorus, **"So come up with me I'll take you high and spice up your life, you know I got that sh*t that you like so come up with me run up drunk watch me running up the place,"** is an intoxicating invitation. It's not just a physical jump but a metaphorical one – an invitation to experience the thrill, the excitement, and the sheer audacity of **BLACKPINK's** world. It's about living life to the fullest, a sentiment that transcends cultural boundaries and appeals to a global youth audience.
+</p>
+<p>
+And the phrase **"All gas no brakes"** perfectly encapsulates their relentless drive and ambition. It’s a bold declaration that they're pushing forward without hesitation, breaking boundaries, and leaving no room for complacency. This mirrors the high-speed, competitive nature of the K-Pop industry itself, where continuous innovation and effort are key to staying on top. As a musician, this drive is something I constantly strive for, making these lyrics particularly motivating.
+</p>
 
-<br>
+<a name="music-and-choreography-the-perfect-storm"></a>
+<h2>Music & Choreography: The Perfect Storm of Energy</h2>
+<p>
+From a musician's perspective, the production of "JUMP" is a carefully orchestrated storm of energy. The track delivers a **high-octane anthem** with pulsating beats and an unapologetic confidence that redefines being at the top. The bassline, in particular, is a standout – as one fan noted, if you listen with good headphones, the bass is "daebak" (amazing)! This isn't just background noise; it's a foundational element that drives the entire song forward.
+</p>
+<p>
+The **choreography for "JUMP"** is a visceral extension of this musical energy. It’s a perfect blend of powerful, sharp movements and fluid, dynamic transitions. It's designed to be visually impactful and highly memorable, with certain moves undoubtedly poised to become viral dance challenges. The emphasis on synchronized group formations highlights their unity, while individual moments allow each member to showcase their unique dance prowess. It’s the kind of dance that makes you want to "jump" and dance every time it plays.
+</p>
+<p>
+What truly resonates is how the choreography visualizes the lyrics. When Lisa declares, **"I'm with all of my sisters got them going insane,"** the synchronized movements reinforce their unbreakable bond and collective power – a sisterhood that truly fuels their reign. This synergy between music, lyrics, and dance is why **BLACKPINK** continues to be a force in K-Pop.
+</p>
 
-**2. Breaking Free: The Visual Metaphor:** The MV consistently uses imagery of breaking out and soaring. Whether it's through dynamic choreography that defies gravity or visually striking scenes of shattered glass and open spaces, the message is clear: BLACKPINK is shattering expectations and embracing boundless freedom. The repeated phrase "breaking out of this system, breaking out of this cage" visually translates into them transcending barriers.
+<a name="why-jump-still-resonates"></a>
+<h2>Why "JUMP" Still Electrifies: More Than Just a Hit</h2>
+<p>
+Two months later, "JUMP" hasn't lost an ounce of its initial impact. It continues to be "the ultimate hype anthem" for blinks and new listeners alike. Its rewatchability is incredibly high, with fans constantly discovering new details in the visuals and layers in the sound. This is the mark of a true masterpiece in K-Pop – it's endlessly engaging.
+</p>
+<p>
+For me, as a musician, "JUMP" is a reminder that artistry and commercial appeal don't have to be mutually exclusive. It’s a sophisticated blend of infectious hooks, powerful production, and a genuine message of empowerment. It’s the sound of **BLACKPINK** in their element – confident, innovative, and unapologetically themselves. It's a song that simply makes you smile and feel good, and that emotional connection is invaluable.
+</p>
 
-<br>
+<a name="final-reflections"></a>
+<h2>Final Reflections: BLACKPINK's Lasting Legacy</h2>
+<p>
+"JUMP" is more than just a comeback single; it’s a testament to **BLACKPINK's** enduring legacy and their continuous evolution. They are no longer just idols; they are, as some fans eloquently put it, "legends" and "queens of K-Pop." The song feels like a springboard, hinting at even more exhilarating things to come, whether it's a major world tour or a new full-length album that further explores their creative growth.
+</p>
+<p>
+The excitement around "JUMP" also highlights the unique power of K-Pop to connect artists and fans across the globe. It's a unifying force that brings people together, celebrates individuality, and delivers pure, unadulterated joy. For me, "JUMP" didn't just re-electrify my K-Pop soul; it reminded me of the profound impact music can have. It’s a masterpiece that resonates long after the final beat fades.
+</p>
 
-**3. Unrivaled Confidence and Unity:** The members exude an almost intimidating confidence. Their synchronized movements are sharper, their gazes more intense, and their collective aura more powerful than ever. The group shots emphasize their unbreakable bond, a sisterhood that fuels their reign. "I'm with all of my sisters got them going insane" really comes to life here, showing the undeniable synergy.
-
-<br>
-
-**4. The Invitation to "JUMP":** The overall narrative isn't just about BLACKPINK's journey; it's an invitation. They're not just jumping themselves, but encouraging BLINKS and new fans alike to join them in this exhilarating leap. The energy is infectious, making you want to "jump" right along with them.
-
-<a name="lyrics-meaning"></a>
-<h2 style="color: #00aaff;">Lyrics & Meaning: A Deep Dive into Defiant Confidence</h2>
-<h3 style="color: #304090;">The Intent Behind the Hook & Cultural Nuance (The Fun Analysis)</h3>
-
-<p>The lyrics of "JUMP" are a powerful declaration of self-assuredness and a playful challenge to anyone who underestimates them.</p>
-<br>
-
-**1. "I'm not that easy to tame":** Right from the start, the lyrics set a defiant tone. This isn't about being docile or fitting into molds. It's a quintessential BLACKPINK statement, reminding everyone of their fierce, independent spirit that cannot be controlled. This resonates strongly with the group's image of strong, empowered women in a genre often criticized for its manufactured perfection.
-
-<br>
-
-**2. The Call to "JUMP":** The chorus, "So come up with me I'll take you high and spice up your life, you know I got that sh*t that you like so come up with me run up drunk watch me running up the place," is a direct invitation. It's not just a physical jump but a metaphorical one—an invitation to experience the thrill, the excitement, and the sheer audacity of BLACKPINK's world. This isn't just about partying; it's about embracing a mindset of living life to the fullest, a concept that transcends cultural boundaries and appeals to a global youth audience.
-
-<br>
-
-**3. "All gas no brakes":** This phrase perfectly captures the relentless drive and ambition that has defined BLACKPINK's career. It’s a bold declaration that they're pushing forward without hesitation, breaking boundaries, and leaving no room for complacency. This mirrors the high-speed, competitive nature of the K-Pop industry itself, where continuous innovation and effort are key to staying on top. It's a sentiment that many, regardless of their background, can relate to in their own pursuits.
-
-<br>
-
-**4. Global Appeal and Linguistic Playfulness:** While the core message of empowerment and freedom is universal, the use of English in key phrases, combined with the energetic delivery, makes "JUMP" instantly accessible to their massive international fanbase. The confident, almost playful swagger in lines like "Are you not entertained, I ain't got to explain" showcases their comfort in their global status and their knack for catchy, memorable declarations.
-
-<a name="bts-insights"></a>
-<h2 style="color: #00aaff;">Behind the Scenes & Visual Insights</h2>
-
-<p>While specific director's notes are still emerging, the MV's visual language speaks volumes about its intent and production.</p>
-<br>
-
-**1. High-Concept Set Design:** The sets are undeniably extravagant and futuristic, suggesting a significant investment in world-building. Each scene, whether it's an abandoned cityscape or a vibrant, fantastical garden, is meticulously crafted to amplify the song's energy and message of breaking free. The diverse backdrops ensure a visually stimulating experience that keeps viewers engaged.
-
-<br>
-
-**2. Fashion Forward Statements:** BLACKPINK’s MVs are always a fashion event, and "JUMP" is no exception. The styling is a mix of high-fashion couture and edgy, street-inspired looks, each outfit carefully chosen to reflect the members' individual personalities while contributing to the overall powerful aesthetic. The outfits themselves are a visual representation of their status as global fashion icons.
-
-<br>
-
-**3. Dynamic Choreography:** The choreography for "JUMP" is a perfect blend of powerful, sharp movements and fluid, dynamic transitions. It’s designed to be visually impactful and highly memorable, with certain moves undoubtedly poised to become viral dance challenges. The emphasis on synchronized group formations highlights their unity, while individual moments allow each member to showcase their unique dance prowess.
-
-<a name="fan-takeaways"></a>
-<h2 style="color: #00aaff;">Fan Takeaways: Why This Song Hits So Hard</h2>
-* "JUMP" is the ultimate hype anthem! It's the perfect track to get you pumped up, whether you're hitting the gym or just need a boost of confidence to conquer your day.
-* The MV's stunning visuals and BLACKPINK's undeniable charisma make it endlessly rewatchable. Every viewing reveals new details and layers of their artistry.
-* For BLINKS, "JUMP" is a powerful reminder of BLACKPINK's journey and their constant evolution. It celebrates their strength, resilience, and their unbreakable bond with their fanbase.
-
-<a name="future-prospects"></a>
-<h2 style="color: #00aaff;">Future Prospects: What's Next for BLACKPINK?</h2>
-<p>With "JUMP," BLACKPINK has once again proven their prowess and set the bar incredibly high. This single feels like a springboard, not just a standalone track.</p>
-<br>
-
-**1. World Tour Potential:** Given the song's high energy and "all gas no brakes" attitude, it's highly probable that "JUMP" is a precursor to a major world tour. The anthemic quality of the track is perfect for live performances, and fans are undoubtedly clamoring for the chance to see this powerful new era unfold on stage.
-
-<br>
-
-**2. Full Album or Mini Album:** While "JUMP" is a fantastic single, its intricate production and a confident, forward-looking message hint at a larger body of work. It would be natural to expect a full-length album or at least a mini-album to follow, exploring the themes introduced in "JUMP" further. This would allow the members to showcase more of their musical versatility and creative growth.
-
-<br>
-
-**3. Continued Global Dominance:** BLACKPINK's trajectory has always been global, and "JUMP" only reinforces this. The track's universal message of empowerment, coupled with their international appeal and strong individual brand power, suggests that they will continue to break records and expand their influence across various markets. Expect to see them featured in more global campaigns, fashion events, and collaborations.
-
-<br>
-
-**4. Solo Endeavors and Group Synergy:** While each member has successfully launched solo projects, "JUMP" demonstrates that their collective power remains unparalleled. This comeback highlights their ability to seamlessly balance individual artistic expression with their group identity, promising an exciting future where both solo and group activities continue to thrive and reinforce each other.
-
-<a name="sources"></a>
-<h2 style="color: #00aaff;">Sources & Technical Data</h2>
+---
+<a name="sources-data"></a>
+<h2>Sources & Technical Data</h2>
 <h3 style="color: #304090;">Credible Sources</h3>
 <ul style="padding-left:18px; margin:0 0 12px;">
-<li><a href="https://www.youtube.com/watch?v=CgCVZdcKcqY" rel="nofollow noopener" target="_blank">Official MV — BLACKPINK YouTube</a></li>
+<li> @witu0518 on YouTube - Comment on "BLACKPINK - '뛰어(JUMP)' M/V"</li>
+<li> @gfskas on YouTube - Comment on "BLACKPINK - '뛰어(JUMP)' M/V" (Combined with observations for analysis)</li>
+<li> @ohshee_b on YouTube - Comment on "BLACKPINK - '뛰어(JUMP)' M/V"</li>
+<li> @Xyoulovecute on YouTube - Comment on "BLACKPINK - '뛰어(JUMP)' M/V"</li>
+<li> @dicksonjalang on YouTube - Comment on "BLACKPINK - '뛰어(JUMP)' M/V"</li>
+<li> @Aykzko on YouTube - Comment on "BLACKPINK - '뛰어(JUMP)' M/V"</li>
+<li> @yolahf on YouTube - Comment on "BLACKPINK - '뛰어(JUMP)' M/V"</li>
+<li> @littlebunny_edits on YouTube - Comment on "BLACKPINK - '뛰어(JUMP)' M/V"</li>
+<li> @miosogno4763 on YouTube - Comment on "BLACKPINK - '뛰어(JUMP)' M/V"</li>
 </ul>
+
 <script type="application/ld+json">
 {
 "@context": "https://schema.org",
 "@type": "MusicVideoObject",
-"name": "BLACKPINK - ‘뛰어(JUMP)’ M/V Explained",
-"description": "A deep-dive MV analysis of BLACKPINK's 'JUMP'. We explore the vibrant storyline, empowering lyrics, visual metaphors of freedom, and the future prospects for the group after this monumental comeback.",
+"name": "BLACKPINK - 'JUMP' MV Review: The Anthem That Electrified My K-Pop Soul",
+"description": "MV Explained: A deep, personal dive into BLACKPINK's 'JUMP'—analyzing its electrifying impact, empowering lyrics, and the stunning visual story that keeps it soaring. Rediscover the power that keeps this anthem unforgettable.",
 "byArtist": {
 "@type": "MusicGroup",
 "name": "BLACKPINK"
@@ -174,15 +164,18 @@ loading="lazy"></iframe>
 "uploadDate": "2025-07-11T00:00:00Z",
 "inLanguage": "en",
 "genre": "K-Pop, Dance-Pop, Hip Hop",
-"thumbnailUrl": "https://www.kcontents.site/images/blackpink-jump-mv-screencap-2025.webp",
-"embedUrl": "https://www.youtube.com/embed/CgCVZdcKcqY?rel=0",
+"thumbnailUrl": "https://kcontents.site/images/blackpink-jump-mv-review.webp",
+"embedUrl": "https://www.youtube.com/embed/CgCVZdcKcqY",
 "publisher": {
 "@type": "Organization",
 "name": "YG Entertainment"
 },
 "potentialAction": {
 "@type": "WatchAction",
-"target": "https://www.youtube.com/watch?v=CgCVZdcKcqY"
+"target": {
+"@type": "EntryPoint",
+"urlTemplate": "https://www.youtube.com/watch?v=CgCVZdcKcqY"
+}
 }
 }
 </script>
