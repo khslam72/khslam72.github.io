@@ -32,7 +32,7 @@ image:
 </p>
 
 <div align="center">
-<img src="/images/blackpink-jump-mv-review.webp"
+<img src="/images/blackpink-jump-mv-screencap-2025.webp"
 alt='BLACKPINK members in the "JUMP" official MV explained analysis thumbnail by YG Entertainment'
 width="100%"
 loading="lazy"
