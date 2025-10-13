@@ -23,7 +23,7 @@ tags:
 
 I've watched Fake Love more times than I can count at this point, and I'm still catching details I missed. That's not hyperbole—it's the mark of a music video that was designed to reward obsessive rewatching.
 
-Released on May 18, 2018, as the lead single from LOVE YOURSELF 轉 'Tear', Fake Love became BTS's highest-charting song at the time (#10 on Billboard Hot 100) and currently sits at over 1.2 billion views. But those numbers don't tell you why people keep coming back to it seven years later.
+Released on May 18, 2018, as the lead single from LOVE YOURSELF 轉 'Tear', Fake Love became BTS's highest-charting song at the time (#10 on Billboard Hot 100) and currently sits at over 1.3 billion views. But those numbers don't tell you why people keep coming back to it seven years later.
 
 Here's what I think happened: BTS and their team made a deliberate choice to build a visual language so dense with symbolism that casual viewers would get the surface emotion (loss, betrayal, self-destruction) while dedicated fans could spend months decoding layers. The result is an MV that works on multiple levels simultaneously, which is harder to pull off than it sounds.
 
