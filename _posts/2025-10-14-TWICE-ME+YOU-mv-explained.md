@@ -3,22 +3,9 @@ layout: post
 title: "TWICE's 'ME+YOU' Explained: Ten Years, Nine Hearts, Still Beating as One"
 description: "After a decade of people waiting for them to disband, TWICE wrote their own answer. Here's why ME+YOU is more than an anniversary track—it's proof that some things really do last."
 thumbnail: /images/twice-me-you-mv-screencap-2025.webp
-categories:
-  - K-POP MV Explained
-  - "Artist: TWICE"
-  - "Agency: JYP Entertainment"
-tags:
-  - "K-POP MV Explained"
-  - "TWICE"
-  - "ME+YOU"
-  - "ME+YOU Meaning"
-  - "K-Pop Analysis"
-  - 'Artist: TWICE'
-  - 'Agency: JYP Entertainment'
-  - "2025 K-Pop"
-  - "10th Anniversary"
+categories: ["K-POP MV Explained", "Artist: TWICE", "Agency: JYP Entertainment"]
+tags: ["K-POP MV Explained", "TWICE", "ME+YOU", "ME+YOU Meaning", "K-Pop Analysis", "Artist: TWICE", "Agency: JYP Entertainment", "2025 K-Pop", "10th Anniversary"]
 ---
-
 I've followed TWICE since debut, and I'm not going to lie—this one made me tear up. Not because it's sad, but because after ten years of predictions about their "inevitable" end, here they are: nine women who chose each other, wrote a song about it, and created something that feels like flipping through a decade of memories with your best friends.
 
 ME+YOU isn't trying to be the biggest comeback or the catchiest hook. It's quieter than that, more personal. And maybe that's exactly what a 10th anniversary should be.
