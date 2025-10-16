@@ -51,10 +51,10 @@ fetchpriority="high" />
 </ol>
 </details>
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:12px; margin-bottom: 20px;">
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:12px; margin: 32px 0;">
 <iframe src="https://www.youtube.com/embed/EmeW6li6bbo?rel=0"
 title="NMIXX - Blue Valentine (Official MV) Explained"
-style="position:absolute;top:0;left:0;width:100%;border:0;"
+style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
 allowfullscreen
 loading="lazy"></iframe>
 </div>
