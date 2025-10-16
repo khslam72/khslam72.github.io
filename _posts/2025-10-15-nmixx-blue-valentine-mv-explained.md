@@ -5,19 +5,16 @@ title: "NMIXX's 'Blue Valentine' Explained: When Love Leaves Bruises You Don't W
 description: "After years of polarizing 'mixx pop,' NMIXX finally found the balance. Here's why Blue Valentine isn't just their best title track—it's proof that staying true to yourself eventually pays off."
 thumbnail: /images/nmixx-blue-valentine-mv-screencap-2025.webp
 categories:
-  - 'K-POP MV Explained'
-  - "Artist: NMIXX"
-  - "Agency: JYP Entertainment"
+  - 'K-POP MV Explained'
+  - "Artist: NMIXX"
+  - "Agency: JYP Entertainment"
 tags:
-  - "K-POP MV Explained"
-  - "NMIXX"
-  - "Blue Valentine"
-  - "Blue Valentine Meaning"
-  - "K-Pop Analysis"
-  - 'Artist: NMIXX'
-  - 'Agency: JYP Entertainment'
-  - "2025 K-Pop"
-  - "First Full Album"
+  - "NMIXX"
+  - "Blue Valentine"
+  - "Blue Valentine Meaning"
+  - "K-Pop Analysis"
+  - "2025 K-Pop"
+  - "First Full Album"
 ---
 
 First listen, I thought: this is interesting. Bright and light, yet somehow sad at the same time.
@@ -87,7 +84,7 @@ This is NMIXX's first full-length album—a milestone that carries weight in an 
 
 **Third listen onward:** The more I play this, the sadder it gets. Not darker—sadder. There's a difference. It's the sadness of choosing to feel something painful because the alternative is feeling nothing at all. And somehow that choice feels right for this album. This is the perfect title track for what NMIXX is trying to say.
 
-But here's my concern: will general audiences sit with this long enough to feel what I felt on the second and third listen? Or will they hear "interesting song" and move on? 
+But here's my concern: will general audiences sit with this long enough to feel what I felt on the second and third listen? Or will they hear "interesting song" and move on? 
 
 NMIXX has always asked for patience. Blue Valentine is no different. It rewards attention. Whether the casual listener will give it that attention—that's the gamble.
 
@@ -251,46 +248,46 @@ They didn't chase trends. They refined their own sound until it became undeniabl
 
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "NMIXX's 'Blue Valentine' Explained: When Love Leaves Bruises You Don't Want to Heal",
-  "description": "Analysis of NMIXX's breakthrough title track Blue Valentine: the bruise metaphor, three years of musical refinement, curator's personal listening journey, and what it means for experimental K-pop groups.",
-  "image": "https://www.kcontents.site/images/nmixx-blue-valentine-mv-screencap-2025.webp",
-  "author": {
-    "@type": "Person",
-    "name": "K-Contents Curator"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "K-Contents Hub",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://www.kcontents.site/logo.png"
-    }
-  },
-  "datePublished": "2025-10-15",
-  "dateModified": "2025-10-16",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.kcontents.site/nmixx-blue-valentine-explained"
-  }
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "NMIXX's 'Blue Valentine' Explained: When Love Leaves Bruises You Don't Want to Heal",
+  "description": "Analysis of NMIXX's breakthrough title track Blue Valentine: the bruise metaphor, three years of musical refinement, curator's personal listening journey, and what it means for experimental K-pop groups.",
+  "image": "https://www.kcontents.site/images/nmixx-blue-valentine-mv-screencap-2025.webp",
+  "author": {
+    "@type": "Person",
+    "name": "K-Contents Curator"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "K-Contents Hub",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.kcontents.site/logo.png"
+    }
+  },
+  "datePublished": "2025-10-15",
+  "dateModified": "2025-10-16",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.kcontents.site/nmixx-blue-valentine-explained"
+  }
 }
 </script>
 
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "MusicVideoObject",
-  "name": "NMIXX - Blue Valentine",
-  "description": "Official music video for Blue Valentine by NMIXX from their 1st full album",
-  "thumbnailUrl": "https://www.kcontents.site/images/nmixx-blue-valentine-mv-screencap-2025.webp",
-  "uploadDate": "2025-10-15",
-  "duration": "PT3M18S",
-  "embedUrl": "https://www.youtube.com/embed/EmeW6li6bbo",
-  "byArtist": {
-    "@type": "MusicGroup",
-    "name": "NMIXX"
-  },
-  "genre": ["K-Pop", "Pop", "Mixx Pop", "Alt-Pop"]
+  "@context": "https://schema.org",
+  "@type": "MusicVideoObject",
+  "name": "NMIXX - Blue Valentine",
+  "description": "Official music video for Blue Valentine by NMIXX from their 1st full album",
+  "thumbnailUrl": "https://www.kcontents.site/images/nmixx-blue-valentine-mv-screencap-2025.webp",
+  "uploadDate": "2025-10-15",
+  "duration": "PT3M18S",
+  "embedUrl": "https://www.youtube.com/embed/EmeW6li6bbo",
+  "byArtist": {
+    "@type": "MusicGroup",
+    "name": "NMIXX"
+  },
+  "genre": ["K-Pop", "Pop", "Mixx Pop", "Alt-Pop"]
 }
 </script>
