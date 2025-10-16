@@ -120,9 +120,9 @@ All this confusion culminates in a single choice: **"If this love is over, 다�
 
 The MV visualizes the song’s **internal conflict** through **abrupt changes in spatial environment** that shock the viewer.
 
-### 1. The Abrupt Transition (Choreography Visualization)
+### 1. The Tempo Shift and Its Visualization
 
-* **0:42:** The soft atmosphere is suddenly broken by a **fiercely sharp, mechanized group choreography.** This moment of stark, **highly controlled movement** acts as the **visual climax** of the pre-chorus, symbolizing the **sudden, interruptive onset of pain (the bruise)** before the main chorus.
+* **0:42:** The soft, melancholic melody abruptly shifts into a driving, urgent tempo. This sudden musical change is immediately visualized by a **fiercely sharp, mechanized group choreography**, acting as the sonic and visual climax of the pre-chorus. It symbolizes the sudden, interruptive onset of pain (the bruise) before the main chorus.
 
 ### 2. The Fire in the Cold (Internal Conflict)
 
@@ -149,7 +149,7 @@ Three years of mixx pop experimentation built the foundation for this. The diffe
 
 NMIXX's signature move—slow verses exploding into urgent choruses—has always polarized listeners. Blue Valentine is seamless.
 
-The verse pulls you in with restraint, almost melancholic. The pre-chorus builds tension without forcing it. The visual transition begins at **0:42**, and the true sonic explosion hits at **0:56** when the **main chorus melody** finally anchors the track. This careful staging—a visual transition (0:42) leading into musical catharsis (0:56)—is what makes the mixx pop structure finally feel seamless and brilliant.
+The verse pulls you in with restraint, almost melancholic. The pre-chorus builds tension without forcing it. The tempo and melody shift dramatically at **0:42**, and the true sonic explosion hits at **0:56** when the **main chorus melody** finally anchors the track. This careful staging—a sharp melodic transition (0:42) leading into the full musical catharsis (0:56)—is what makes the mixx pop structure finally feel seamless and brilliant.
 
 ### Production That Embraces Warmth
 
