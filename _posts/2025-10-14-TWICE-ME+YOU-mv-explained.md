@@ -215,46 +215,46 @@ ME+YOU is the mission statement of that blueprint. It's them saying: this worked
 
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "TWICE's 'ME+YOU' Explained: Ten Years, Nine Hearts, Still Beating as One",
-  "description": "Analysis of TWICE's 10th anniversary title track ME+YOU: lyric breakdown, Korean cultural context, MV symbolism, and why nine members staying together for a decade matters in K-pop.",
-  "image": "https://www.kcontents.site/images/twice-me-you-mv-screencap-2025.webp",
-  "author": {
-    "@type": "Person",
-    "name": "K-Contents Curator"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "K-Contents Hub",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://www.kcontents.site/logo.png"
-    }
-  },
-  "datePublished": "2025-10-10",
-  "dateModified": "2025-10-15",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.kcontents.site/twice-me-you-explained"
-  }
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "MusicVideoObject",
-  "name": "TWICE - ME+YOU",
-  "description": "Official music video for ME+YOU by TWICE from TEN: The Story Goes On, celebrating 10 years together",
-  "thumbnailUrl": "https://www.kcontents.site/images/twice-me-you-mv-screencap-2025.webp",
-  "uploadDate": "2025-10-10",
-  "duration": "PT3M24S",
-  "embedUrl": "https://www.youtube.com/embed/zqorlX_5oHQ",
-  "byArtist": {
-    "@type": "MusicGroup",
-    "name": "TWICE"
-  },
-  "genre": ["K-Pop", "R&B", "Urban Pop"]
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "TWICE's 'ME+YOU' Explained: Ten Years, Nine Hearts, Still Beating as One",
+      "description": "Analysis of TWICE's 10th anniversary title track ME+YOU: lyric breakdown, Korean cultural context, MV symbolism, and why nine members staying together for a decade matters in K-pop.",
+      "image": "https://www.kcontents.site/images/twice-me-you-mv-screencap-2025.webp",
+      "author": {
+        "@type": "Person",
+        "name": "K-Contents Curator"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "K-Contents Hub",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://www.kcontents.site/logo.png"
+        }
+      },
+      "datePublished": "2025-10-10",
+      "dateModified": "2025-10-15",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.kcontents.site/twice-me-you-explained"
+      }
+    },
+    {
+      "@type": "MusicVideoObject",
+      "name": "TWICE - ME+YOU",
+      "description": "Official music video for ME+YOU by TWICE from TEN: The Story Goes On, celebrating 10 years together",
+      "thumbnailUrl": "https://www.kcontents.site/images/twice-me-you-mv-screencap-2025.webp",
+      "uploadDate": "2025-10-10",
+      "duration": "PT3M24S",
+      "embedUrl": "https://www.youtube.com/embed/zqorlX_5oHQ",
+      "byArtist": {
+        "@type": "MusicGroup",
+        "name": "TWICE"
+      },
+      "genre": ["K-Pop", "R&B", "Urban Pop"]
+    }
+  ]
 }
 </script>
