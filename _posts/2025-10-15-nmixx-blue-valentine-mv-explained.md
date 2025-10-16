@@ -20,11 +20,11 @@ tags:
   - "First Full Album"
 ---
 
-I wasn't ready for this to hit as hard as it did.
+There's a specific kind of satisfaction that comes from watching an artist you've quietly rooted for finally land the right song at the right moment. Blue Valentine is that moment for NMIXX.
 
-NMIXX has always been the group people either loved or couldn't understand. The experimental "mixx pop" sound divided opinions from day one. But Blue Valentine—their first full album title track—feels like the moment everything they've been building toward suddenly clicks into place.
+I've been tracking their trajectory since debut—not as a devoted fan, but as someone genuinely invested in whether their experimental approach would find its audience. The "mixx pop" concept was polarizing from day one. Bold, certainly. Accessible? Not always. And for three years, I watched them refine something the industry kept telling them to abandon.
 
-This isn't them abandoning their identity. It's them figuring out how to be themselves in a way that finally invites everyone in. And judging by the comment section across three languages, people are feeling it.
+Then Blue Valentine happened, and suddenly everything they'd been building toward clarified. This isn't them compromising their identity for commercial appeal. It's them finally articulating their vision in a language that invites everyone in. The comment sections across Korean, Japanese, and English communities tell the same story: people feel this one differently.
 
 <div align="center">
 <img src="https://www.kcontents.site/images/nmixx-blue-valentine-mv-screencap-2025.webp"
@@ -41,12 +41,11 @@ fetchpriority="high" />
 <summary><strong>Table of Contents</strong></summary>
 <ol>
 <li><a href="#quick-facts">Quick Facts & Credits</a></li>
-<li><a href="#what-blue-valentine-means">What "Blue Valentine" Actually Means</a></li>
-<li><a href="#mv-breakdown">The MV: Youth, Memory, and That Color Palette</a></li>
-<li><a href="#the-musical-shift">The Musical Shift That Changed Everything</a></li>
-<li><a href="#why-now">Why This Worked Now (And Not Before)</a></li>
-<li><a href="#fan-response">What Fans Are Feeling</a></li>
-<li><a href="#what-it-means">What This Means for NMIXX's Future</a></li>
+<li><a href="#the-bruise-metaphor">The Bruise Metaphor: What Blue Valentine Actually Means</a></li>
+<li><a href="#mv-language">The MV's Visual Language</a></li>
+<li><a href="#musical-maturity">The Musical Maturity Three Years Built</a></li>
+<li><a href="#timing-matters">Why Timing Mattered</a></li>
+<li><a href="#industry-significance">What This Means Beyond NMIXX</a></li>
 <li><a href="#sources">Sources & Credits</a></li>
 </ol>
 </details>
@@ -73,138 +72,141 @@ loading="lazy"></iframe>
 <div><strong>Agency</strong>: JYP Entertainment</div>
 <div><strong>Genre</strong>: Pop, Mixx Pop, Alt-Pop</div>
 <div><strong>Runtime</strong>: 3:18</div>
-<div><strong>MV Views</strong>: Racing toward 20M</div>
+<div><strong>Notable</strong>: First full album after 3 years</div>
 </div>
 </div>
 
-**What matters**: This is NMIXX's first full-length album after three years of mini albums and singles. The title is deliberate—"Blue Valentine" represents love that's both warm and cold, beautiful and painful, the kind that leaves bruises you don't want to heal.
+This is NMIXX's first full-length album—a milestone that carries weight in an industry where many groups never make it past mini albums. The wait was deliberate, and it shows in the cohesiveness of both the album and this title track.
 
-<a name="what-blue-valentine-means"></a>
-## What "Blue Valentine" Actually Means
+<a name="the-bruise-metaphor"></a>
+## The Bruise Metaphor: What Blue Valentine Actually Means
 
-The Korean term **블루 발렌타인** (Blue Valentine) is inherently contradictory, and that's the point. 
+The title itself is a contradiction, and that's where its power lies.
 
-Valentine's Day is traditionally red—roses, hearts, warmth, passion. But "blue" in Korean (and English) carries connotations of coldness, sadness, melancholy. A "blue valentine" is love that's simultaneously hot and cold, painful and cherished, over but not really over.
+Valentine's Day operates in reds—roses, hearts, warmth, the socially acceptable packaging of romance. But **블루 발렌타인** (Blue Valentine) introduces cold into that equation. In both Korean and English, blue carries weight: melancholy, distance, the emotional temperature drop when something ends.
 
-The song's central metaphor is **love as a bruise** (사랑이란 bruise). In Korean, the phrase **파랗게 멍이 든** (bruised blue) describes both the physical mark and the emotional state. The twist? The narrator doesn't want it to heal. "낫지는 않길 / Cause it's you"—I hope it doesn't heal, because it's from you.
+The central metaphor threads through the entire song: **사랑이란 bruise** (love is a bruise). More specifically, **파랗게 멍이 든 my heart** (my heart, bruised blue). Then comes the twist that elevates this from standard breakup fare: "낫지는 않길 / Cause it's you" (I hope it doesn't heal / Because it's you).
 
-That's the emotional core: **choosing to keep the pain because it's proof the love existed.** Even if it's over, even if it hurt, it mattered. And that's worth holding onto.
+That's the emotional architecture. The bruise is proof. It's painful, yes, but it's evidence that something real happened. And the narrator would rather carry that pain than lose the evidence of having felt something profound.
 
 ### The Temperature Paradox
 
-Throughout the lyrics, hot and cold imagery collides:
+Watch how hot and cold imagery collides throughout:
+
 - "식어버린 너의 색은 blue" (Your cooled-down color is blue)
-- "식어도 타오르는 얼음 속 불꽃" (A flame in ice that burns even when cold)
-- "Hot and icy / But I like it"
+- "식어도 타오르는 얼음 속 불꽃" (A flame in ice that burns even when cold)  
+- "Hot and icy / But I like it / It's so you"
 
-This isn't confusion—it's the reality of complicated love. Relationships aren't just one temperature. They fluctuate. NMIXX is capturing that emotional whiplash where you're simultaneously hurt and hopeful, done and desperate to try again.
+This isn't confusion—it's accuracy. Relationships don't maintain single temperatures. They fluctuate wildly, sometimes within the same conversation. NMIXX is capturing that whiplash where you're simultaneously exhausted and energized, done and desperate to try again.
 
-The refrain "If this love is over / 다시 뛰어들어 난" (I'll dive in again) is both resignation and defiance. Even knowing it might end the same way, the choice is to experience it fully rather than protect yourself from feeling.
+The recurring line "If this love is over / 다시 뛰어들어 난" (If this love is over / I'll dive back in) operates as both resignation and defiance. It's the choice to experience something fully, even knowing it might end the same way, rather than protect yourself from feeling at all.
 
-<a name="mv-breakdown"></a>
-## The MV: Youth, Memory, and That Color Palette
+What struck me most is how this flips the typical K-pop breakup narrative. Usually, the resolution is moving on, healing, becoming stronger without them. Blue Valentine says: actually, I'm keeping this. The pain is mine, and I'm not letting go of it because letting go means pretending it didn't matter.
 
-### The Visual Strategy
+<a name="mv-language"></a>
+## The MV's Visual Language
 
-The MV opens with warm, golden-hour lighting that immediately signals **youth and nostalgia**. We see the members in casual, lived-in clothing—not styled to perfection, but comfortable. This isn't about looking untouchable. It's about feeling real.
+The video opens in golden hour, and that choice immediately establishes the emotional register—this is memory, nostalgia, the warm wash of looking back at something you can't quite reach anymore.
 
-At **0:34**, there's a brief shot of them running together through a field, and it reminded me of every coming-of-age film where the characters are chasing something they can't quite name. That's the visual language here: the restless energy of being young and feeling everything too intensely.
+### Color as Emotional Temperature
 
-### The Color Grading That Tells the Story
+The cinematography doesn't just look good; it's doing narrative work. Pay attention to how the color grading shifts between warm and cool tones, often mid-scene. When the members are together, running through fields at **0:34**, the palette is golden, amber, soft pink. Then the frame will cut to a solo shot, and suddenly the lighting is cooler—blue-tinted, slightly desaturated.
 
-Pay attention to how the color palette shifts. The video alternates between:
-- **Warm tones** (golden, orange, soft pink) during nostalgic, tender moments
-- **Cool tones** (blue, gray, desaturated) during the more melancholic sections
+This isn't random. It's the visual equivalent of the song's temperature paradox. At **1:42** during Haewon's bridge, the lighting goes noticeably clinical—all cool blues and grays. Then it warms back up for the final chorus push. The video is literally showing you the emotional oscillation the lyrics describe.
 
-This isn't random. It's visually reinforcing the "hot and icy" paradox of the song. At **1:42**, when Haewon sings the bridge, the lighting goes noticeably cooler—blue-tinted, almost clinical. Then it warms back up for the final chorus. The video is literally showing you the temperature fluctuations the lyrics describe.
+### Youth Without Innocence
 
-### The Fire Imagery at 1:33
+The styling is deliberately casual—lived-in clothing, minimal makeup, hair that looks soft rather than sculptural. This isn't about looking untouchable or aspirational. It's about looking real, present, human.
 
-There's this brief, almost easy-to-miss moment where Lily has flame effects near her head. It's playful, almost cartoonish, but it's also **literal visualization of the "flame in ice" metaphor**. Even in the cold (blue) emotional landscape, there's still fire (passion, warmth, refusal to let go).
+There's a recurring visual motif of the members in motion—running, walking, turning. Never static. At **1:33**, there's this brief moment where Lily has flame effects near her, and it's so quick you might miss it. But it's the literal visualization of "얼음 속 불꽃" (flame in ice)—even in the cold emotional landscape, there's still fire refusing to go out.
 
-### The Ending: Unresolved
+The outdoor sequences feel like every coming-of-age film's third act—that restless energy of being young enough to feel everything intensely but old enough to know it won't last. The members aren't performing at the camera; they're existing in the space, and the camera is observing them. That shift in energy matters.
 
-The MV doesn't give you closure. It ends mid-emotion, mid-story. We don't see them "getting over it" or "moving on." Because that's not what the song is about. Blue Valentine is about staying in the complicated feeling, not rushing to resolve it.
+### The Ending's Refusal
 
-<a name="the-musical-shift"></a>
-## The Musical Shift That Changed Everything
+The MV doesn't resolve. It ends mid-emotion, no closure, no "and then they moved on and were fine." Because that's not what Blue Valentine is about. It's about staying in the complicated feeling, not rushing to resolve it for the audience's comfort.
 
-### The Tempo Changes Everyone's Talking About
+<a name="musical-maturity"></a>
+## The Musical Maturity Three Years Built
 
-One comment I kept seeing: "비트는 느렸다가 엄청 빨라지는데" (The beat goes slow then suddenly fast). This is NMIXX's signature move, but executed more smoothly than ever before.
+Here's what three years of experimentation bought them: **the confidence to let the song breathe.**
 
-The verses are restrained, almost melancholic. Then the pre-chorus builds tension. And when the chorus hits at **0:47**, it explodes into this driving, urgent rhythm that feels like running toward something you know might hurt you but can't resist.
+### The Tempo Shifts That Finally Work
 
-But here's what's different from earlier NMIXX tracks: **the transitions are seamless**. Previous title tracks sometimes felt like two songs forcibly stitched together. Blue Valentine flows. The tempo shifts feel emotionally motivated, not just structurally imposed.
+NMIXX's signature move has always been the tempo change—slow verses exploding into urgent choruses, then back down. Previous title tracks sometimes felt like two songs stitched together, and the seam showed. Blue Valentine is seamless.
 
-### Why It Sounds "Warmer"
+The verse is restrained, almost melancholic, pulling you into the vulnerability. The pre-chorus builds tension without forcing it. Then the chorus at **0:47** hits with this propulsive energy that feels like running toward something you know might hurt you but can't resist.
 
-Despite the cold imagery in the lyrics, the production is actually quite warm. There's organic instrumentation mixed with the electronic elements—guitars in the background, drums that sound live rather than programmed. It creates intimacy.
+The difference? These shifts feel emotionally motivated now, not structurally imposed. The tempo changes because the feeling changes, not because the song structure demands variety.
 
-The vocal production also feels less processed than usual. You can hear breath, texture, individual tone. Especially in Sullyoon's parts—her voice has this soft, vulnerable quality that the production wisely doesn't over-polish.
+### Production That Embraces Warmth
+
+Despite the cold imagery in the lyrics, the production is surprisingly warm. There's organic instrumentation mixed with electronic elements—guitars you can actually hear, drums that sound played rather than programmed. It creates intimacy.
+
+The vocal production also shows restraint. You can hear breath, texture, the individual qualities of each voice. Sullyoon's parts in particular benefit from this—her tone has a soft, slightly fragile quality that over-processing would destroy. They wisely left it alone.
 
 ### Haewon's Bridge at 2:59
 
-This is the moment that elevates the entire song. The production strips down to almost nothing, and Haewon's voice carries the emotional weight alone. One comment specifically called this out: "개인적으로 이번 노래는 마지막에 해원이 음색이 노래를 더더 살려준다" (Personally, Haewon's tone at the end really brings the song to life).
+This is the moment that justified the entire three-year journey for me.
 
-That bridge is the exhale after holding your breath through the entire relationship. It's the moment of honest admission before the final, defiant chorus where they choose to dive back in anyway.
+The production strips down to almost nothing. Haewon's voice carries the entire emotional weight alone, and she doesn't flinch. There's this vulnerability in how she delivers "All I know, it just gets better with time"—you can hear the slight waver, the breath control, the intentional softness.
 
-<a name="why-now"></a>
-## Why This Worked Now (And Not Before)
+Korean comments specifically called this out: "개인적으로 이번 노래는 마지막에 해원이 음색이 노래를 더더 살려준다" (Personally, Haewon's tone at the end really brings the song to life). They're right. That bridge is the exhale after holding your breath through the entire relationship. It's honest admission before the final chorus where they choose, again, to dive back in anyway.
 
-NMIXX has been doing experimental pop since debut. So why is Blue Valentine the one that's connecting?
+<a name="timing-matters"></a>
+## Why Timing Mattered
 
-### The Timing: Seasonal Perfection
+NMIXX has been doing experimental pop since debut. So why is Blue Valentine the one connecting?
 
-The song dropped right as the weather turned cold in Korea. Comments kept mentioning this: "진짜 환절기의 따뜻하고 쌀쌀함이 오고 가는 가을이 눈에 보인다" (You can really see autumn with its back-and-forth between warm and chilly).
+### Seasonal Resonance
 
-Blue Valentine captures that transitional season feeling—not quite summer, not yet winter. Still holding onto warmth while accepting the cold. It's the musical equivalent of wearing a light jacket in October when you're not sure if you'll need it.
+The song dropped precisely as autumn temperatures hit Korea—that specific moment when you need a jacket in the morning but not by afternoon. The comments kept mentioning this: "진짜 환절기의 따뜻하고 쌀쌀함이 오고 가는 가을이 눈에 보인다" (You can really see autumn with its back-and-forth between warm and chilly).
 
-### The Maturity: Three Years of Growth
+Blue Valentine captures transitional season energy—not quite summer, not yet winter, still holding onto warmth while accepting the cold is coming. Musically, it's the equivalent of October weather.
 
-This is their first full album, released three years after debut. That timing matters. They're not rookies trying to prove themselves anymore. They're established artists who've earned the right to show range.
+That timing isn't luck. It's understanding that songs don't exist in a vacuum. The same track released in July or February would've landed differently. October was the moment this particular emotional temperature made sense.
 
-The confidence is audible. They're not forcing the experimental elements. They're letting the song breathe. The "mixx pop" is still there—the tempo shifts, the genre-blending—but it's integrated naturally rather than feeling like a gimmick.
+### Career Positioning
 
-### The Balance: Accessibility Without Compromise
+Three years post-debut, first full album—this is a different NMIXX than the rookies who debuted with O.O. They've earned the right to show range now, to trust that their audience will follow them somewhere softer.
 
-Here's what's brilliant: Blue Valentine is their most accessible title track without sacrificing their identity. 
+The confidence is audible. They're not forcing the experimental elements. They're not trying to prove they can do something difficult. They're just making music that interests them, trusting their technical ability to execute whatever the song requires.
 
-Earlier songs polarized because they demanded you meet them on their terms. Blue Valentine meets you halfway. It has hooks. It has emotional immediacy. But it's still undeniably NMIXX—nobody else in K-pop sounds like this.
+### The Balance That Took Time
 
-One comment nailed it: "대중성도 잡고 엔믹스 색깔도 놓치지 않았고 진짜 완벽해" (They captured public appeal without losing NMIXX's color, and it's perfect).
+Here's what's brilliant: Blue Valentine is their most accessible title track without sacrificing identity.
 
-<a name="fan-response"></a>
-## What Fans Are Feeling
+Earlier releases demanded you meet them on their terms—take it or leave it energy that polarized audiences. Blue Valentine meets you halfway. It has melodic hooks. It has emotional immediacy. But it's still unmistakably NMIXX in a way that nobody else in K-pop sounds like.
 
-The emotional response in the comments is overwhelming, and it's not just excitement—it's **relief**.
+A Korean comment captured it perfectly: "대중성도 잡고 엔믹스 색깔도 놓치지 않았고 진짜 완벽해" (They captured public appeal without losing NMIXX's color, and it's perfect). That balance—accessibility without compromise—is what three years of experimentation built toward.
 
-Fans who've supported NMIXX through the experimental, divisive era are watching them finally get recognition. The recurring sentiment: "늦게뜨는 별이 가장 아름다워, 그게 엔믹스야" (The star that rises late is the most beautiful—that's NMIXX).
+<a name="industry-significance"></a>
+## What This Means Beyond NMIXX
 
-There's also profound gratitude for the group staying true to themselves. "남들하는 뻔한 노래하지않고 자기만의 길을 걸어온 엔믹스" (NMIXX walked their own path instead of making predictable songs like everyone else).
+Blue Valentine's success (and yes, early chart performance and engagement metrics indicate success) proves something the K-pop industry needs to see: **experimental groups can find their audience if given time to refine their vision.**
 
-What moved me most were comments from non-fans: "팬 아닌데 그냥 조회수 하나라도 더 올리려고 뮤비 계속 보고" (I'm not a fan, but I keep watching the MV to add views). When people outside the fandom actively want you to succeed, you've created something special.
+For three years, NMIXX was the group critics respected but the public wasn't sure about. This is the inflection point where public perception catches up to industry assessment. The Melon chart position, the YouTube engagement, the cross-fandom support—these aren't flukes. They're the result of consistent artistic development.
 
-The word that keeps appearing in Japanese comments: **唯一無二** (yuiitsu-muni)—one of a kind, irreplaceable. After three years of being told they're "too weird" or "too experimental," they're now being celebrated for being exactly what makes them different.
+The comments from non-fans are particularly telling: "팬 아닌데 그냥 조회수 하나라도 더 올리려고 뮤비 계속 보고" (I'm not a fan, but I keep watching the MV to add views). When people outside your fandom actively want you to succeed, you've created something that transcends typical stan culture.
 
-<a name="what-it-means"></a>
-## What This Means for NMIXX's Future
+### The Three-Year Blueprint
 
-Blue Valentine isn't just a good song—it's a **turning point**.
+NMIXX's path from "polarizing" to "praised" might become instructive for other experimental groups:
 
-For three years, NMIXX has been the group critics loved and the public wasn't sure about. This is the moment where public perception catches up to industry respect. The Melon chart performance, the YouTube engagement, the cross-fandom support—these aren't flukes.
+1. **Maintain artistic consistency** (don't chase trends just because the first approach didn't immediately work)
+2. **Trust technical excellence** (their vocal ability gave them credibility even when the songs were divisive)
+3. **Refine rather than abandon** (mixx pop in 2025 sounds like what mixx pop in 2022 was reaching toward)
+4. **Wait for the audience to adjust** (sometimes you're not wrong; you're just early)
 
-The blueprint is now clear: keep the experimental spirit, but frame it within emotional accessibility. Make music that rewards attention without punishing casual listening. Trust their vocal ability to carry ambitious production without overwhelming the listener.
+A Chinese comment articulated this journey beautifully: "出道三年零八个月，我们终于迎来了第一张正规专" (Three years and eight months since debut, we finally welcome the first full album). The wait wasn't wasted time. It was necessary development.
 
-One comment captured this perfectly: "처음 믹스팝이라 하면서 나왔을 땐 그냥 이어붙이기라 생각했는데, 포기하지 않고 계속 파고들어서 이제 정말 섞이는 느낌이 드네" (When mixx pop first came out, I thought it was just stitching songs together, but they kept digging deeper and now it really feels mixed).
+### What's Next
 
-They didn't chase trends. They refined their own sound until it became undeniable.
+The blueprint is now clear for NMIXX: keep the experimental spirit, but frame it within emotional accessibility. Make music that rewards attention without punishing casual listening. Trust their vocal ability to carry ambitious production without overwhelming the listener.
 
-### The Industry Impact
+One comment saw the long game: "처음 믹스팝이라 하면서 나왔을 땐 그냥 이어붙이기라 생각했는데, 포기하지 않고 계속 파고들어서 이제 정말 섞이는 느낌이 드네" (When mixx pop first came out, I thought it was just stitching songs together, but they kept digging deeper and now it really feels mixed).
 
-If Blue Valentine succeeds commercially (and early signs suggest it will), it proves that K-pop audiences will embrace experimental music **if given time to adjust**. Not every group needs to sound like the current chart-toppers. There's room for groups that challenge expectations—if they're patient enough.
-
-NMIXX's three-year journey from "polarizing" to "praised" might become the roadmap for other experimental groups. Stay consistent. Trust your artistic vision. Wait for the audience to catch up.
+They didn't chase trends. They refined their own sound until it became undeniable. That's the path worth following.
 
 ---
 
@@ -212,27 +214,27 @@ NMIXX's three-year journey from "polarizing" to "praised" might become the roadm
 ## Sources & Credits
 
 **Primary Sources:**
-- [NMIXX "Blue Valentine" Official MV - NMIXX YouTube](https://www.youtube.com/watch?v=EmeW6li6bbo)
-- [Blue Valentine Lyric Translation Video](https://www.youtube.com/watch?v=PklSropRKIc)
+- [NMIXX "Blue Valentine" Official MV](https://www.youtube.com/watch?v=EmeW6li6bbo)
+- [Blue Valentine Lyric Translation](https://www.youtube.com/watch?v=PklSropRKIc)
 - [Blue Valentine Analysis Video](https://www.youtube.com/watch?v=-_mBc3WEoQ0)
 
 **Album Context:**
-- First full-length album after 3 years
-- Title: Blue Valentine (블루 발렌타인)
-- Concept: Love that's simultaneously hot and cold, painful and cherished
-- Chart Performance: #1 on Bugs, #11 on Melon, trending #2 on YouTube Korea
+- Album: Blue Valentine (1st Full Album)
+- Release: October 2025
+- Significance: First full-length album after 3 years of mini albums and singles
+- Chart Performance: #1 Bugs, #11 Melon, #2 YouTube Trending (Korea)
 
-**Fan Response Analysis:**
-- Multi-language comment analysis (Korean, Japanese, English, Chinese)
-- Recurring themes: Relief, vindication, pride in group's artistic persistence
-- Cross-fandom support from non-fans
-- Emphasis on seasonal timing and emotional resonance
+**Production Notes:**
+- Genre: Pop with tempo shifts (refined "mixx pop" approach)
+- Core Metaphor: Love as bruise (사랑이란 bruise)
+- Musical Evolution: Warmer production, organic instrumentation, less vocal processing
+- Key Moment: Haewon's stripped-down bridge at 2:59
 
-**Musical Elements:**
-- Genre: Pop with tempo shifts (signature "mixx pop" style)
-- Key metaphor: Love as bruise (사랑이란 bruise)
-- Production: Warmer, more organic instrumentation than previous releases
-- Vocal focus: Less processing, more texture and breath
+**Community Response Analysis:**
+- Multi-language engagement (Korean, Japanese, English, Chinese)
+- Recurring themes: Vindication, relief, pride in artistic persistence  
+- Notable cross-fandom support from non-fans
+- Emphasis on seasonal timing and emotional authenticity
 
 ---
 
@@ -241,7 +243,7 @@ NMIXX's three-year journey from "polarizing" to "praised" might become the roadm
   "@context": "https://schema.org",
   "@type": "Article",
   "headline": "NMIXX's 'Blue Valentine' Explained: When Love Leaves Bruises You Don't Want to Heal",
-  "description": "Analysis of NMIXX's first full album title track Blue Valentine: the meaning behind love as a bruise, why the tempo shifts finally work, how three years of experimental music led to this moment, and what it means for K-pop groups that refuse to follow trends.",
+  "description": "Analysis of NMIXX's breakthrough title track Blue Valentine: the bruise metaphor, three years of musical refinement, why the timing mattered, and what it means for experimental K-pop groups.",
   "image": "https://www.kcontents.site/images/nmixx-blue-valentine-mv-screencap-2025.webp",
   "author": {
     "@type": "Person",
