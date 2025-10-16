@@ -130,7 +130,7 @@ The MV visualizes the song’s **internal conflict** through **abrupt changes in
 
 ### 3. The Inner Pain: Anatomical Metaphor (1:50)
 
-* **1:42:** **Kyujin's spoken-word segment** begins, anchoring the emotional whiplash of the **"Hot and Icy"** paradox with sharp vocal delivery.
+* **1:42:** **Jiwoo's spoken-word segment** begins, anchoring the emotional whiplash of the **"Hot and Icy"** paradox with sharp vocal delivery.
 * **1:50:** The most symbolic visual occurs as the member **(Jiwoo, presumed)** is shown with her **skeletal ribcage exposed.** This is a dive into the **anatomical core of the emotional bruise**, where the members then perform their choreography amidst the **massive bone structures (the 'ruins of love').** This sequence makes the metaphor of enduring pain both visible and physical.
 
 ### 4. The Coldness and The Embrace (Final Resolution)
@@ -231,7 +231,7 @@ They didn't chase trends. They refined their own sound until it became undeniabl
 - Genre: Pop with tempo shifts (refined "mixx pop" approach)
 - Core Metaphor: Love as bruise that you choose not to heal
 - Musical Evolution: Warmer production, organic instrumentation, restrained vocal processing
-- Key Moments: Kyujin's rap at 1:42, Haewon's soft vocal at 2:57
+- Key Moments: Jiwoo's rap at 1:42, Haewon's soft vocal at 2:57
 
 **Community Response:**
 - 20M views in 3 days (fastest for NMIXX)
@@ -242,7 +242,7 @@ They didn't chase trends. They refined their own sound until it became undeniabl
 
 **Visual References:**
 - 1:32 - Lily's flame effect visual
-- 1:42 - Kyujin's emotional whiplash part
+- 1:42 - Jiwoo's emotional whiplash part
 - 1:50 - Anatomical/skeletal structure set transition
 - 3:02 - Haewon and Bae's embrace/towel scene
 
