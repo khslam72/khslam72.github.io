@@ -5,7 +5,7 @@ title: "NMIXX's 'Blue Valentine' Explained: When Love Leaves Bruises You Don't W
 description: "After years of polarizing 'mixx pop,' NMIXX finally found the balance. Here's why Blue Valentine isn't just their best title track—it's proof that staying true to yourself eventually pays off."
 thumbnail: /images/nmixx-blue-valentine-mv-screencap-2025.webp
 categories:
-  - K-POP MV Explained
+  - 'K-POP MV Explained'
   - "Artist: NMIXX"
   - "Agency: JYP Entertainment"
 tags:
@@ -247,10 +247,7 @@ They didn't chase trends. They refined their own sound until it became undeniabl
 - 1:32 - Lily's flame effect visual
 - 1:42 - Kyujin's emotional whiplash part
 - 1:50 - Anatomical/skeletal structure set transition
-- 2:57 - Haewon's vocal bridge start
 - 3:02 - Haewon and Bae's embrace/towel scene
-
-**[이하 스크립트 태그는 그대로 유지합니다.]**
 
 <script type="application/ld+json">
 {
