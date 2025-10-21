@@ -92,9 +92,9 @@ The video opens in a classroom, and immediately something feels off. Not wrong�
 
 There's no linear story here, and honestly, there doesn't need to be. What we're watching is an emotional progression: the chaos of catching feelings (wind), the intensity of actually feeling them (fire), and finally, the contentment of being in them (earth, represented by that adorable final shot of all six crammed into a tiny convertible under a starry sky).
 
-What got me on repeated viewings is how comfortable they look in this artificial world. At **1:42**, they're dancing around a legitimately burning vintage car, and nobody looks concerned. They're not trying to "act" cool—they just are. That nonchalance in the face of literal fire is such a perfect metaphor for the song's message: yeah, love feels like a natural disaster, but we're vibing with it.
+What got me on repeated viewings is how comfortable they look in this artificial world. They're dancing around a legitimately burning vintage car, and nobody looks concerned. They're not trying to "act" cool—they just are. That nonchalance in the face of literal fire is such a perfect metaphor for the song's message: yeah, love feels like a natural disaster, but we're vibing with it.
 
-The sets are intentionally cheap-looking. Those oversized pencils at **1:12**? The miniature car at **2:05**? They're not trying to fool anyone. And that's the genius—by making the artifice obvious, they create a safe space where these exaggerated emotional metaphors don't feel melodramatic. Of course you feel like you're on fire when you're in love. Of course everything feels like a tornado. The video says: "Yeah, we know it's dramatic. It's supposed to be."
+The sets are intentionally cheap-looking. Those oversized pencils? The miniature car at the end? They're not trying to fool anyone. And that's the genius—by making the artifice obvious, they create a safe space where these exaggerated emotional metaphors don't feel melodramatic. Of course you feel like you're on fire when you're in love. Of course everything feels like a tornado. The video says: "Yeah, we know it's dramatic. It's supposed to be."
 
 <a name="lyrics-meaning"></a>
 ## Lyrics & meaning
@@ -109,7 +109,7 @@ What I love is how the lyrics don't try to resolve the chaos. The whole song is 
 
 ### That Speed Rap Section
 
-Can we talk about the "ja-ja-gan-da-da-da" part at **0:55**? 
+Can we talk about the **1:09** part? "Baby boo, my sweetie darling, think I love you more"—fans can't stop replaying this moment. 
 
 Taesan reportedly took 27 takes to get it right. TWENTY-SEVEN. And then they perform it live, with choreography, while holding handheld mics. The audacity of writing something that difficult and then refusing to lip-sync it is very on-brand for this group.
 
@@ -126,11 +126,30 @@ For a generation that grew up being told to "tone it down" and "be realistic," t
 <a name="curators-deep-dive"></a>
 ## Beneath the Surface: A Multi-Layered Analysis
 
+### Fan-Favorite Moments That Define The Song
+
+Looking through what fans are actually talking about, certain moments emerge as universally beloved:
+
+**0:19 - Taesan's Opening**  
+Multiple fans timestamped this moment. There's something about how Taesan delivers "다~ 참아주는데 이번은 못넘어가" (I endure everything, but I can't let this one go) that hits. His vocal tone here—slightly frustrated, definitely determined—sets the emotional temperature for everything that follows.
+
+**0:44 - Riwoo's Moment**  
+Fans kept coming back to this part. Riwoo's voice has this unique texture that cuts through the production in a way that feels intimate despite the chaos around it. When he sings "Baby, baby, ready or not," there's a vulnerability that balances the song's overall confidence.
+
+**1:23 - Jaehyun's Rap**  
+This got so many comments. "Jaehyun's rap >>>" became a whole thing. His flow here is effortless—that "Manners maketh man / 몸에 배어 있는 에티켓" delivery shows technical skill while maintaining character. He's not just rapping; he's embodying this charming, slightly cocky persona that works perfectly.
+
+**1:42 - The Fire Scene**  
+Fans marked this as a favorite repeatedly. The juxtaposition of the members being completely unbothered while literally surrounded by flames is peak BOYNEXTDOOR energy. It's chaos embraced rather than chaos survived.
+
+**1:53-1:54 - The "Lit" Controversy**  
+Multiple fans corrected the official lyrics here: "Baby baby ready or not, baby baby make me feel so **lit**" (not "good"). This became a community inside joke—fans knowing the lyrics better than the official channel. The word choice matters too: "lit" has that Gen Z energy that "good" just doesn't capture.
+
 ### The Styling: Relatable on Purpose
 
 One thing that struck me from day one: these kids are dressed like... kids.
 
-There's no designer fantasy here. Leehan's wearing a Carhartt jacket at **1:49**—the kind you'd see on any college campus. Jaehyun's got what looks like a Stüssy hoodie at **0:18**. These are brands actual teenagers and twenty-somethings wear, not high-fashion labels that cost more than rent.
+There's no designer fantasy here. Leehan's wearing what looks like a Carhartt jacket. Jaehyun's got what appears to be a Stüssy hoodie at **0:19**. These are brands actual teenagers and twenty-somethings wear, not high-fashion labels that cost more than rent.
 
 This was a strategic choice by KOZ Entertainment, and it's paying off a year later. While other groups are serving untouchable luxury, BOYNEXTDOOR is serving "I might actually know someone who dresses like this." It makes the entire concept more accessible. The emotional chaos they're singing about feels more real when they look like they could be your actual neighbor.
 
@@ -138,25 +157,21 @@ Even the colors are muted—lots of blacks, browns, basics. No sparkles, minimal
 
 ### The Sound: ZICO's Signature Chaos
 
-If you've listened to ZICO's work with Block B, you'll recognize the DNA here immediately. That high-tension verse followed by the smooth melodic release? That's his calling card.
+If you've listened to ZICO's work with Block B, you'll recognize the DNA here immediately. That high-tension buildup followed by smooth melodic release? That's his calling card.
 
-The Jersey Club rhythm gives the track this frantic, bouncy energy. Those rapid triplet kicks create urgency, like you're running toward something (or away from something—emotions are confusing). But then the chorus hits and everything smooths out into this groove that feels like finally catching your breath.
+The Jersey Club rhythm gives the track this frantic, bouncy energy. Those rapid kicks create urgency, like you're running toward something (or away from something—emotions are confusing). But then the chorus hits and everything smooths out into this groove that feels like finally catching your breath.
 
-What I appreciate about the production is how much space there is. Modern K-pop can sometimes feel overstuffed with sounds, but "Earth, Wind & Fire" knows when to pull back. That 808 bass slide during transitions? The video-game-style sound effects at **0:55**? They're used sparingly, which makes them hit harder when they appear.
+What I appreciate about the production is how much space there is. Modern K-pop can sometimes feel overstuffed with sounds, but "Earth, Wind & Fire" knows when to pull back. The vocal mixing is interesting too—the members' voices are crisp and forward in the mix. You can hear every word, every breath, every texture in their voices. 
 
-The vocal mixing is interesting too. The members' voices are crisp and forward in the mix—you can hear every word, every breath, every texture in their voices. It's the opposite of the heavily processed, ethereal sound that's popular right now. These vocals feel human, immediate, present.
-
-And that matters, because when Taesan is speed-rapping or Woonhak is hitting a high note, you need to believe they can actually do this live. The production doesn't hide behind tricks—it showcases what they can actually do.
+And that matters, because when Taesan is speed-rapping at **1:09** or Woonhak is hitting high notes, you need to believe they can actually do this live. The production doesn't hide behind tricks—it showcases what they can actually do.
 
 ### The Cinematography: Embracing the Fake
 
 Director Rima Yoon made a choice that could've backfired spectacularly: she made everything look intentionally artificial.
 
-That classroom at **0:08**? Those are clearly props. The giant pencils? Obviously fake. The miniature car at **2:05**? Come on. But here's why it works: by making the artifice obvious, the MV creates its own internal logic. This isn't trying to be reality—it's a heightened emotional state visualized.
+That classroom? Those are clearly props. The giant pencils? Obviously fake. The miniature car? Come on. But here's why it works: by making the artifice obvious, the MV creates its own internal logic. This isn't trying to be reality—it's a heightened emotional state visualized.
 
-The camera work reinforces this. In the opening, there's this handheld shakiness that makes you feel the instability of the "wind" phase. But as the video progresses and the members gain control over their chaos, the camera stabilizes too. By the end, when they're all crammed in that tiny car, the shot is smooth and serene.
-
-The scale play is particularly smart. When they're feeling overwhelmed, they're dwarfed by giant objects. When they're in control, they're commanding miniature sets. It's visual shorthand for how overwhelming emotions can make you feel small or powerful depending on your relationship to them.
+The scale play is particularly smart. When they're feeling overwhelmed, they're dwarfed by giant objects. When they're in control, they're commanding the space. It's visual shorthand for how overwhelming emotions can make you feel small or powerful depending on your relationship to them.
 
 And those colors—cool blues and whites for anxiety (wind), warm oranges and reds for passion (fire), deep blues and greens for comfort (earth). The color grading does so much storytelling work without a single word of dialogue.
 
@@ -164,7 +179,7 @@ And those colors—cool blues and whites for anxiety (wind), warm oranges and re
 
 Here's what I love about the choreo: I could probably learn it.
 
-Not because it's simple—it's not. But because the key moves are intuitive. The wind gesture at **0:25** with those sweeping arms? You don't need to be a trained dancer to understand what that represents. The fire pops at **1:08**? Clear visual metaphor.
+Not because it's simple—it's not. But because the key moves are intuitive. The wind gesture with those sweeping arms? You don't need to be a trained dancer to understand what that represents. The fire pops? Clear visual metaphor.
 
 This accessibility was absolutely intentional. A year later, you can still find people doing the "Earth, Wind & Fire" challenge on TikTok because the moves are memorable without being impossible. That's rare in K-pop, where choreography is often designed to showcase technical skill above all else.
 
@@ -206,6 +221,20 @@ And practically speaking, fans got a song that holds up. A year later, it's stil
   <summary class="faq-question">How is ZICO's influence seen in the song and MV?</summary>
   <div class="faq-answer">
     <p>ZICO's production signature is all over this track—that high-tension buildup followed by smooth melodic release is straight from his Block B playbook. But more importantly, his philosophy of encouraging member participation in songwriting shaped the entire project. He created an environment where Riwoo, Taesan, and Woonhak felt empowered to write lyrics that actually sound like how they speak, which gives the track its authentic voice.</p>
+  </div>
+</details>
+
+<details class="faq-item">
+  <summary class="faq-question">Why do fans keep correcting the lyrics at 1:53?</summary>
+  <div class="faq-answer">
+    <p>Multiple fans pointed out that the line is "baby baby make me feel so **lit**" not "good" as shown in the original video captions. This became a community moment—fans knowing the actual lyrics better than the official source. The word choice matters because "lit" captures that Gen Z energy and excitement in a way "good" simply doesn't.</p>
+  </div>
+</details>
+
+<details class="faq-item">
+  <summary class="faq-question">What's special about the 1:09 part that fans keep mentioning?</summary>
+  <div class="faq-answer">
+    <p>The "Baby boo, my sweetie darling, think I love you more" rapid-fire section became legendary among fans. Taesan reportedly took 27 takes to nail it, and they perform it live with full choreography. It's become a defining moment of the song—technically challenging, incredibly catchy, and proof of their commitment to live vocals over easy solutions.</p>
   </div>
 </details>
 
