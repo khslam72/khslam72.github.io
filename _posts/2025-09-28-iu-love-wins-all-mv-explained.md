@@ -201,7 +201,7 @@ In a desolate, post-apocalyptic world, IU and V are fugitives on the run from a 
     "interactionStatistic": {
       "@type": "InteractionCounter",
       "interactionType": { "@type": "http://schema.org/WatchAction" },
-      "userInteractionCount": 100000000 
+      "userInteractionCount": 100000000
     }
   }
 }
@@ -209,33 +209,33 @@ In a desolate, post-apocalyptic world, IU and V are fugitives on the run from a 
 
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What does the cube in IU's 'Love wins all' MV symbolize?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "According to the director, Uhm Tae-hwa, the cube symbolizes \"the various forms of discrimination and oppression present in our daily lives.\" It's intentionally left ambiguous to represent any force, societal or otherwise, that seeks to marginalize or erase individuals, making the story's themes universally relatable."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the meaning behind the camcorder in the music video?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The camcorder represents the \"filter of love.\" It shows the world not as it is, but as it could be, filled with warmth, happiness, and beauty. Director Uhm Tae-hwa explained it as a device that allows the characters to see beyond their harsh reality to a more idealized version of the world and themselves, reflecting the power of a loving perspective."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the core message of \"Love wins all\"?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The core message is that love's \"win\" isn't necessarily about overcoming all obstacles or achieving a happy ending. Instead, it's about the defiant choice to love and find joy in the face of overwhelming adversity. The victory lies in maintaining one's humanity and choosing companionship until the very end, thereby defining one's own ending rather than letting the oppressive world define it for you."
-      }
-    }
-  ]
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does the cube in IU's 'Love wins all' MV symbolize?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to the director, Uhm Tae-hwa, the cube symbolizes \"the various forms of discrimination and oppression present in our daily lives.\" It's intentionally left ambiguous to represent any force, societal or otherwise, that seeks to marginalize or erase individuals, making the story's themes universally relatable."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the meaning behind the camcorder in the music video?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The camcorder represents the \"filter of love.\" It shows the world not as it is, but as it could be, filled with warmth, happiness, and beauty. Director Uhm Tae-hwa explained it as a device that allows the characters to see beyond their harsh reality to a more idealized version of the world and themselves, reflecting the power of a loving perspective."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the core message of \"Love wins all\"?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The core message is that love's \"win\" isn't necessarily about overcoming all obstacles or achieving a happy ending. Instead, it's about the defiant choice to love and find joy in the face of overwhelming adversity. The victory lies in maintaining one's humanity and choosing companionship until the very end, thereby defining one's own ending rather than letting the oppressive world define it for you."
+      }
+    }
+  ]
 }
 </script>
