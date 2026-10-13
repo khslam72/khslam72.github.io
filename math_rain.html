@@ -1166,12 +1166,103 @@
       return { qText, ans };
     }
 
+    // [학년별 다양화] 기존 출제 유형에 더해 섞이는 추가 문제 유형 (매번 난수로 동적 생성)
+    function generateExtraProblem(grade) {
+      const R = (min, max) => Math.floor(Math.random() * (max - min + 1)) + min;
+      const pick = arr => arr[Math.floor(Math.random() * arr.length)];
+      const sg = () => (Math.random() < 0.5 ? -1 : 1);
+      const par = n => (n < 0 ? `(${n})` : `${n}`);
+      const types = [];
+
+      if (grade === 1) {
+        types.push(() => { const a = R(1, 9), b = R(1, 9); return { qText: `${a} + □ = ${a + b}`, ans: b }; });
+        types.push(() => { const a = R(2, 9), b = R(1, 9); return { qText: `□ - ${b} = ${a}`, ans: a + b }; });
+        types.push(() => { const a = R(1, 6), b = R(1, 6), c = R(1, 6); return { qText: `${a} + ${b} + ${c} = ?`, ans: a + b + c }; });
+        types.push(() => { const a = R(1, 9); return { qText: `10 + ${a} = ?`, ans: 10 + a }; });
+        types.push(() => { const a = R(11, 19), b = R(1, 9); return { qText: `${a} - ${b} = ?`, ans: a - b }; });
+        types.push(() => { const a = R(5, 9), b = R(2, 9), c = R(1, 4); return { qText: `${a} + ${b} - ${c} = ?`, ans: a + b - c }; });
+      } else if (grade === 2) {
+        types.push(() => { const a = R(15, 58), b = R(15, 38); return { qText: `${a} + ${b} = ?`, ans: a + b }; });
+        types.push(() => { const b = R(12, 39), a = R(b + 5, 99); return { qText: `${a} - ${b} = ?`, ans: a - b }; });
+        types.push(() => { const a = R(2, 9), b = R(2, 9); return { qText: `□ × ${a} = ${a * b}`, ans: b }; });
+        types.push(() => { const a = R(2, 9), b = R(2, 9), c = R(1, 9); return { qText: `${a} × ${b} + ${c} = ?`, ans: a * b + c }; });
+        types.push(() => { const a = R(11, 89); return { qText: `100 - ${a} = ?`, ans: 100 - a }; });
+        types.push(() => { const a = R(2, 5), b = R(2, 5), c = R(2, 5); return { qText: `${a} × ${b} × ${c} = ?`, ans: a * b * c }; });
+      } else if (grade === 3) {
+        types.push(() => { const a = R(3, 9), b = R(12, 49); return { qText: `${a} × ${b} = ?`, ans: a * b }; });
+        types.push(() => { const b = R(3, 9), q = R(12, 29); return { qText: `${b * q} ÷ ${b} = ?`, ans: q }; });
+        types.push(() => { const a = R(120, 650), b = R(100, 340); return { qText: `${a} + ${b} = ?`, ans: a + b }; });
+        types.push(() => { const b = R(110, 340), a = R(b + 100, 990); return { qText: `${a} - ${b} = ?`, ans: a - b }; });
+        types.push(() => { const a = R(2, 9), b = R(2, 9), c = R(2, 9); return { qText: `(${a} + ${b}) × ${c} = ?`, ans: (a + b) * c }; });
+        types.push(() => { const b = R(3, 9), q = R(3, 9), r = R(1, b - 1); return { qText: `${b * q + r} ÷ ${b}의 나머지 = ?`, ans: r }; });
+        types.push(() => { const a = R(2, 9), b = R(2, 9), c = R(2, 9), d = R(2, 9); return { qText: `${a} × ${b} + ${c} × ${d} = ?`, ans: a * b + c * d }; });
+      } else if (grade === 4) {
+        types.push(() => { const a = R(2, 9), b = R(2, 9), c = R(2, 9); return { qText: `${a} + ${b} × ${c} = ?`, ans: a + b * c }; });
+        types.push(() => { const c = R(2, 6), q = R(2, 9), a = R(2, 20), k = R(2, 9); return { qText: `(${a + c * q} - ${a}) ÷ ${c} + ${k} = ?`, ans: q + k }; });
+        types.push(() => { const g = pick([2, 3, 4, 5, 6]); const p = pick([[2, 3], [3, 4], [2, 5], [3, 5], [4, 5]]); return { qText: `${p[0] * g}와 ${p[1] * g}의 최소공배수 = ?`, ans: p[0] * p[1] * g }; });
+        types.push(() => { const a = R(11, 49), k = R(3, 9); return { qText: `${a}의 ${k}배 = ?`, ans: a * k }; });
+        types.push(() => { const m = R(10, 40), d = R(1, 3) * 5; return { qText: `${m - d}, ${m}, ${m + d}의 평균 = ?`, ans: m }; });
+        types.push(() => { const a = R(6, 15), b = R(4, 12); return { qText: `가로 ${a}, 세로 ${b}인 직사각형의 넓이 = ?`, ans: a * b }; });
+      } else if (grade === 5) {
+        types.push(() => { const den = pick([3, 4, 5, 6, 8]), num = R(1, den - 1), k = R(2, 9); return { qText: `${den * k}의 ${num}/${den} = ?`, ans: num * k }; });
+        types.push(() => { const d = pick([0.2, 0.4, 0.5, 0.6, 0.8]), q = R(3, 20); return { qText: `${Math.round(d * q * 10) / 10} ÷ ${d} = ?`, ans: q }; });
+        types.push(() => { const p = pick([25, 40, 50, 75, 80]), b = pick([20, 40, 60, 80, 100, 120, 160, 200]); return { qText: `${b * p / 100}은 ${b}의 몇 %?`, ans: p }; });
+        types.push(() => { const a = R(2, 9), b = R(2, 9), c = R(2, 9); return { qText: `가로 ${a}, 세로 ${b}, 높이 ${c}인 직육면체의 부피 = ?`, ans: a * b * c }; });
+        types.push(() => { const k = pick([0.25, 0.5, 0.75, 1.5]), n = pick([4, 8, 12, 16, 20, 40, 80]); return { qText: `${k} × ${n} = ?`, ans: Math.round(k * n * 100) / 100 }; });
+        types.push(() => { const a = R(2, 9), b = R(2, 9), q = R(2, 9); return { qText: `${a * b} : ${a} = □ : ${q}`, ans: b * q }; });
+        types.push(() => { const r = R(2, 12); return { qText: `반지름 ${r}인 원의 지름 = ?`, ans: r * 2 }; });
+      } else if (grade === 6) {
+        types.push(() => { const x = R(2, 15) * sg(), a = R(3, 14); return { qText: `x + ${a} = ${x + a}일 때 x = ?`, ans: x }; });
+        types.push(() => { const a = R(2, 9), x = R(2, 9) * sg(); return { qText: `${a}x = ${a * x}일 때 x = ?`, ans: x }; });
+        types.push(() => { const a = R(2, 6), b = R(1, 9), x = R(2, 9); return { qText: `${a}x - ${b} = ${a * x - b}일 때 x = ?`, ans: x }; });
+        types.push(() => { const a = R(1, 15) * sg(), b = R(1, 15) * sg(); return { qText: `|${par(a)}| + |${par(b)}| = ?`, ans: Math.abs(a) + Math.abs(b) }; });
+        types.push(() => { const a = R(1, 9) * sg(), b = R(2, 6), c = R(2, 6) * sg(); return { qText: `${par(a)} + ${b} × ${par(c)} = ?`, ans: a + b * c }; });
+        types.push(() => { const a = R(2, 5), b = R(2, 5); return { qText: `${a}의 ${b}제곱 = ?`, ans: Math.pow(a, b) }; });
+        types.push(() => { const a = R(1, 9), b = R(1, 9), c = R(1, 9); return { qText: `${par(-a)} - ${par(-b)} + ${c} = ?`, ans: -a + b + c }; });
+      } else if (grade === 7) {
+        types.push(() => { const a = R(2, 6), b = R(1, 12), x = R(1, 10) * sg(); return { qText: `${a}x + ${b} = ${a * x + b}일 때 x = ?`, ans: x }; });
+        types.push(() => { const a = R(2, 5), b = R(1, 9), x = R(-4, 6); return { qText: `x = ${x}일 때 ${a}x + ${b} = ?`, ans: a * x + b }; });
+        types.push(() => { const x = R(2, 6); return { qText: `x = ${x}일 때 x² - ${x} = ?`, ans: x * x - x }; });
+        types.push(() => { const t = pick([[3, 4, 5], [5, 12, 13], [6, 8, 10], [8, 15, 17], [9, 12, 15]]); return { qText: `직각삼각형의 두 변 ${t[0]}, ${t[1]}일 때 빗변 = ?`, ans: t[2] }; });
+        types.push(() => { const a = R(30, 80), b = R(30, 80); return { qText: `삼각형의 두 내각이 ${a}°, ${b}°일 때 나머지 내각 = ?`, ans: 180 - a - b }; });
+        types.push(() => { const SUP = ['⁰','¹','²','³','⁴','⁵','⁶']; const a = R(2, 4), b = R(2, 4), c = R(2, 3); return { qText: `${a}${SUP[b]} × ${a}${SUP[c]} = ?`, ans: Math.pow(a, b + c) }; });
+        types.push(() => { const n = pick([5, 6, 7, 8, 9, 10]); return { qText: `${n}각형의 대각선 개수 = ?`, ans: n * (n - 3) / 2 }; });
+      } else {
+        types.push(() => { let r1, r2; do { r1 = R(-6, 7); r2 = R(-6, 7); } while (r1 === r2 || r1 + r2 === 0 || r1 === 0 || r2 === 0); const S = -(r1 + r2), p = r1 * r2; return { qText: `x² ${S < 0 ? '-' : '+'} ${Math.abs(S)}x ${p < 0 ? '-' : '+'} ${Math.abs(p)} = 0의 큰 근 = ?`, ans: Math.max(r1, r2) }; });
+        types.push(() => { const a = R(2, 12), b = R(2, 12); return { qText: `√${a * a} + √${b * b} = ?`, ans: a + b }; });
+        types.push(() => { const a = R(2, 9), k = R(2, 8); return { qText: `(√${a})² × ${k} = ?`, ans: a * k }; });
+        types.push(() => { const x = R(2, 6), a = R(1, 5); return { qText: `x = ${x}일 때 (x + ${a})(x - ${a}) = ?`, ans: x * x - a * a }; });
+        types.push(() => { const x = R(1, 6), b = R(1, 6), c = R(1, 5); return { qText: `y = x² - ${b}x + ${c}에서 x = ${x}일 때 y = ?`, ans: x * x - b * x + c }; });
+        types.push(() => { const t = pick([[3, 4, 5], [5, 12, 13], [6, 8, 10], [8, 15, 17], [7, 24, 25], [9, 12, 15]]); return { qText: `직각삼각형의 빗변 ${t[2]}, 한 변 ${t[0]}일 때 다른 한 변 = ?`, ans: t[1] }; });
+        types.push(() => { const a = R(20, 80); return { qText: `원주각 ${a}°에 대한 중심각 = ?`, ans: a * 2 }; });
+        types.push(() => { const a = R(2, 9), b = R(2, 9); return { qText: `${a}² + ${b}² = ?`, ans: a * a + b * b }; });
+      }
+
+      // 유효하지 않은 값이 나오면 다시 뽑는다
+      for (let i = 0; i < 20; i++) {
+        const r = pick(types)();
+        if (!Number.isFinite(r.ans)) continue;
+        return { qText: r.qText, ans: r.ans };
+      }
+      return null;
+    }
+
     function createSingleProblem(grade = selectedGrade) {
       let a, b, op, ans, qText;
       let isRootType = false;
       let customOptions = null;
 
-      if (grade === 1) {
+      // 학년별 추가 유형: 약 55% 확률로 확장 문제 출제 (중1은 초6/중1 50:50 교차 구조 유지)
+      let extra = null;
+      if (Math.random() < 0.55) {
+        extra = generateExtraProblem(grade === 6 ? (stageUsedQuestions.size % 2 === 1 ? 6 : 5) : grade);
+      }
+
+      if (extra) {
+        qText = extra.qText;
+        ans = extra.ans;
+
+      } else if (grade === 1) {
         // [초등 1학년]: 10의 보수 및 1~20 이내 한 자리 덧셈·뺄셈
         op = Math.random() > 0.4 ? '+' : '-';
         if (op === '+') {
