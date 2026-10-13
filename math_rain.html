@@ -1202,8 +1202,8 @@
         add(() => { const a = R(2, 9), b = R(2, 9), c = R(1, 9); return { qText: `${a} × ${b} + ${c} = ?`, ans: a * b + c }; });
         add(() => { const a = R(1, 9) * 10; return { qText: `100 - ${a} = ?`, ans: 100 - a }; });
       } else if (grade === 3) {
-        add(() => { const a = R(2, 6), b = R(11, 29); return { qText: `${a} × ${b} = ?`, ans: a * b }; });
-        add(() => { const b = R(2, 9), q = R(11, 19); return { qText: `${b * q} ÷ ${b} = ?`, ans: q }; });
+        add(() => { const a = R(2, 5), b = R(11, 19); return { qText: `${a} × ${b} = ?`, ans: a * b }; });
+        add(() => { const b = R(2, 6), q = R(11, 15); return { qText: `${b * q} ÷ ${b} = ?`, ans: q }; });
         add(() => { const a = R(1, 8) * 100 + R(1, 9) * 10, b = R(1, 9) * 100; return { qText: `${a} + ${b} = ?`, ans: a + b }; });
         add(() => { const b = R(1, 5) * 100, a = b + R(1, 5) * 100 + R(1, 9) * 10; return { qText: `${a} - ${b} = ?`, ans: a - b }; });
         add(() => { const a = R(2, 9), b = R(2, 9), c = R(2, 5); return { qText: `(${a} + ${b}) × ${c} = ?`, ans: (a + b) * c }; });
@@ -1316,10 +1316,9 @@
         const rand = Math.random();
         if (rand < 0.45) {
           // 19단 곱셈 암산 (11×11 ~ 19×19, 초등이므로 지수 제곱수 대신 × 표기)
-          const n1 = Math.floor(Math.random() * 9) + 11;  // 11 ~ 19
-          const n2 = Math.floor(Math.random() * 5) + 11;  // 11 ~ 15
-          ans = n1 * n2;
-          qText = Math.random() < 0.5 ? `${n1} × ${n2} = ?` : `${n2} × ${n1} = ?`;
+          const n = Math.floor(Math.random() * 9) + 11;
+          ans = n * n;
+          qText = `${n} × ${n} = ?`;
         } else if (rand < 0.70) {
           // 구구단 역연산 나눗셈
           b = Math.floor(Math.random() * 8) + 2;
